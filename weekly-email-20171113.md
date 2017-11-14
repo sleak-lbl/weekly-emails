@@ -83,7 +83,7 @@ learning and science at scale; a workshop and a BOF on Women in HPC; workshops o
 Python for scientific computing and HPC training; and much more.
 
 For more information on NERSC's participation please see
-http://cs.lbl.gov/news-media/news/2017/berkeley-lab-staff-to-instruct-inform-and-demonstrate-expertise-at-sc17/
+<http://cs.lbl.gov/news-media/news/2017/berkeley-lab-staff-to-instruct-inform-and-demonstrate-expertise-at-sc17/>
 (which includes all of LBL in addition to NERSC).
 
 
@@ -91,7 +91,7 @@ http://cs.lbl.gov/news-media/news/2017/berkeley-lab-staff-to-instruct-inform-and
 
 One week from today, on Monday November 20, the Jupyter notebook service that runs on Cori will be migrated to new infrastructure.  The URL will not change (jupyter-dev.nersc.gov) but the service will be upgraded to a new JupyterHub version.  New notebooks spawned by the Hub will have Python kernels derived from the Python 2.7-anaconda-4.4 and 3.6-anaconda-4.4 modules on Cori.  In addition, an R kernel has been added, leveraging the Anaconda r-essentials package.
 
-A similar migration and upgrade for jupyter.nersc.gov (AKA ipython.nersc.gov) is planned for a few weeks later.  Users will be advised at least one week in advance.  Early user tests so far indicate that this migration and upgrade process is not disruptive to user's existing notebooks. 
+A similar migration and upgrade for <http://jupyter.nersc.gov> (AKA <http://ipython.nersc.gov>) is planned for a few weeks later.  Users will be advised at least one week in advance.  Early user tests so far indicate that this migration and upgrade process is not disruptive to user's existing notebooks. 
 
 
 ## Platform for Advanced Scientific Computing (PASC18) Inviting Submissions <a name="pasc18"/> ##
@@ -100,13 +100,13 @@ The Platform for Advanced Scientific Computing (PASC) conference is inviting
 submissions of minisymposia, papers, and posters for the PASC18 Conference,
 co-sponsored by the Association for Computing Machinery (ACM) and SIGHPC, which will
 be held in Basel, Switzerland, from July 2-4, 2018. The theme of PASC18 is Fast and
-Big Data, Fast and Big Computation. Submission deadline is November 26. For more info see:
-pasc18.pasc-conference.org/submission/submissions-portal/
+Big Data, Fast and Big Computation. Submission deadline is November 26. For more info see: 
+<http://pasc18.pasc-conference.org/submission/submissions-portal/>
 
 
 ## MySQL Databases on scidb1/nerscdb01 are moving to nerscdb04 <a name="mysql"/> ##
 
-On **November 29** from 09:00 to 17:00 MySQL databases on scidb1 (AKA nerscdb01) will be unavailable as they are migrated to a new host. After this date these dbs should be accessed only from the new nerscdb04.nersc.gov host. Users of these services should have received an email with this info, please contact us with any issues.
+On **November 29** from 09:00 to 17:00 MySQL databases on scidb1 (AKA nerscdb01) will be unavailable as they are migrated to a new host. After this date these dbs should be accessed only from the new <http://nerscdb04.nersc.gov> host. Users of these services should have received an email with this info, please contact us with any issues.
 
 
 ## IDEAS Webinar: Best Practices for HPC Software Developers Series <a name="ideas"/> ##
@@ -115,10 +115,10 @@ The IDEAS Productivity project, in partnership with the DOE Computing Facilities
 
 ### Better Scientific Software, December 6 ###
 
-The next webinar in the series will take place on December 6, 2017 and is titled “Better Scientific Software”. 
-URL:  https://www.exascaleproject.org/event/bssw/
+The next webinar in the series will take place on December 6, 2017 and is titled **Better Scientific Software**.   
+URL:  <https://www.exascaleproject.org/event/bssw/>
  
-Better Scientific Software (BSSw) is an organization dedicated to improving developer productivity and software sustainability for computational science and engineering (CSE).  This presentation will introduce the BSSw website (to be launched at SC17)—a new community-based resource for scientific software improvement exchange.  We’re creating a clearinghouse to gather, discuss, and disseminate experiences, techniques, tools, and other resources to improve software productivity and sustainability for CSE. Site users can find information on scientific software topics and can propose to curate or create new content based on their own experiences. The backend enables collaborative content development using standard GitHub tools and processes.  We need your contributions to build the BSSw site into a vibrant resource, with content and editorial processes provided by volunteers throughout the international CSE community.
+Better Scientific Software (BSSw) is an organization dedicated to improving developer productivity and software sustainability for computational science and engineering (CSE).  This presentation will introduce the BSSw website (to be launched at SC17) - a new community-based resource for scientific software improvement exchange.  We're creating a clearinghouse to gather, discuss, and disseminate experiences, techniques, tools, and other resources to improve software productivity and sustainability for CSE. Site users can find information on scientific software topics and can propose to curate or create new content based on their own experiences. The backend enables collaborative content development using standard GitHub tools and processes.  We need your contributions to build the BSSw site into a vibrant resource, with content and editorial processes provided by volunteers throughout the international CSE community.
  
 
 ## ERCAP Awards Announcement on December 8 <a name="ercap"/> ##
@@ -129,7 +129,7 @@ NERSC will announce the awards to successful PIs on or about December 8, 2017.
 
 ## Performance Portability with Kokkos Bootcamp January 16-18, 2018 <a name="kokkos"/> ##
 
-URL:  https://www.exascaleproject.org/event/kokkosbc/
+URL:  <https://www.exascaleproject.org/event/kokkosbc>
 The ECP Kokkos project team will host a Kokkos training event on January 16-18. This training will cover the minimum required topics to get your application started on using Kokkos. Registration is limited.
 
 - What is Kokkos? Kokkos is a programming model and library and for writing performance portable code in C++. It includes abstractions for on-node parallel execution and data layout. These abstractions are mapped at compile time to fit a devices architecture for best performance. It uses standard C++  in the same spirit as libraries such at Thrust and Thread Building Blocks.
@@ -151,8 +151,8 @@ The default version of HDF5 has been updated on Cori and Edison from 11.8.16 to 
 Users should recompile any codes that use the HDF5 libraries. While existing HDF5
 files can still be read, new files generated by 1.10 might not be readable with
 earlier versions of the libraries. Other known issues and solutions pertaining to
-HDF5 are documented on the NERSC website at
-http://www.nersc.gov/users/data-analytics/data-management/i-o-libraries/hdf5-2/hdf5/
+HDF5 are documented on the NERSC website at 
+<http://www.nersc.gov/users/data-analytics/data-management/i-o-libraries/hdf5-2/hdf5/>
 
 
 ## Try the Interactive Queue on Cori; Node Limit Increased to 64 <a name="interactive"/> ##
@@ -167,19 +167,20 @@ for up to 4 hours and get access to them within one minute. We've reserved 192
 Haswell nodes and 192 KNL nodes just for this capability. Please use this limited
 resource only for situations where interactive use and fast feedback are required.
 
-To run an interactive job on Cori, simply use "salloc" as normal, with the addition
-of "--qos=interactive" to indicate the interactive partition. You can use the usual
-"-C haswell" or "-C KNL" flags to select node type, as well as all other regular
-salloc flags ("-t", etc.). Currently only quad cache mode is available in the KNL
+To run an interactive job on Cori, simply use `salloc` as normal, with the addition
+of `--qos=interactive` to indicate the interactive partition. You can use the usual
+`-C haswell` or `-C KNL` flags to select node type, as well as all other regular
+salloc flags (`-t`, etc.). Currently only quad cache mode is available in the KNL
 interactive partition.
 
-For more information, please see
-https://www.nersc.gov/users/computational-systems/cori/running-jobs/interactive-jobs/
-. Please submit a ticket to the consultants, via help.nersc.gov, my.nersc.gov, or
-consult@nersc.gov, with any feedback or questions.
+For more information, please see 
+<https://www.nersc.gov/users/computational-systems/cori/running-jobs/interactive-jobs/>
+. Please submit a ticket to the consultants, via [ServiceNow](http://help.nersc.gov), 
+[my.nersc.gov](https://my.nersc.gov/tickets.php), or
+<mailto:consult@nersc.gov>, with any feedback or questions.
 
 
-## Max Walltime for Large Cori KNL Jobs Now 24 Hours <a name="max-walltime\> ##
+## Max Walltime for Large Cori KNL Jobs Now 24 Hours <a name="max-walltime"/> ##
 
 NERSC has increased the maximum walltime for large jobs using more than 1024 KNL
 nodes to 24 hours (up from 12 hours). 
@@ -192,7 +193,7 @@ NERSC, requires that a limited set of information relating to your user
 project/experiment be transmitted to SC at the conclusion of each fiscal year.  A
 subset of this information, including your name, institutional affiliation(s), and
 project title(s), will be publicly disseminated as part of an SC user facility user
-projects/experiments database on the SC website, http://science.energy.gov, after the
+projects/experiments database on the SC website, <http://science.energy.gov>, after the
 conclusion of the fiscal year.
 
 

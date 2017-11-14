@@ -63,5 +63,5 @@ cat >> ${f}.email << EOF
 --asdfghjkl--
 EOF
 
-#$show /usr/sbin/sendmail -i -t < ${f}.email
+$show /usr/sbin/sendmail -i -t < ${f}.email
 
