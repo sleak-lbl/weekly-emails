@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # edit these as appropriate:
-from="From: Stephen Leak <sleak@lbl.gov>"
+from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"
 # test settings:
-to="To: sleak75@gmail.com"
-bcc="Bcc: sleak@lbl.gov"
+to="To: hartmanbaker@gmail.com"
+bcc="Bcc: rjhartmanbaker@lbl.gov" 
 # real settings:
 real_to="To: users@nersc.gov"
 real_bcc=", barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
