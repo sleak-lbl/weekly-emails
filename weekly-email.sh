@@ -1,10 +1,13 @@
 #!/bin/bash
 
 # edit these as appropriate:
-from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"
+#from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"
+from="From: Steve Leak <sleak@lbl.gov>"
 # test settings:
-to="To: hartmanbaker@gmail.com"
-bcc="Bcc: rjhartmanbaker@lbl.gov" 
+#to="To: hartmanbaker@gmail.com"
+#bcc="Bcc: rjhartmanbaker@lbl.gov" 
+to="To: sleak75@gmail.com"
+bcc="Bcc: sleak@lbl.gov" 
 # real settings:
 real_to="To: users@nersc.gov"
 real_bcc=", barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
@@ -44,6 +47,7 @@ Content-Type: multipart/alternative; boundary=asdfghjkl
 
 --asdfghjkl
 Content-Type: text/plain; charset=utf-8
+
 EOF
 
 # add the plain text (markdown) part
@@ -52,6 +56,7 @@ cat ${f}.md >> ${f}.email
 cat >> ${f}.email << EOF
 --asdfghjkl
 Content-Type: text/html; charset=utf-8
+
 EOF
 
 # generate and add the html part:
