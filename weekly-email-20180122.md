@@ -6,6 +6,7 @@
 - [Call for Proposals: High-Impact Science at Scale on Cori](#his)
 - [How are we doing? How can we improve? Please fill out our Annual NERSC User Survey](#usersurvey)
 - [Help NERSC Help You: Take Our Website Survey!](#web)
+- [OpenMP Common Core training this February](#omp)
 - [Recompilation on Edison and Cori Recommended](#recompile)
 - [Update on Meltdown/Spectre Vulnerabilities](#meltdown)
 - [NX Upgrade Requires New Client to Connect](#nxupgrade)
@@ -98,6 +99,19 @@ NERSC is planning to reorganize the content of our website in an effort to impro
 and we need your feedback! Please take our website survey at this URL: 
 <https://goo.gl/forms/qZkid3iEqpROp6Ow2>
 
+
+## OpenMP Common Core training this February <a name="omp"/> ##
+
+OpenMP is a large and complicated standard, but most OpenMP programs need only 16 items from 
+the specification, known as the OpenMP Common Core. In February NERSC will hold a hands-on tutorial 
+on the OpenMP Common Core, which will help attendees to master the common core and use OpenMP in
+their own projects. 
+
+The tutorial can be attended in person or remotely via Zoom - information and registration is
+at <https://www.nersc.gov/users/training/events/openmp-common-core-february-2018/>
+
+The exact dates and times will be announced soon, please check the tutorial page above and 
+next week's weekly email for updates.
 
 ## Recompilation on Edison and Cori Recommended <a name="recompile"/> ##
 
