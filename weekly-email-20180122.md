@@ -1,4 +1,4 @@
-# NERSC Weekly Email, Week of January 16, 2018 #
+# NERSC Weekly Email, Week of January 22, 2018 #
 
 ## Contents ## 
 
@@ -25,33 +25,35 @@
           1   2   3   4   5   6    
       7   8   9  10  11  12  13   
      14  15  16  17  18  19  20   
-     21  22  23  24  25  26  27
+     21  22  23 *24* 25  26  27   24 Jan 9:00-15:00 HPSS outage [1]
+                                  26 Jan            Survey closes [2]
      28  29  30  31
 
         February 2018
      Su  Mo  Tu  We  Th  Fr  Sa
-                     *1*  2   3    1 Feb          ALCC props due [5]
-      4   5  *6*  7   8   9  10    6 Feb          NERSC-wide outage [6]
+                     *1*  2   3    1 Feb          ALCC props due [3]
+      4   5  *6*  7   8   9  10    6 Feb          NERSC-wide outage [4]
      11  12  13  14  15  16  17
-     18 *19* 20  21  22  23  24   19 Feb          Pres Day [2]
-     25 *26--27--28-              26 Feb - 2 Mar  BNL Hackathon [7]
+     18 *19* 20  21  22  23  24   19 Feb          Pres Day [5]
+     25 *26--27--28-              26 Feb - 2 Mar  BNL Hackathon [6]
+                                  28 Feb          ATPESC appls due [7]
 
        March 2018
      Su  Mo  Tu  We  Th  Fr  Sa
-                     -1---2*  3   26 Feb - 2 Mar  BNL Hackathon [7]
+                     -1---2*  3   26 Feb - 2 Mar  BNL Hackathon [6]
       4   5   6   7   8   9  10
      11  12  13  14  15  16  17
      18  19  20  21  22  23  24
      25  26  27  28  29  30  31
 
 Notes:
-1. **8 Jan**: End of ERCAP year 2017
-2. **15 Jan** and **19 Feb**: NERSC scheduled holidays - no Consulting or Account Support
+1. **6 Feb**: [NERSC Scheduled Maintenance](#outages)
+2. **19 Feb**: President's Day holiday - no Consulting or Account Support
 3. **16-16 Jan**: [Kokkos bootcamp](https://www.exascaleproject.org/event/kokkosbc)
-4. **18 Jan 11am**: [NUG Monthly Webinar](#nug)
-5. **1 Feb**: [ALCC proposals due](#alcc) 
-6. **6 Feb**: [NERSC Scheduled Maintenance](#outages)
-7. **26 Feb - 2 Mar**: [BNL KNL Hackathon](#bnl)
+4. **1 Feb**: [ALCC proposals due](#alcc) 
+5. **6 Feb**: [NERSC Scheduled Maintenance](#outages)
+6. **26 Feb - 2 Mar**: [BNL KNL Hackathon](#bnl)
+7. **28 Feb**: [ATPESC Applications due](#atpesc)
 8. All times are **Pacific Time zone**
 
 
@@ -151,14 +153,29 @@ Please open a ticket if you have any questions or run into issues.
 
 ## AY2018 Has Begun <a name="enday"/> ##
 
-Last Tuesday marked the beginning of NERSC Allocation Year 2018 (AY2018). Please see
+Allocation Year 2018 (AY2018) is underway. There are some changes in policies 
+since last allocation year - please read 
 <https://www.nersc.gov/users/announcements/allocation-year-rollover-2017-to-2018> for
-notes on the allocation year rolloever and some of the changes this year.
+notes on some of the changes this year.
 
+### Project Membership ###
+New repositories created for AY2018 do not automatically inherit membership from
+a previous, discontinued repository. PIs and PI Proxies can add users to the new 
+repository - see 
+[NIM User's Guide for PIs](https://www.nersc.gov/users/accounts/nim/nim-guide-for-pis/) 
+for instructions. New users may also add themselves to repositories, these 
+user-initiated additions must then be approved by the PI or a PI Proxy.See 
+[How to Get a NERSC Account](https://www.nersc.gov/users/accounts/user-accounts/get-a-nersc-account/#toc-anchor-4)
+for instructions.
+
+### Discontinued Accounts ###
 If your account is not part of a continuing or new repo for AY18, then it is considered 
 discontinued. **Discontinued accounts have login access until February 9**. This is to permit
 discontinued users to clean up their data, not to submit jobs. Discontinued users' scratch 
 directories will be deleted at that time.
+
+After February 9, discontinued users will continue to have access to HPSS, but only for 
+reading and deleting, until August 9, 2018. 
 
 ### NERSC Policy Changes in AY 2018 ###
 
@@ -258,13 +275,10 @@ We know that NERSC users can make great NERSC employees! We look forward to seei
 
 ## Upcoming Outages <a name="outages"/> ##
 
+HPSS User:         01/24/18 9:00-15:00 PST, Scheduled maintenance.
+                    The system will be unavailable during this window of time. 
+
 All NERSC systems  02/06/18 6:00-19:00 PST, NERSC Quarterly maintenance
                     All NERSC systems and filesystems will be unavailable from 6am to 7pm.
-
-HPSS Backup:       01/17/18 9:00-14:00 PST, Scheduled maintenance.
-                    The system will be unavailable during this window of time. 
-
-HPSS User:         01/24/18 9:00-14:00 PST, Scheduled maintenance.
-                    The system will be unavailable during this window of time. 
 
 
