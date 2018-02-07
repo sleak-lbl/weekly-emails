@@ -1,27 +1,20 @@
 
-## Upcoming Outages <a name="outages"/> ##
+## Upcoming Outages ##
 
-HPSS Backup:     01/31/18 9:00-12:00 PST, Scheduled maintenance.
-                  The HPSS systems will not be available due to network
-                  maintenance.
+- Edison /scratch3: **02/05/18 8:00-20:00 PST** Scheduled maintenance.  
+  scratch3 maintenance. Login nodes, /scratch1,
+  /scratch2 will be available and batch jobs will
+  continue to run 
 
-HPSS User:       01/31/18 9:00-12:00 PST, Scheduled maintenance.
-                  The HPSS systems will not be available due to network
-                  maintenance.
+- All NERSC systems: **02/06/18 6:00-18:00 PST** Scheduled maintenance.  
+  NERSC quarterly maintenance. 
+  Cori, Edison, Genepool, PDSF, NX, Data Transfer
+  Nodes, SeqFS, /project, /projecta, /projectb,
+  Global $HOME, Global common, Science Gateways,
+  SPIN, DNA, HPSS User, HPSS Backup
 
-Cori:            02/06/18 6:00-18:00 PST, Scheduled maintenance.
-                  NERSC quarterly maintenance. 
+- Cori, Edison: **02/06/18 6:00 - 02/07/18 10:00 PST** Scheduled maintenance.  
+  cscratch1 update impacting both Cori and Edison
 
-Genepool:        02/06/18 6:00-18:00 PST, Scheduled maintenance.
-                  NERSC quarterly maintenance. 
-
-PDSF:            02/06/18 6:00-18:00 PST, Scheduled maintenance.
-                  NERSC quarterly maintenance. 
-
-Edison:          02/06/18 6:00-18:00 PST, Scheduled maintenance.
-                  NERSC quarterly maintenance. 
-
-NX Services:     02/06/18 6:00-18:00 PST, Scheduled maintenance.
-                  NERSC quarterly maintenance.
 
 

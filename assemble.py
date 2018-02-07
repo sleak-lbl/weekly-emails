@@ -1,4 +1,4 @@
-#!/use/bin/env python
+#!/usr/bin/env python
 
 import re
 item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
@@ -47,7 +47,8 @@ if __name__ == '__main__':
             match = item_re.match(line)
             if match:
                 name = match.group(1)
-...
+                title, text = item(name)
+                item_text += text
                 outfile.write('- [{0}](#{1})\n'.format(title, name))
             else:
                 outfile.write(line)

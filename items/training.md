@@ -1,5 +1,5 @@
 
-## New User Training March 21 at NERSC <a name="training"/> ##
+## New User Training March 21 at NERSC ##
 
 We will hold a one-day training event for new users on Wednesday, March 21, 2017 
 to provide users new to NERSC with the basics for using NERSC systems. Topics 
