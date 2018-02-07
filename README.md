@@ -10,6 +10,12 @@ To use:
 
 3. write a markdown file with the contents of the weekly email (use one 
    of the included ones as a starting point)
+   **UPDATE**: you can partially auto-generate the weekly-email file 
+   by making an 'outline-YYYYMMDD.md' file following the pattern of 
+   one of the ones included here, and putting individual items in files
+   in the items/ subfolder. Then run `assemble.py outline-20180205.md` 
+   to generate a 'weekly-email-20180205.md' - which you can then pass 
+   pass to the `weekly-email.sh` script as before
 
 4. make sure it renders correctly. There are a few options for this:
    - commit and push it back to github, and see how it renders there

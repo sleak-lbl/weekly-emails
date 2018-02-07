@@ -31,10 +31,9 @@ def item(name):
 if __name__ == '__main__':
 
     import sys
-    date = sys.argv[1] # should be a string in YYYYMMDD form
+    infilename = sys.argv[1]
 
-    infilename = 'outline-{0}.md'.format(date)
-    outfilename = 'weekly-email-{0}.md'.format(date)
+    outfilename = 'weekly-email-{0}'.format(infilename.rsplit('-',1)[-1])
 
     import re
     item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
