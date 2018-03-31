@@ -10,7 +10,7 @@ to="To: sleak75@gmail.com"
 bcc="Bcc: sleak@lbl.gov" 
 # real settings:
 real_to="To: users@nersc.gov"
-real_bcc=", barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
+real_bcc=", Carolyn.Lauzon@science.doe.gov, barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
 
 usage="$0 [-n] [--for-real] <input_file.md>"$'\n'
 usage+="   -n            generate the email and show the sendmail command,"$'\n'
