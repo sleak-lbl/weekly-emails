@@ -5,26 +5,27 @@ To use:
 
 1. clone this repo to a location on Cori (or somewhere)
 
-2. update the "to" and "from" variables so you can test by sending to an
-   email address you can read
+2. write an outline file, following one of the examples in past-emails.
+   It has the email headings, calendar and references to items to 
+   include. The items themselves are written in markdown in the items/
+   folder, with the filename of eacjh item corresponding to the reference
+   used in the outline.
+   Call the outline file something like: `outline-YYYYMMDD.md` (replace
+   YYYYMMDD with the send date)
 
-3. write a markdown file with the contents of the weekly email (use one 
-   of the included ones as a starting point)
-   **UPDATE**: you can partially auto-generate the weekly-email file 
-   by making an 'outline-YYYYMMDD.md' file following the pattern of 
-   one of the ones included here, and putting individual items in files
-   in the items/ subfolder. Then run `assemble.py outline-20180205.md` 
-   to generate a 'weekly-email-20180205.md' - which you can then pass 
-   pass to the `weekly-email.sh` script as before
+3. run `weekly-email.sh outline-YYYYMMDD.md`. This will assemble the 
+   outline into a complete markdown file, and from that generate an email
+   with text (markdown) and html parts. The email will use the "testing"
+   email addresses which can be edited in weekly-email.sh
 
-4. make sure it renders correctly. There are a few options for this:
-   - commit and push it back to github, and see how it renders there
-   - run the script like:
-      `./weekly-email.sh my_new_file.md`  
-     This will send the email to the test addresses, so you can check how 
-     it looks in your email client
+4. make sure it renders correctly (ie, check your test email client) 
+   You can sanity check the email source itself too, in 
+   `weekly-email-YYYYMMDD.email`
 
 5. take a deep breath and send it for real:
-     `./weekly-email.sh --for-real my_new_file.md`
+    - note that you'll need to pass the assembled `weekly-email-YYYYMMDD.md`
+      file, not the outline - the script will cowardly refuse to go from 
+      outline to for-real in a single step.
+     `./weekly-email.sh --for-real weekly-email-YYYYMMDD.md`
 
 
