@@ -1,20 +1,18 @@
+## Upcoming Outages 
 
-## Upcoming Outages ##
+Science Gateways: 03/27/18 10:00-13:00 PDT, Scheduled maintenance.
+                  NEWT will be unavailable for 2-3 hours while being migrated to
+                  new hardware.
 
-- Edison /scratch3: **02/05/18 8:00-20:00 PST** Scheduled maintenance.  
-  scratch3 maintenance. Login nodes, /scratch1,
-  /scratch2 will be available and batch jobs will
-  continue to run 
+NIM:             03/28/18 10:30-15:30 PDT, Scheduled maintenance.
+                  NIM will be unavailable for db upgrades.
 
-- All NERSC systems: **02/06/18 6:00-18:00 PST** Scheduled maintenance.  
-  NERSC quarterly maintenance. 
-  Cori, Edison, Genepool, PDSF, NX, Data Transfer
-  Nodes, SeqFS, /project, /projecta, /projectb,
-  Global $HOME, Global common, Science Gateways,
-  SPIN, DNA, HPSS User, HPSS Backup
+Genepool:        05/08/18 7:00-18:00 PDT, Scheduled maintenance.
 
-- Cori, Edison: **02/06/18 6:00 - 02/07/18 10:00 PST** Scheduled maintenance.  
-  cscratch1 update impacting both Cori and Edison
+PDSF:            05/08/18 7:00-18:00 PDT, Scheduled maintenance.
 
+Edison:          05/08/18 7:00-18:00 PDT, Scheduled maintenance.
+
+Cori:            05/08/18 7:00-18:00 PDT, Scheduled maintenance.
 
 
