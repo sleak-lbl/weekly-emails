@@ -13,10 +13,6 @@ Develop HPSS software and help evaluate and shape new storage technologies to me
 help architect, deploy, configure, and maintain large-scale, leading-edge systems of high 
 complexity (e.g., Edison, Cori, and future NERSC systems).
 
-- [Computer Systems Engineer](https://lbl.referrals.selectminds.com/jobs/computer-systems-engineer-412):
-collaborate with scientists and conduct applied research and development, outreach, and training in
-I/O middleware for science.
-
 - [NERSC Exascale Science Applications Postdoctoral Fellow](https://lbl.referrals.selectminds.com/jobs/nersc-exascale-science-applications-postdoctoral-fellow-nesap-303): 
 work in mutidisciplinary teams to transition codes to Cori and produce mission-relevant science that 
 truly pushes the limits of high-end computing.
