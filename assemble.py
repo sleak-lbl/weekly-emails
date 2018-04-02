@@ -63,11 +63,6 @@ if __name__ == '__main__':
     from os.path import isfile, join
     allitems = set([f for f in listdir('items') if isfile(join('items', f))])
     unused = allitems - items
-    print allitems
-    print "used:"
-    print items
-    print "unused:"
-    print unused
     if len(unused) != 0:
         print "Warning: the following items were found in items/ but not used:"
         for i in unused:
