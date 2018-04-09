@@ -11,10 +11,10 @@ for the first sessions to begin in mid-May. **Because SpinUp is hands-on and
 interactive, space will be limited**.
 
 Participants in SpinUp will attend three hands-on sessions and complete
-take-home lessons to learn about the Spin platform, create real running
+take-home lessons to learn about the Spin platform, create running
 services, and learn maintenance and troubleshooting techniques. Local and remote
 participants are welcome.
 
-See [Spin at NERSC](https://www.nersc.gov/users/data-analytics/spin/) to learn 
-more about Spin and apply for SpinUp training.
+See a video of Spin in action and apply for training at 
+[Spin at NERSC](https://www.nersc.gov/users/data-analytics/spin/) 
 
