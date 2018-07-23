@@ -3,22 +3,23 @@
 Visit <http://www.nersc.gov/users/live-status/> for latest status and outage 
 information.
 
-- **Edison**
-    - 04/11/18 7:00 - 04/12/18 19:00 PDT, Scheduled maintenance - OS update.
-    - 05/08/18 7:00-18:00 PDT, Scheduled maintenance.
+- **Cori**            
+    - **08/17/18 8:00-08/21/18 20:00 PDT**, Scheduled maintenance.
 
-- **Cori**
-    - 04/25/18 7:00 - 04/26/18 19:00 PDT, Scheduled maintenance - OS update.
-    - 05/08/18 7:00-18:00 PDT, Scheduled maintenance.
+- **Edison**          
+    - 07/25/18 7:00-19:00 PDT, Scheduled maintenance.
+    - **08/17/18 8:00-08/21/18 20:00 PDT**, Scheduled maintenance.
 
-- **Genepool**
-    - 05/08/18 7:00-18:00 PDT, Scheduled maintenance.
+- **HPSS User**
+    - 07/18/18 9:00-12:00 PDT, Scheduled maintenance.
 
-- **PDSF**
-    - 05/08/18 7:00-18:00 PDT, Scheduled maintenance.
+- **HPSS Backup**
+    - 07/18/18 9:00-10:30 PDT, Scheduled maintenance.
 
-- **HPSS**
-    - 04/11/18 9:00-15:00 PDT Scheduled maintenance.
-
-
-
+- **NERSC Center**
+    - 08/17/18 8:00-08/21/18 20:00 PDT, Scheduled maintenance.
+      The NERSC facility will be conducting power maintenance. **All
+      services will be unavailable for the duration of the maintenance
+      window, including Cori, Edison, Genepool, PDSF, DNA, Global Common,
+      Global Homes, Project, ProjectA, ProjectB, HPSS Backup, and
+      HPSS User.**

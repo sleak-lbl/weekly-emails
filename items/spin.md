@@ -18,3 +18,5 @@ participants are welcome.
 See a video of Spin in action and apply for training at 
 [Spin at NERSC](https://www.nersc.gov/users/data-analytics/spin/) 
 
+Applications close **today**.
+
