@@ -13,6 +13,6 @@ Topics relevant to this workshop include, but are not limited to:
 - Benefits of hardware abstraction and data locality on algorithm 
 implementation.
 
-Submissions are due July 31, 2018. For more information and to submit, please
+Submissions are due **tomorrow, July 31, 2018**. For more information and to submit, please
 see <http://sourceryinstitute.github.io/PAW/>.
 

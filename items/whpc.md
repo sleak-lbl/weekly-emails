@@ -1,4 +1,4 @@
-## Women in HPC Workshop at SC18 Call for Submissions Now Open!
+## Women in HPC Workshop at SC18 Call for Submissions Closes Wednesday
 
 The Women in HPC Workshop at SC18 seeks submissions in the form of extended
 abstracts for short talks to be given during the workshop.  The workshop, which 

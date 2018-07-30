@@ -9,9 +9,16 @@ Develop and support a software and workflow environment to integrate third-party
 software packages into the NERSC HPC programming and runtime environments, and
 automate NERSC's Continuous Integration process.
 
+- [Application Performance Consultant](https://lbl.referrals.selectminds.com/jobs/application-performance-consultant-1010)
+Help prepare large-scale scientific codes for next-generation high performance 
+computing (HPC) systems.
+
 - [High Performance Computing Systems Engineer](https://lbl.referrals.selectminds.com/jobs/high-performance-computing-systems-engineer-934):
-help architect, deploy, configure, and maintain large-scale, leading-edge 
+Help architect, deploy, configure, and maintain large-scale, leading-edge 
 systems of high complexity (e.g., Edison, Cori, and future NERSC systems).
+
+- [Data Science Workflows Architect](https://lbl.referrals.selectminds.com/jobs/data-science-workflows-architect-1007)
+Support scientists at experimental facilities who need to use supercomputing resources at NERSC.
 
 - [Systems Data Scientist](https://lbl.referrals.selectminds.com/jobs/systems-data-scientist-936):
 lead the analysis of extensive systems data to characterize the NERSC workload
@@ -20,10 +27,6 @@ and improve application performance and throughput.
 - [NERSC Exascale Science Applications Postdoctoral Fellow](https://lbl.referrals.selectminds.com/jobs/nersc-exascale-science-applications-postdoctoral-fellow-nesap-922): 
 work in mutidisciplinary teams to transition codes to Cori and produce 
 mission-relevant science that truly pushes the limits of high-end computing.
-
-- [Machine Learning Engineer](https://lbl.referrals.selectminds.com/jobs/machine-learning-engineer-767):
-Support experimental science and advanced analytics via machine learning and
-deep learning techniques on NERSC supercomputers.
 
 - [Facilities Operation Group Lead](https://lbl.referrals.selectminds.com/jobs/facilities-operation-group-lead-762):
 Lead a new team of 2-3 people to design and maintain the physical infrastructure

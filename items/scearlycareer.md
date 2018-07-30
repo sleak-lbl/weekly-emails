@@ -1,4 +1,4 @@
-## Applications for SC18 Early Career Program Close July 31
+## Applications for SC18 Early Career Program Close TOMORROW July 31
 
 Are you in the first five years of a permanent position and in search of
 activities to jump-start your career in High-Performance Computing? If so,

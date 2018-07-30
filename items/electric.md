@@ -1,4 +1,13 @@
-## Combined Electrical Facilities Maintenance and Quarterly Machine Maintenance, August 17-21
+## Major Maintenance Outage August 17-21
+
+The Quarterly Maintenance outage in August will be combined with a triennial 
+electrical maintenance. Consequently **NERSC services will be disrupted from
+Friday , August 17 to Tuesday, August 21** and **no
+services will be available Saturday and Sunday, August 18 and 19**.
+
+Before the mainentance [all DataWarp Persistent Reservations will be removed](#dwreformat).
+After the maintenance existing applications are expected to work as before
+but [we recommend re-linking applications to get the updated system libraries](#coriosupdate).
 
 Every three years, there is a required maintenance on the medium voltage 
 switchgear in the NERSC machine room. This ensures the safety of the building,
@@ -19,7 +28,3 @@ begin bringing machines down on Friday, August 17, and continue with machine
 maintenance on Monday and Tuesday, August 20 and 21, after facility power has
 returned.
 
-In summary, **during the period from Friday, August 17 to Tuesday, August 21,
-NERSC services will be disrupted.** On Friday the 17th and Monday and Tuesday,
-the 20th and 21st, some services may be available some of the time, and **no
-services will be available Saturday and Sunday, August 18 and 19.**
