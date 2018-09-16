@@ -4,25 +4,42 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [Software Integration Specialist/HPC Consultant](https://lbl.referrals.selectminds.com/jobs/software-integration-specialist-hpc-consultant-923):
-Develop and support a software and workflow environment to integrate third-party
-software packages into the NERSC HPC programming and runtime environments, and
-automate NERSC's Continuous Integration process.
+- **New** [Computer Systems Engineer](https://lbl.referrals.selectminds.com/jobs/computer-systems-engineer-1135):
+Join the Data Science Engagement Group in enhancing the scientific productivity
+of groups performing workflows on observational and experimental data.
+
+- **New** [Data Science Engagement Group Leader](https://lbl.referrals.selectminds.com/jobs/data-science-engagement-group-leader-1133):
+Provide strategic and line management direction for the NERSC Data Science 
+Engagement Group.
+
+- [HPC Architecture and Performance Engineer](https://lbl.referrals.selectminds.com/jobs/hpc-architecture-and-performance-engineer-1055):
+Contribute to NERSC's understanding of issues surrounding application and
+computer system performance on extreme-scale, advanced architectures.
+
+- [NERSC Systems Department Head](https://lbl.referrals.selectminds.com/jobs/nersc-systems-department-head-1023):
+Oversee the groups that monitor and maintain the facilities and computational 
+and data systems, and the networking and cybersecurity for NERSC, and provide
+vision and strategic direction for the systems department and NERSC.
 
 - [Application Performance Consultant](https://lbl.referrals.selectminds.com/jobs/application-performance-consultant-1010)
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
 
-- [High Performance Computing Systems Engineer](https://lbl.referrals.selectminds.com/jobs/high-performance-computing-systems-engineer-934):
-Help architect, deploy, configure, and maintain large-scale, leading-edge 
-systems of high complexity (e.g., Edison, Cori, and future NERSC systems).
-
 - [Data Science Workflows Architect](https://lbl.referrals.selectminds.com/jobs/data-science-workflows-architect-1007)
 Support scientists at experimental facilities who need to use supercomputing resources at NERSC.
 
-- [Systems Data Scientist](https://lbl.referrals.selectminds.com/jobs/systems-data-scientist-936):
-lead the analysis of extensive systems data to characterize the NERSC workload
-and improve application performance and throughput.
+- [Application Performance Consultant](https://lbl.referrals.selectminds.com/jobs/application-performance-consultant-1001):
+Work closely with ECP application development teams through the NERSC NESAP
+program to help their codes run well on future HPC systems.
+
+- [Software Integration Specialist/HPC Consultant](https://lbl.referrals.selectminds.com/jobs/software-integration-specialist-hpc-consultant-923):
+Develop and support a software and workflow environment to integrate third-party
+software packages into the NERSC HPC programming and runtime environments, and
+automate NERSC's Continuous Integration process.
+
+- [High Performance Computing Systems Engineer](https://lbl.referrals.selectminds.com/jobs/high-performance-computing-systems-engineer-934):
+Help architect, deploy, configure, and maintain large-scale, leading-edge 
+systems of high complexity (e.g., Edison, Cori, and future NERSC systems).
 
 - [NERSC Exascale Science Applications Postdoctoral Fellow](https://lbl.referrals.selectminds.com/jobs/nersc-exascale-science-applications-postdoctoral-fellow-nesap-922): 
 work in mutidisciplinary teams to transition codes to Cori and produce 
