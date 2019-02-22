@@ -1,4 +1,4 @@
-## Applications Open for Better Scientific Software (BSSw) Fellowship Program
+## Applications for Better Scientific Software (BSSw) Fellowship Program Due Tomorrow!
 
 Do you have something to share with the scientific software community? Do you
 have a passion to learn and teach others about better software? Are you 
@@ -10,6 +10,5 @@ workshop or tutorial, or creating content to engage the scientific software
 community.
 
 For more information and to apply, please see <https://bssw.io/fellowship>.
-There will be an informational webinar this Friday, September 21; please see the
-website for connection details. Applications are due October 16. 
+Applications are due *tomorrow*, October 16. 
 
