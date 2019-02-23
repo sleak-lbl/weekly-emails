@@ -5,7 +5,8 @@ case $USER in
              to="To: hartmanbaker@gmail.com"  
             bcc="Bcc: rjhartmanbaker@lbl.gov" 
             ;;
-    sleak) from="From: Steve Leak <sleak@lbl.gov>" 
+    #sleak) from="From: Steve Leak <sleak@lbl.gov>" 
+    sleak) from="From: Steve Leak <sleak@nersc.gov>" 
              to="To: sleak75@gmail.com" 
             bcc="Bcc: sleak@lbl.gov" 
             ;;
