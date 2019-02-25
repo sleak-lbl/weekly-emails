@@ -12,8 +12,11 @@ information.
     - 03/27/19 7:00-19:00 PDT, Scheduled maintenance.
     - 04/24/19 7:00-19:00 PDT, Scheduled maintenance.
 
-- **HPSS Archive (User)**
-    - 02/20/19 9:00-15:00 PST, Scheduled maintenance.
-
 - **ProjectB**
     - 03/13/19 10:00-13:00 PDT, Scheduled maintenance.
+
+- **JGI Web Servers and Storage**
+    - 03/13/19 9:00-13:00 PDT, Scheduled maintenance.
+
+- **Spin**
+    - 03/13/19 9:00-13:00, PDT Scheduled maintenance.
