@@ -3,13 +3,17 @@
 Visit <http://www.nersc.gov/users/live-status/> for latest status and outage 
 information.
 
-- **HPSS Backup**
-    - 08/01/18 9:00-13:00 PDT, Scheduled maintenance
+- **Cori**
+    - 03/13/19 7:00-19:00 PDT, Scheduled maintenance.
+    - 04/10/19 7:00-19:00 PDT, Scheduled maintenance.
 
-- **NERSC Center**
-    - 08/17/18 8:00-08/21/18 20:00 PDT, Scheduled maintenance.
-      The NERSC facility will be conducting power maintenance. **All
-      services will be unavailable for the duration of the maintenance
-      window, including Cori, Edison, Genepool, PDSF, DNA, Global Common,
-      Global Homes, Project, ProjectA, ProjectB, HPSS Backup, and
-      HPSS User.**
+- **Edison**
+    - 02/27/19 7:00-19:00 PST, Scheduled maintenance.
+    - 03/27/19 7:00-19:00 PDT, Scheduled maintenance.
+    - 04/24/19 7:00-19:00 PDT, Scheduled maintenance.
+
+- **HPSS Archive (User)**
+    - 02/20/19 9:00-15:00 PST, Scheduled maintenance.
+
+- **ProjectB**
+    - 03/13/19 10:00-13:00 PDT, Scheduled maintenance.

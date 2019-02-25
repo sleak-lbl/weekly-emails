@@ -1,30 +1,23 @@
-## Major Maintenance Outage August 17-21
+## REMINDER: Major Maintenance Outage this Friday through Tuesday!
 
-The Quarterly Maintenance outage in August will be combined with a triennial 
-electrical maintenance. Consequently **NERSC services will be disrupted from
-Friday , August 17 to Tuesday, August 21** and **no
-services will be available Saturday and Sunday, August 18 and 19**.
+As we have reminded you over the past several weeks, there is a major 
+maintenance commencing on Friday that will disrupt all NERSC services for 
+several days. The Quarterly Maintenance outage for August has been combined 
+with a triennial electrical maintenance. Consequently **NERSC services will be 
+disrupted from this Friday, August 17 to Tuesday, August 21** and **no services 
+will be available at all on Saturday and Sunday, August 18 and 19**.
 
-Before the mainentance [all DataWarp Persistent Reservations will be removed](#dwreformat).
-After the maintenance existing applications are expected to work as before
-but [we recommend re-linking applications to get the updated system libraries](#coriosupdate).
+Before the maintenance [all DataWarp Persistent Reservations will be 
+removed](#dwreformat). After the maintenance existing applications are expected 
+to work as before but [we recommend re-linking applications to get the updated 
+system libraries](#coriosupdate).
 
-Every three years, there is a required maintenance on the medium voltage 
-switchgear in the NERSC machine room. This ensures the safety of the building,
-the supercomputers, and (most importantly) NERSC and Berkeley Lab staff.
+We expect that Edison will return to users on Monday, August 20, and Cori will
+return on Tuesday, August 20. However, users should still plan for maintenance
+to last the entire scheduled period.
 
-It has been three years since NERSC's new facilities at Berkeley Lab were
-completed, so it is now time for this maintenance. We have worked with Lab
-facilities staff to schedule this maintenance, which will take place the
-weekend of August 18-19 while the majority of staff are offsite. For more
-information about the electrical maintenance, please listen to the interview
-with NERSC Deputy for Operations Jeff Broughton from the NERSC News podcast:
+For more information about the electrical maintenance, please listen to the 
+interview with NERSC Deputy for Operations Jeff Broughton from the NERSC News 
+podcast:
 <https://anchor.fm/nersc-news/episodes/August-Electrical-Maintenance-and-Jeff-Broughton-Interview-e1lv6d>.
-
-Because August is also the month for a quarterly machine maintenance, we will
-schedule our quarterly maintenance to bookend this outage, in order to
-minimize the amount of time that users cannot access NERSC. Therefore we will
-begin bringing machines down on Friday, August 17, and continue with machine
-maintenance on Monday and Tuesday, August 20 and 21, after facility power has
-returned.
 

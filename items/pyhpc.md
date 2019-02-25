@@ -1,4 +1,4 @@
-## PyHPC Workshop Call for Papers Now Open
+## PyHPC Workshop Call for Papers: Deadline Extended to August 31!
 
 Have you developed an innovative application in Python that you (or others) run 
 on Edison or Cori, but haven't yet found the right venue to talk about your HPC 
@@ -10,4 +10,4 @@ The workshop will be held November 12, 2018 in conjunction with SC18. For more
 information, including a longer description of the workshop and deadlines, 
 please see 
 <https://www.linkedin.com/pulse/call-papers-8th-workshop-python-high-performance-pyhpc-schreiber>.
-Submissions are due August 24, 2018.
+Submissions are due August 31, 2018.
