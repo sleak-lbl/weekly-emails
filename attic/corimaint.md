@@ -1,15 +1,11 @@
-## Cori Maintenance Wednesday Includes CSCRATCH Outage
+## Cori Maintenance on Wednesday
 
-The July monthly maintenance for Cori begins on Wednesday at 7:00 am Pacific. 
-At that time, no more user jobs will run, and the Cori login nodes will be 
-inaccessible to users.
+Cori will be down for maintenance this Wednesday, October 17. During this
+maintenance, the login nodes and Cori scratch filesystem (cscratch1) will remain
+available, but no jobs will run. During the maintenance, the batch system will 
+be upgraded to version 18.08, the Datawarp patch will be installed, and a short 
+test will be run on Cori scratch. During the test, a reservation will be put in 
+place to prevent Edison jobs from using cscratch1.
 
-When possible, we keep Cori scratch available for users on other systems during 
-a maintenance. However, because Wednesday's maintenance includes an update to 
-the Cori scratch filesystem, CSCRATCH will be unavailable across all systems for
-the duration of the maintenance.
-
-At 7:00 am on Wednesday, Cori scratch will be unmounted from Edison and the Data
-Transfer Nodes (DTNs). On Edison, any jobs requesting a CSCRATCH license will
-not run during the maintenance. We expect that Cori, including the scratch
-system, will be returned to users by 7:00 pm on Wednesday.
+The maintenance will commence at 7:00 am and we expect to return the machine to
+users before 7:00 pm (Pacific).

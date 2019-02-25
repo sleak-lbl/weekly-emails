@@ -1,11 +1,23 @@
-## NERSC Outages Google Calendar Available!
+## NERSC Public Events and Outages Google Calendars Available!
 
-Do you wish there were a way to coordinate your work with the NERSC maintenance
-schedule? Do you read the weekly email but forget when the next NERSC 
-maintenance is? 
+NERSC has two publicly viewable calendars aimed at users, the NERSC Public 
+Events Calendar and the NERSC Outages Calendar, to help users keep track of 
+what's going on at NERSC.
 
-NERSC has a calendar, "NERSC Outages", that is publicly available to view. You
-can see it in MyNERSC at <https://my.nersc.gov/outagecal-cs.php>, or as a
+The **NERSC Public Events** calendar shows events such as trainings, NUG 
+webinars, and this week's ERCAP office hours. It is viewable as a standalone 
+calendar at
+<https://calendar.google.com/calendar?cid=bGJsLmdvdl9sczBnZHRnaTdiOTNqcmVkbGVzMGlibDB1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t>, and you can also add it to your own
+calendar:
+- The Google Calendar ID is
+<lbl.gov_ls0gdtgi7b93jredles0ibl0u4@group.calendar.google.com>
+- For iCal users, the link is
+<https://calendar.google.com/calendar/ical/lbl.gov_ls0gdtgi7b93jredles0ibl0u4%40group.calendar.google.com/public/basic.ics>
+
+The **NERSC Outages** calendar is automatically populated by the NERSC Message 
+of the Day (MOTD), and also includes historical information about when systems 
+were unavailable or in degraded mode in addition to future scheduled outages. 
+You can see it in MyNERSC at <https://my.nersc.gov/outagecal-cs.php>, or as a
 standalone calendar at 
 <https://calendar.google.com/calendar/embed?src=lbl.gov_hgvrbjd08kf6srjjtt1ifh0qi8%40group.calendar.google.com&ctz=America%2FLos_Angeles>,
 and you can also add it to your own calendar:
@@ -14,6 +26,3 @@ and you can also add it to your own calendar:
 - For iCal users, the link is
 <https://calendar.google.com/calendar/ical/lbl.gov_hgvrbjd08kf6srjjtt1ifh0qi8%40group.calendar.google.com/public/basic.ics>
 
-The calendar is automatically populated by the NERSC Message of the Day (MOTD),
-and also includes historical information about when systems were unavailable or
-in degraded mode in addition to future scheduled outages.
