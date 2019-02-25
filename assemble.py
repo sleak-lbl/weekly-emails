@@ -28,24 +28,36 @@ def item(name):
             blankcount += 1
     return (title, text)
 
+import sys
+import re
+from dateutil.parser import parse
 if __name__ == '__main__':
 
-    import sys
     infilename = sys.argv[1]
+    nameparts = re.match('(?P<label>\w+)-(?P<date>\d+).md', infilename).groupdict()
 
-    outfilename = 'weekly-email-{0}'.format(infilename.rsplit('-',1)[-1])
+    if nameparts['label'] != 'outline':
+        print("Warning: input filename doesn't follow expected pattern of 'outline-20190129.md'")
 
-    import re
+    #outfilename = 'weekly-email-{0}'.format(infilename.rsplit('-',1)[-1])
+    outfilename = 'weekly-email-{0}.md'.format(nameparts['date'])
+
     item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
     # note that the anchor point in the item title will be replaced:
     title_re = re.compile('^## ([^<#]+)')
+
+    email_title_re = re.compile('^# NERSC Weekly Email, Week of (?P<date>\w+ \d+, \d+)')
 
     # track which item files were used, and report on unused items:
     items = set()
 
     item_text = ""
     with open(infilename,'r') as infile, open(outfilename, 'w') as outfile:
-        for line in infile.readlines():
+        lines = infile.readlines()
+        m = email_title_re.match(lines[0])
+        if m and parse(nameparts['date']) != parse(m.group('date')):
+            print "Warning: the title date {0} doesn't seem to match the outline date {1}".format(m.group('date'), nameparts['date'])
+        for line in lines:
             match = item_re.match(line)
             if match:
                 name = match.group(1)
