@@ -1,0 +1,21 @@
+## Call for Applications: Deep Learning for Science School
+
+Are you interested in applying deep learning to your science problem? Would you
+like to learn more about the capabilities of deep learning and how to use it in
+high-performance computing environments, and connect with other scientists
+working on similar problems?
+
+NERSC, in collaboration with the Computing Sciences area at Berkeley Lab, is
+hosting a Deep Learning for Science School July 15-19, 2019. The school will
+bring together researchers and engineers for lectures and tutorials on
+state-of-the-art deep learning methods and best practices for running deep
+learning on high-performance computing systems, and provide opportunities to
+connect with fellow scientists with a shared interest in how the latest
+advances in learning algorithms can be used for their science.
+
+In last week's NERSC User News [podcast](https://anchor.fm/nersc-news/episodes/Deep-Learning-for-Science-Summer-School-Mustafa-Mustafa-Interview-e3fv5s), 
+School organizer Mustafa Mustafa discusses Deep Learning and the agenda for this
+summer school.
+
+For more information, including how to apply, please visit 
+<https://dl4sci-school.lbl.gov>. Applications close March 31.

@@ -1,4 +1,4 @@
-## NERSC-Hosted Performance Portability with Kokkos Bootcamp, March 26-29
+## It's Not Too Late to Register for Performance Portability with Kokkos Bootcamp, March 26-29!
 
 NERSC is hosting a Kokkos training event organized by the Exascale Computing
 Project (ECP) on March 26-29, 2019 in Oakland. The training will cover the
@@ -12,4 +12,5 @@ performance. Kokkos could be a valuable tool for creating codes that will run
 efficiently on Perlmutter and other architectures.
 
 For more information and to register please see 
-<https://www.exascaleproject.org/event/ppkb2019/>.
+<https://www.exascaleproject.org/event/ppkb2019/>. Registration closes
+tomorrow!

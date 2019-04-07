@@ -20,10 +20,6 @@ scientific users.
 Use your computer and programming skills to protect large-scale network and
 supercomputing systems in an open science environment.
 
-- [Grace Hopper Postdoctoral Fellowship](https://jobs.lbl.gov/jobs/grace-hopper-postdoctoral-fellowship-1317):
-Propose and implement an application development/optimization project targeting
-Cori or Perlmutter. 
-
 - [NERSC Exascale Science Applications Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nersc-exascale-science-applications-postdoctoral-fellow-nesap-1316):
 work in multidisciplinary teams to transition simulation, data analysis, and/or
 learning codes to NERSC's new Perlmutter supercomputer and produce 
@@ -32,10 +28,6 @@ mission-relevant science that truly pushes the limits of high-end computing.
 - [Application Performance Specialist](https://lbl.referrals.selectminds.com/jobs/application-performance-consultant-1010)
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
-
-- [High Performance Computing Systems Engineer](https://lbl.referrals.selectminds.com/jobs/high-performance-computing-systems-engineer-934):
-Help architect, deploy, configure, and maintain large-scale, leading-edge 
-systems of high complexity (e.g., Edison, Cori, and future NERSC systems).
 
 (**Note:** We have received reports that the URLs for the jobs change without 
 notice, so if you encounter a page indicating that a job is closed or not found, 

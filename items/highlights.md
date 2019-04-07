@@ -1,8 +1,8 @@
-## Call for Science Highlights and NERSC Achievement Award Nominations
+## Call for Science Highlights and NERSC Achievement Award Nominations Extended to this Friday!
 
 NERSC is seeking nominations for early-career and scientific achievements for
-the 2018 NERSC Achievement Awards. Submissions must be made by midnight Pacific 
-Time on March 8, 2019.
+the 2018 NERSC Achievement Awards. **The submissions deadline has been 
+extended to midnight Pacific Time this Friday, March 15, 2019.**
 
 - Do you know a great early-career scientist using NERSC? Nominate them for the
 NERSC Early Career Achievement Award at:
@@ -18,7 +18,7 @@ summary document and a presentation slide. Links to templates are available at
 the top of the submission form. 
 
 Contributions are accepted at any time, but only submissions received before
-midnight on March 8 will be considered for this year's awards. For all
+midnight on March 15 will be considered for this year's awards. For all
 submissions, your research may be featured on NERSC and DOE web pages, in press 
 releases, and in other communications that emphasize the value of High 
 Performance Computing in science.
