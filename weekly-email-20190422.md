@@ -1,19 +1,21 @@
-# NERSC Weekly Email, Week of April 15, 2019 #
+# NERSC Weekly Email, Week of April 22, 2019 #
 
 ## Contents ## 
 
 - [Summary of Upcoming Events and Key Dates](#dates)
-- [Oops!](#oops)
+- [Need Help Switching to Cori KNL Nodes? Come to KNL Office Hours, Fridays through May!](#knlofficehrs)
+- [New "Flex" Queue Available on Cori KNL Beginning Tomorrow!](#flexqueue)
+- [Registration Now Open for GPUs for Science Day, July 2-3!](#gpus4sci)
+- [Python Data Frames GPU Acceleration Project Seeking Feedback](#pygpu)
+- [Default gcc Module (Version 7.0.3) Will Be Loaded on Cori and Edison Starting Next Monday](#defaultgcc)
 - [Edison's Last Day Is May 13, 2019](#decommission)
-- [NERSC JupyterHub Services Have Merged](#jupytermerge)
 - [Call for Proposals: High-Impact Science at Scale on Cori](#scalescience)
-- [Nominations for ACM SIGHPC/Intel Graduate Fellowships in Computational and Data Science Now Open](#sighpc)
+- [Nominations for ACM SIGHPC/Intel Graduate Fellowships in Computational and Data Science Close April 30](#sighpc)
 - [Call for Applications: July 2019 GPU Hackathon](#hackathon)
 - [Intel Tools and Training for Cori KNL - May 21-22](#inteltraining)
 - [Save the Date: Annual NUG Meeting Friday July 19 in Rockville, MD](#nug)
-- [New Programming Environments Installed on Cori and Edison in April; Changes to Edison Maintenance Schedule](#aprilmaint)
 - [Attention Students: Apply to Work at NERSC this Summer!](#summerstudent)
-- [This Week on "NERSC User News" Podcast: IDEAS Productivity Project PSIP Process](#podcast)
+- [This Week on "NERSC User News" Podcast: Edison Retirement](#podcast)
 - [Come Work for NERSC!](#careers)
 - [Upcoming Outages](#outages)
 
@@ -22,26 +24,29 @@
              April 2019
      Su  Mo  Tu  We  Th  Fr  Sa
           1   2   3   4   5   6
-      7  *8*  9  10  11  12  13   8 Apr          Denovo Maintenance begins [1]
-     14  15 *16--17--18* 19  20   16-18 Apr      Cori KNL Train/Hackathon [2]
-                                  17 Apr         Edison Maintenance [3]
-     21  22 *23-*24* 25  26  27   23-24 Apr      Kokkos Usergroup Mtg [4]
+      7  *8*  9  10  11  12  13   8 Apr          Denovo Maintenance began [1]
+     14  15  16  17  18  19  20   
+     21  22 *23--24* 25 *26* 27   23-24 Apr      Kokkos Usergroup Mtg [2]
+                                  26 Apr         KNL Office Hrs [3]
     *28* 29 *30*                  28 Apr         Denovo return-to-service [1]
-                                  30 Apr         SIGHPC Fellow Nomns Due [5]
+                                  30 Apr         SIGHPC Fellow Nomns Due [4]
 
               May 2019
      Su  Mo  Tu  We  Th  Fr  Sa
-                  1   2   3   4
-      5   6   7   8   9  10  11
-     12 *13* 14 *15* 16  17  18   13 May         Edison's last day [6]
-                                  15 May         Hackathon Apps Due [7]
-     19  20 *21--22* 23  24  25   21-22 May      Intel Tools Training [8]
-     26 *27* 28  29  30  31       27 May         Memorial Day Holiday [9]
+                  1   2  *3*  4   3 May          KNL Office Hrs [3]
+      5   6   7   8   9 *10* 11   10 May         KNL Office Hrs [3]
+     12 *13* 14 *15* 16 *17* 18   13 May         Edison's last day [5]
+                                  15 May         Hackathon Apps Due [6]
+                                  17 May         KNL Office Hrs [3]
+     19  20 *21--22* 23 *24* 25   21-22 May      Intel Tools Training [7]
+                                  24 May         KNL Office Hrs [3]
+     26 *27* 28  29  30 *31*      27 May         Memorial Day Holiday [8]
+                                  31 May         KNL Office Hrs [3]
 
              June 2019        
      Su  Mo  Tu  We  Th  Fr  Sa  
                               1  
-      2   3   4   5   6   7   8  
+      2   3   4  *5*  6   7   8    5 Jun         GPU Training [9]
       9  10  11  12  13  14  15  
      16  17  18  19  20  21  22  
      23  24  25  26  27  28  29  
@@ -51,18 +56,19 @@
 Notes:
 
 1. **Apr 8-28, 2019**: [Denovo unavailable](#outages)
-2. **Apr 16-18, 2019**: Cori KNL Training and Hackathon
-3. **Apr 17, 2019**: [Edison Monthly Maintenance](#aprilmaint)
-4. **Apr 23-24, 2019**: [Kokkos Usergroup Meeting](https://www.exascaleproject.org/event/kokkosusermtg/)
-5. **Apr 30, 2019**: [Nominations for ACM SIGHPC/Intel Computational and Data Science Fellowships Due](#sighpc)
-6. **May 13, 2019**: [Edison Decommissioned](#decommission)
-7. **May 15, 2019**: [Hackathon Applications Due](#hackathon)
-8. **May 21-22, 2019**: [Intel Tools Training](#intel-training)
-9. **May 27,2019**: Memorial Day Holiday (No Consulting or Account Support)
+2. **Apr 23-24, 2019**: [Kokkos Usergroup Meeting](https://www.exascaleproject.org/event/kokkosusermtg/)
+3. **Apr 26, May 3, 10, 17, 24, & 31, 2019**: [KNL Office Hours](#knlofficehrs)
+4. **Apr 30, 2019**: [Nominations for ACM SIGHPC/Intel Computational and Data Science Fellowships Due](#sighpc)
+5. **May 13, 2019**: [Edison Decommissioned](#decommission)
+6. **May 15, 2019**: [Hackathon Applications Due](#hackathon)
+7. **May 21-22, 2019**: [Intel Tools Training](#intel-training)
+8. **May 27,2019**: Memorial Day Holiday (No Consulting or Account Support)
+9. **June 5, 2019**: GPU Training (save the date)
 10. All times are **Pacific Time zone**
 
 
 ### Other Significant Dates ###
+- **July 2-3, 2019**: [GPUs for Science Day](#gpus4sci)
 - **July 4, 2019**: Independence Day Holiday (No Consulting or Account Support)
 - **July 15-19, 2019**: Deep Learning for Science School
 - **July 15-19, 2019**: [GPU Hackathon](#hackathon)
@@ -72,10 +78,105 @@ Notes:
 - **Dec 24, 2019-Jan 1, 2020**: Christmas/New Year Holiday (Limited Consulting or Account Support)
 
 
-## Oops! <a name="oops"/> ##
+## Need Help Switching to Cori KNL Nodes? Come to KNL Office Hours, Fridays through May! <a name="knlofficehrs"/> ##
 
-Oops! An error in the weekly email process meant that it was queued up but not 
-sent on Monday as usual. Our apologies for the mistake.
+NERSC will hold virtual office hours over Zoom beginning this Friday, April 26
+from 9:00 am to 3:00 pm Pacific Time and every Friday in May, to help users get 
+their codes running efficiently on the Cori KNL nodes.
+
+For many users, running efficiently on the KNL nodes is as simple as making sure
+that their job script is set to request the proper thread affinity on the node,
+and their executable is compiled correctly to exploit the KNL architecture. We
+have seen a performance gap shrink by a factor of 7 just with these two simple
+steps.
+
+Other user codes may require some relatively straightforward code changes (for
+example, a loop reordering to exploit vectorization). Profiling the code is the
+first step towards finding these hot spots or bottlenecks.
+
+During the KNL Office Hours, NERSC experts will be on hand to help you take
+these steps. Please (virtually) drop by for help with
+- Setting up your job script for proper thread affinity
+- Compiling your code with the best optimization flags
+- Getting started with profiling your code
+- Interpreting the results of profiling, and advice on how to proceed
+
+For more information, including connection information, please see
+<https://www.nersc.gov/news-publications/announcements/featured-announcements/knl-office-hours-starting-this-friday-and-every-friday-in-may/>.
+
+
+## New "Flex" Queue Available on Cori KNL Beginning Tomorrow! <a name="flexqueue"/> ##
+
+Starting tomorrow, NERSC is introducing a new QOS on Cori, called "flex", aimed 
+at users whose jobs are capable of running on KNL for a relatively short amount of time before terminating. For example, if you are running a code that is 
+capable of checkpointing and restarting where it left off, then you may be able 
+to use the flex QOS.
+
+Benefits to using the flex QOS include
+- The ability to improve your throughput by submitting jobs that can fit into
+the cracks in the job schedule;
+- A discount in charging for your job.
+
+To use the flex QOS, you must add the "-q flex" directive into your job script,
+plus your job must satisfy the following constraints:
+- It must request KNL (flex is not available for Haswell);
+- It must request a minimum time (using the --time-min directive) of at most
+2 hours (e.g., --time-min=1:30:00 for a request of 1.5 hours);
+- The maximum walltime request (expressed as -t or --time) must be greater than
+2 hours and not exceed 12 hours (e.g., --time=10:00:00 for a request of ten 
+hours); and
+- The number of nodes requested must not exceed 256.
+
+To encourage users to begin exploiting this capability, **for the first month,
+all jobs submitted to the flex QOS will run for free**! After that, we will
+still provide a discount (but likely not a 100% discount).
+
+For more information, please see
+ - <https://docs.nersc.gov/jobs/policy/#flex> for information about the QOS, and
+ - <https://docs.nersc.gov/jobs/examples/#variable-time-jobs> about running
+variable-time jobs.
+
+
+## Registration Now Open for GPUs for Science Day, July 2-3! <a name="gpus4sci"/> ##
+
+Registration is now open for
+[GPUs for Science Day](https://www.nersc.gov/users/training/gpus-for-science/),
+July 2-3, 2019.
+
+This event is directed towards people at all levels of GPU experience (even no 
+experience!). Day 1 will include a series of invited talks on various GPU 
+topics, and day 2 will include tutorials, lightning talks, and a GPU hands-on 
+challenge (with prizes!). 
+
+Registration is free, but limited to the first 100 and 50 participants for 
+Day 1 and Day 2, respectively. Participants can register to attend at: 
+<https://forms.gle/ccMiEU5uxLRtzHps9>. Hope to see you there!
+
+
+## Python Data Frames GPU Acceleration Project Seeking Feedback <a name="pygpu"/> ##
+
+NERSC and NVIDIA are working together on optimizing Python data analytics 
+applications that can benefit from GPU acceleration. This work will help users 
+transition to the GPU nodes on Perlmutter when it arrives next year. The initial
+effort is around data frames and data-frame-style data analytics, such as with 
+Pandas in Python.
+
+If you are interested in accelerating your data analytics and data-frames 
+applications on GPUs, please take a moment to fill out 
+[this form](https://docs.google.com/forms/d/e/1FAIpQLScpSYVAtsd5D4ehA1YnpYQQM-o1YkwHMhRF--kGLNgxHii84g/viewform?usp=sf_link).
+
+
+## Default gcc Module (Version 7.0.3) Will Be Loaded on Cori and Edison Starting Next Monday <a name="defaultgcc"/> ##
+
+To support the latest Intel C++ compilers that require the C++14-conformant GCC 
+compilers, the default gcc module (currently the default version is 7.0.3) on 
+Cori and Edison will be loaded by default starting next Monday, April 29. If you
+work with legacy codes that rquire an older GCC version (e.g., the 4.8.5 from 
+the system default path), or if this this ends up creating problems for you, 
+simply unload the gcc module. 
+
+Please submit a ticket to <https://help.nersc.gov> with any concerns or 
+comments.
 
 
 ## Edison's Last Day Is May 13, 2019 <a name="decommission"/> ##
@@ -84,38 +185,28 @@ NERSC's Edison opened for production use on January 14, 2014; and after exactly
 64 months of providing a supercomputing capability to DOE projects, will retire
 on May 13, 2019. 
 
-Edison was serial number 1 of the Cray XC line and the first to use the Aries 
-network with Dragonfly topology, also used in Cori. Edison's retirement will 
-make room for the installation of 
-[Perlmutter](https://www.nersc.gov/systems/perlmutter/), NERSC's next 
-supercomputer.
+On Monday, May 13, 2019, at 7 am Pacific time, no more user jobs will run on 
+Edison. A reservation will have been put in place to prevent any jobs from 
+running over, but any errant jobs will be deleted at that time. Edison will 
+then be rebooted. 
 
-In preparation for Edison's retirement, we recommend that all users:
+From Monday, May 13 to Monday, May 20 at 7 am, users will be able to access the 
+login nodes of Edison but will not be able to submit any jobs. The purpose of 
+this period is to give users a last chance to get their data off the 
+Edison-specific scratch filesystems (scratch1, scratch2, and scratch3). Note 
+that if your data resides on Cori scratch (cscratch1), your project directory, 
+or your home directory, it is accessible on all systems and no action is 
+required.
 
-1. **Migrate your Edison-based workflows to Cori.** While the architecture 
-   of Cori's Haswell nodes is most similar to that of Edison, we encourage you
-   to use the KNL nodes whenever possible. Most optimizations you make to 
-   run your workflow on Cori KNL will also be beneficial on Perlmutter, and 
-   with about four times as many KNL as Haswell nodes, the queues will be 
-   shorter.
+On May 20 at 7:00 am, Edison will be permanently powered off. It will be 
+disconnected from the facility power and water systems, and then the system 
+will be disassembled. The space formerly occupied by Edison will then begin the 
+transformation into space for the new [Perlmutter](https://www.nersc.gov/systems/perlmutter/) 
+machine, which arrives at the end of 2020.
 
-2. **Make sure that all important data on Edison $SCRATCH and /scratch3 is 
-   backed up to HPSS or elsewhere.** The Edison scratch filesystems are part of 
-   Edison and will retire along with the rest of Edison.
-
-
-## NERSC JupyterHub Services Have Merged <a name="jupytermerge"/> ##
-
-For a few years NERSC has operated jupyter.nersc.gov and jupyter-dev.nersc.gov 
-JupyterHub services.  The former spawns notebooks outside the Cray systems, and 
-the latter spawns notebooks on nodes reserved for running Jupyter on Cori.  Last
-month both Hubs were combined into a single Hub, where a user can select where 
-their notebook will run (either on Cori, or in Spin, NERSC's 
-container-as-a-service platform).
-
-Previously, both jupyter.nersc.gov and jupyter-dev.nersc.gov pointed to this 
-combined Hub. **However, as of today only jupyter.nersc.gov will work.** Please
-update your bookmarks to point only to jupyter.nersc.gov.
+This week's [podcast](https://anchor.fm/nersc-news/episodes/Edison-Retirement-Zhengji-Zhao-Interview-e3q6m6/a-adj6ij) 
+provides additional details about Edison's upcoming retirement as well as its 
+legacy.
 
 
 ## Call for Proposals: High-Impact Science at Scale on Cori <a name="scalescience"/> ##
@@ -138,7 +229,7 @@ For more information and to apply, please see
 <https://www.nersc.gov/news-publications/announcements/featured-announcements/high-impact-science-at-scale-3>.
 
 
-## Nominations for ACM SIGHPC/Intel Graduate Fellowships in Computational and Data Science Now Open <a name="sighpc"/> ##
+## Nominations for ACM SIGHPC/Intel Graduate Fellowships in Computational and Data Science Close April 30 <a name="sighpc"/> ##
 
 Are you a currently enrolled graduate student focusing on computational or data 
 science (or will you be one no later than October 15)? Are you a woman or a 
@@ -189,8 +280,8 @@ bring-your-own-code hackathon with NERSC and Intel staff available to help you
 use Intel tools to optimize your application for KNL.
 
 Please see
-<https://www.nersc.gov/users/training/events/cori-knl-intel-tools-may2019/> for the 
-training agenda, remote connection details and registration.
+<https://www.nersc.gov/users/training/events/cori-knl-intel-tools-may2019/> for 
+the training agenda, remote connection details and registration.
 
 
 ## Save the Date: Annual NUG Meeting Friday July 19 in Rockville, MD <a name="nug"/> ##
@@ -198,20 +289,6 @@ training agenda, remote connection details and registration.
 This year's annual NUG meeting will take place on Friday July 19, 2019, in 
 Rockville, MD (immediately following the SciDAC meeting). Watch this space for 
 further details.
-
-
-## New Programming Environments Installed on Cori and Edison in April; Changes to Edison Maintenance Schedule <a name="aprilmaint"/> ##
-
-During the April maintenance periods for Cori and Edison, a new Cray Programming
-Environment (CDT/19.03) will be installed and an old one (CDT/17.09) will be 
-retired. A new version of the Intel compiler (19.03.199) will also be installed.
-Per NERSC's programming environment update policy, there will be no changes in 
-default software versions at this time. For more information on these changes,
-please see:
-<https://www.nersc.gov/users/computational-systems/cori/updates-and-status/pe-changes-on-cori-edison-apr2019/>.
-
-The Edison maintenance schedule has been adjusted. NERSC has rescheduled the 
-April Edison maintenance for Wednesday, April 17.
 
 
 ## Attention Students: Apply to Work at NERSC this Summer! <a name="summerstudent"/> ##
@@ -254,17 +331,18 @@ apply for one of these positions, or to reach out to NERSC staff in any other
 group with your interests.
 
 
-## This Week on "NERSC User News" Podcast: IDEAS Productivity Project PSIP Process <a name="podcast"/> ##
+## This Week on "NERSC User News" Podcast: Edison Retirement <a name="podcast"/> ##
 
-In this week's NERSC User News podcast, Lawrence Livermore National Laboratory 
-HPC I/O Specialist Elsa Gonsiorowski discusses the Productivity and 
-Sustainability Improvement Planning (PSIP) process originating from the IDEAS 
-productivity project, how it can work for you, and some web resources for PSIP.
+In this week's NERSC User News podcast, NERSC HPC Consultant Zhengji Zhao 
+discusses the detailed schedule for Edison's retirement, a little Edison 
+history, and how NERSC is helping you get prepared for running your codes on 
+Cori KNL with KNL Office Hours (starting this Friday and continuing through 
+May).
  
 The NERSC User News podcast, produced by the NERSC User Engagement Group, is 
 available at <https://anchor.fm/nersc-news> and syndicated through iTunes, 
 Google Play, Spotify, and more. A direct link to this week's podcast is 
-<https://anchor.fm/nersc-news/episodes/IDEAS-PSIP-Process-Elsa-Gonsiorowski-Interview-e3oaqm>.
+<https://anchor.fm/nersc-news/episodes/Edison-Retirement-Zhengji-Zhao-Interview-e3q6m6/a-adj6ij>.
 
 Please give it a listen and let us know what you think, via a ticket at
 <https://help.nersc.gov>.
@@ -279,11 +357,6 @@ openings:
 - **Featured!** [HPC Storage Systems Developer](https://jobs.lbl.gov/jobs/storage-software-developer-669):
 Develop HPSS software and help evaluate and shape new storage technologies to
 meet the needs of NERSC users.
-
-- [Site Reliability Engineer](https://jobs.lbl.gov/jobs/computer-systems-engineer-2-1524):
-provide a variety of engineering support services in a 24x7 environment to
-ensure that NERSC is accessible, reliable, secure, and available to our
-scientific users.
 
 - [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-1170):
 Use your computer and programming skills to protect large-scale network and
@@ -314,6 +387,5 @@ seeing your application.
 Visit <http://www.nersc.gov/users/live-status/> for latest status and outage 
 information.
 
-- **Edison**
-    - 04/17/19 7:00-19:00 PDT, Scheduled maintenance.
+No outages planned.
 

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 case $USER in
-    #rjhb)  from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"  
-    rjhb)  from="From: Rebecca Hartman-Baker <rjhb@nersc.gov>"  
+    rjhb)  from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"  
+    #rjhb)  from="From: Rebecca Hartman-Baker <rjhb@nersc.gov>"  
              to="To: hartmanbaker@gmail.com"  
             bcc="Bcc: rjhartmanbaker@lbl.gov" 
             ;;
