@@ -18,7 +18,7 @@ esac
   
 # real settings:
 real_to="To: users@nersc.gov"
-real_bcc=", Carolyn.Lauzon@science.doe.gov, barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
+real_bcc=", Richard.Carlson@science.doe.gov, Carolyn.Lauzon@science.doe.gov, barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, nersc-admin@lbl.gov"
 reply_to="Reply-To: consult@nersc.gov"
 
 usage="$0 [-n] [--for-real] <outline-YYYYMMDD.md>"$'\n'
