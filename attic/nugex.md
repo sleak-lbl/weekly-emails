@@ -1,21 +1,16 @@
-## New NUGEX Representatives Elected
+## Congratulations to the Newest NUGEX Members!
 
-The following eight new NUGEX (NUG Executive Committee) representatives were elected after the 2 week voting that ended on March 30:
+NUGEX (NERSC User Group Executive Committee) is the voice of the user community 
+to NERSC and DOE, shaping and guiding important NERSC user policies. 
 
-- **Fusion Energy Sciences:**
-  - Christopher Holland, University of Californa, San Diego
-  - Orso Meneghini, General Atomics
+We'd like to welcome seven new members to the NUGEX committee:
+- Alicia Clum, LBNL (BER)
+- Alexander Dunn, LBNL (BES)
+- David Lawrence, Jefferson Lab (NP)
+- Donny Winston, LBNL (BES)
+- Rob Egan, LBNL (at-large)
+- Jerry Jenkins, Hudson Alpha (at-large)
+- Angelo Rossi, University of Connecticut (at-large)
 
-- **High Energy Physics:**
-  - James Amundson, Fermilab
-  - Weiming An, University of Californa, Los Angeles
-  - Zarija Lukic, Lawrence Berkeley National Laboratory
-
-- **Nuclear Physics:**
-  - Balint Joo, Jefferson Lab
-  - David Tedeschi, University of South Carolina
-
-- **At Large:**
-  - Pieter Maris, Iowa State University
-
-NUGEX represents NERSC user community and is consulted on many NERSC policy issues. Congratulations to all the new members!
+Congratulations to these winners and thanks to all the candidates who 
+participated.

@@ -1,4 +1,4 @@
-## Submissions for ACM SIGHPC Graduate Fellowships in Computational and Data Science Close TODAY
+## Nominations for ACM SIGHPC/Intel Graduate Fellowships in Computational and Data Science Close Tomorrow
 
 Are you a currently enrolled graduate student focusing on computational or data 
 science (or will you be one no later than October 15)? Are you a woman or a 
@@ -14,8 +14,8 @@ national price level ratio for the country where the degree will be earned. In
 addition, new fellowship recipients will be supported to travel to the annual SC
 conference, where they will be honored at the awards session.
 
-The submissions close **today**. For more information please see 
-<http://www.sighpc.org/fellowships>.
+The submissions close **tomorrow, April 30, 2019**. For more information please 
+see <http://www.sighpc.org/fellowships>.
 
 
 

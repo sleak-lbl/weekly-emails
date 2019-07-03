@@ -1,14 +1,14 @@
-## IDEAS-ECP Webinar on Containers in HPC on February 13
+## IDEAS-ECP Webinar on Testing Fortran Software on April 10
 
-The February webinar in the Best Practices for HPC Software Developers series is
-entitled "Containers in HPC", and will take place this Wednesday, February 13, 
-2019, at 10:00 am Pacific time.
+The April webinar in the Best Practices for HPC Software Developers series is
+entitled "Testing Fortran Software with pFUnit", and will 
+take place Wednesday, April 10, 2019, at 10:00 am Pacific time.
 
-This webinar, presented by NERSC's own Shane Canon, will begin with an
-introduction on how to build images and run containers on HPC systems, and
-include a discussion of best practices to ensure that containers can take full 
-advantage of HPC systems.
+This webinar, presented by Thomas Clune from NASA, will describe the use of
+pFUnit to develop tests for MPI+Fortran software and highlight the new
+capabilities in the latest release of the tool, as well as specialized
+methodologies to test numerical algorithms.
 
 For more information and to register (there is no cost but registration is
 required), please see
-<https://www.exascaleproject.org/event/conthpc/>.
+<https://www.exascaleproject.org/event/pfunit/>.

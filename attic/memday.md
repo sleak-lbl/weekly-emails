@@ -1,6 +1,6 @@
-## Memorial Day Holiday Today; No Consulting or Account Support
+## Memorial Day Holiday Next Monday; No Consulting or Account Support
 
-Today, May 28, consulting and account support will be unavailable due to
+On Monday, May 27, consulting and account support will be unavailable due to
 the Berkeley Lab-observed Memorial Day holiday. Regular consulting and account
-support will resume tomorrow. Operations staff are available for urgent
+support will resume the following day. Operations staff are available for urgent
 queries via 1-800-66-NERSC, Option 1, at all times.

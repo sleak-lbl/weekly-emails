@@ -1,8 +1,6 @@
-## MongoDB services on mongodb0X upgrade to 3.4(.16) Next Monday
+## NERSC MongoDB Services on mongodb01-04 Migrating to New Hardware on July 10
 
-At the upcoming center-wide outage, we will upgrade the MongoDB services to 
-3.4(.16) (from the current 3.2.16) as 3.2 is approach end-of-life. While we do 
-not expect any major compatibility issues, please check 
-<https://docs.mongodb.com/manual/release-notes/3.4-compatibility/> and 
-<https://docs.mongodb.com/ecosystem/drivers/driver-compatibility-reference/#driver-compatibility> 
-for any potential problems for your particular use-case.
+MongoDB services on mongodb01-04 will be moving to new hardware on July 10. 
+Users with databases on these hosts should have received an email last week; if 
+you did not please contact <wbhimji@lbl.gov> to be added to the contact list for
+further updates and information. 

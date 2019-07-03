@@ -1,8 +1,18 @@
 ## No New "NERSC User News" Podcast this Week
 
-Due to illness, there will be no new episode of the "NERSC User News" podcast 
-this week. We encourage you to instead enjoy some of our most recent episodes
-and greatest hits:
+There will be no new episode of the "NERSC User News" podcast this week. We 
+encourage you to instead enjoy some of our most recent episodes and greatest 
+hits:
+- [NERSC User Group](https://anchor.fm/nersc-news/episodes/NERSC-User-Group-Richard-Gerber-Interview-e4c3ju):
+Learn about the NERSC User Group (NUG), how you can get involved, and sign up to
+attend the annual NUG meeting on July 19!
+- [Profiling Codes with Cray Performance Tools](https://anchor.fm/nersc-news/episodes/Profiling-Codes-with-Cray-Performance-Tools-Heidi-Poxon-Interview-e42veg):
+Learn about why you would want to profile your codes and the tools for profiling
+provided by Cray from Cray senior principal engineer and senior manager Heidi
+Poxon.
+- [Energy Efficiency and Environmental Consciousness at NERSC](https://anchor.fm/nersc-news/episodes/Energy-Efficiency-and-Environmental-Consciousness-at-NERSC--Norm-Bourassa-Interview-e35tfp):
+Learn about all the energy efficiency work going on at NERSC from building
+energy efficiency expert Norm Bourassa.
 - [Getting a Machine from Contract to Reality](https://anchor.fm/nersc-news/episodes/Getting-a-Machine-from-Contract-to-Reality--Tina-Declerck-Interview-e307eg/a-a9521c):
 Listen to Systems Department Head Tina Declerck describe the complex process of 
 going from a contract with a vendor to a supercomputer on the floor in 

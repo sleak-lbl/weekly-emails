@@ -15,9 +15,6 @@ information.
 - **HPSS Archive (User)**
      - 07/10/19 9:00-13:00 PDT, Scheduled maintenance.
 
-- **HPSS Regent (Backup)**
-     - 07/03/19 9:00-12:00 PDT, Scheduled maintenance.
-
 - **MongoDB** 
      - 07/10/19 9:00-17:00 PDT, Scheduled maintenance.
        MongoDB services on mongodb01-04 will be migrating to new
