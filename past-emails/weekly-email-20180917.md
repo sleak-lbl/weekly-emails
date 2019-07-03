@@ -130,9 +130,8 @@ when transferring large amounts of data into NERSC DTNs.
 Following the scheduled maintenances on Cori (September 19) and Edison 
 (September 26), we will install the new Cray Programming Environment Software 
 release CDT/18.09, and retire the old CDT/17.12, in compliance with the NERSC 
-Programming Environment Update Policy. A new Intel compiler version, 18.0.3.222,
-will also be installed. Software defaults will remain the same.
-
+Programming Environment Update Policy. New Intel compiler versions 18.0.3.222 
+and 19.0.0.117 will also be installed. Software defaults will remain the same.
 For more information please see the detailed list of changes at 
 <https://www.nersc.gov/users/computational-systems/cori/updates-and-status/pe-changes-on-cori-edison-sept2018/>.
 
@@ -173,14 +172,14 @@ Proposals are due Monday, September 24.
 In this week's NERSC User News podcast, NERSC Security Analyst Abe Singer
 returns to discuss the latest developments with Multi-Factor Authentication
 (MFA) at NERSC. Tune in to hear about sshproxy (a NERSC-developed utility for 
-creating ssh keys with MFA that can be used all day) and hear Abe's answers
-to common user questions. Be sure to listen until the end for a question even 
-Abe can't answer!
+creating ssh keys with MFA that can be used all day) and listen to Abe's answers
+to common user questions. Be sure to listen until the end to find out what 
+question even Abe can't answer!
 
 The NERSC User News podcast, produced by the NERSC User Engagement Group, is 
 available at <https://anchor.fm/nersc-news> and syndicated through iTunes, 
 Google Play, Spotify, and more. A direct link to this week's podcast is 
-<https://anchor.fm/nersc-news/episodes/Latest-MFA-Developments-at-NERSC--Abe-Singer-Interview-e288uq>.
+<https://anchor.fm/nersc-news/episodes/Machine-Learning-at-Scale--Thorsten-Kurth-Interview-e269em>.
 
 Please give it a listen and let us know what you think, via a ticket at
 <https://help.nersc.gov>.
@@ -191,14 +190,6 @@ Please give it a listen and let us know what you think, via a ticket at
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
 openings:
-
-- **New** [Computer Systems Engineer](https://lbl.referrals.selectminds.com/jobs/computer-systems-engineer-1135):
-Join the Data Science Engagement Group in enhancing the scientific productivity
-of groups performing workflows on observational and experimental data.
-
-- **New** [Data Science Engagement Group Leader](https://lbl.referrals.selectminds.com/jobs/data-science-engagement-group-leader-1133):
-Provide strategic and line management direction for the NERSC Data Science 
-Engagement Group.
 
 - [HPC Architecture and Performance Engineer](https://lbl.referrals.selectminds.com/jobs/hpc-architecture-and-performance-engineer-1055):
 Contribute to NERSC's understanding of issues surrounding application and
