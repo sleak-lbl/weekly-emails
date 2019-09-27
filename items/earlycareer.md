@@ -1,4 +1,4 @@
-## Applications for SC19 Early Career Program Now Open!
+## Applications for SC19 Early Career Program Closing July 31!
 
 Are you within the first five years at a permanent research position and
 interested in learning more about funding, publishing, mentorship, and time

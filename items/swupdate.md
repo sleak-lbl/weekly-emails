@@ -10,11 +10,11 @@ Highlights of the changes include setting the Intel compiler default version to
 defaults for the Cray-provided libraries and tools; and setting 2M hugepages as
 the default page size.
 
-We have recently learned that because the underlying kernel for the new
-operating system jumped from SLES12 to SLES15, none of the software versions
-that are currently or have in the past been the default versions will work.
-**Therefore we will be unable to provide any earlier versions, and all software
-will need to be recompiled and relinked.**
+The underlying distribution for the new operating system has jumped from SLES12
+to SLES15, and **the current- and past-default versions of provided software 
+will no longer be available**. NERSC internal testing has showed that in some cases,
+software built for CLE6 can run on CLE7, but in most cases **users should expect
+current binaries to fail, and be prepared to rebuild all applications**
 
 A webpage detailing the additions, removals, and changes in software environment
 is available at <https://www.nersc.gov/users/computational-systems/cori/updates-and-status/programming-environment-change-on-cori-in-july-2019/>.
