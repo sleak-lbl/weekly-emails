@@ -8,9 +8,8 @@ NERSC User News podcast on Spin:
 <https://anchor.fm/nersc-news/episodes/Spin--Interview-with-Cory-Snavely-and-Val-Hendrix-e1pa7p>.
 
 Attend an upcoming SpinUp workshop to learn to use Spin for your own science
-gateway projects!  Applications for sessions that begin December 6 *close 
-today*, but you can also apply for future sessions. SpinUp is hands-on and 
-interactive, so space is limited.
+gateway projects!  Applications for sessions that begin  Wednesday, August 28
+are now open. SpinUp is hands-on and interactive, so space is limited.
 
 Participants will attend two instructional sessions and a hack-a-thon to learn 
 about the platform, create running services, and learn maintenance and 

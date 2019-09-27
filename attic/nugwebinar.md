@@ -1,8 +1,9 @@
-## NUG Monthly Webinar Scheduled for this Thursday, February 21 at 11 am
+## NUG Monthly Webinar Scheduled for this Friday, August 23 at 9 am
 
-The monthly NERSC Users Group (NUG) webinar has been scheduled for this 
-Thursday, February 21, at 11 am. The agenda includes NERSC's plans for Edison's
-retirement.
+The monthly NERSC Users Group (NUG) webinar has been scheduled for **this
+Friday, August 23, at 9 am Pacific** (note new day/time!). The agenda includes 
+a session on the ERCAP request process, and a refresher on setting up ssh proxy.
+
 
 For more information, including connection info, please see 
-<https://www.nersc.gov/users/NUG/teleconferences/nug-webinar-feb-21-2019/>.
+<https://www.nersc.gov/users/NUG/teleconferences/nug-webinar-aug-23-2019/>.

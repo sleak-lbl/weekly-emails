@@ -16,7 +16,7 @@ def item(name):
                 match = title_re.match(line)
                 if match:
                     title = match.group(1).strip()
-                    text += '\n## {0} <a name="{1}"/> ##\n'.format(title, name)
+                    text += '\n## {0} <a name="{1}"/></a> ##\n'.format(title, name)
                 continue
             if line.strip() == "":
                 blankcount += 1
