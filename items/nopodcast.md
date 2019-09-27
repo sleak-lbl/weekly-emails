@@ -1,19 +1,28 @@
 ## No New "NERSC User News" Podcast this Week
 
-There will be no new episode of the "NERSC User News" podcast this week. We 
-encourage you to instead enjoy some of our most recent episodes and greatest 
-hits:
-- [July Power Outage; Ben Maxwell Interview](https://anchor.fm/nersc-news/episodes/July-Power-Outage-Ben-Maxwell-Interview-e4g45l):
-Learn about the mechanical substation work that will take NERSC offline the 
-last weekend of July: what it's for, what work will be performed, and how 
-NERSC plans these events.
-- [Parallelware Trainer; Manuel Arenaz Interview](https://anchor.fm/nersc-news/episodes/Parallelware-Trainer-Manuel-Arenaz-Interview-e4g46r):
-Learn about the Appentra Parallelware Trainer tool: how it can help you 
-learn to code with OpenMP and OpenACC, the features of the tool, and how 
-to use it on Cori
-- [NERSC User Group](https://anchor.fm/nersc-news/episodes/NERSC-User-Group-Richard-Gerber-Interview-e4c3ju):
-Learn about the NERSC User Group (NUG) and how you can get involved. The annual NUG 
-meeting is this Friday, July 19.
+There will be no new episode of the "NERSC User News" podcast this week due to
+the new fortnightly release schedule. We encourage you to instead enjoy some of 
+our most recent episodes and greatest hits:
+- [The Superfacility Concept](https://anchor.fm/nersc-news/episodes/The-Superfacility-Concept-Debbie-Bard-Interview-e5a5th/a-amoglk):
+Join NERSC Data Science Engagement Group Lead Debbie Bard in a discussion about
+the concept of the superfacility: what it means, how facilities interact, and
+what NERSC and partner experimental facilities are doing to prepare for the
+future of data-intensive science.
+- [Optimizing I/O in Applications](https://anchor.fm/nersc-news/episodes/Optimizing-IO-in-Applications-Jialin-Liu-Interview-e50nvm):
+Listen to an I/O optimization success story in this interview with NERSC Data
+and Analytics Services Group's Jialin Liu.
+- [ERCAP Allocation Requests](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l):
+Learn how to get compute and storage allocations on NERSC resources for next
+year in this interview with NERSC User Engagement Group's Clayton Bagwell.
+- [Roofline Model for Application Performance](https://anchor.fm/nersc-news/episodes/Roofline-Model-for-Application-Performance-Charlene-Yang-Interview-e4osl1):
+NERSC Application Performance Specialist Charlene Yang discusses the roofline 
+model for application performance: what it is and how it works, how to use it to
+improve your application's performance, and future directions in roofline model 
+research.
+- [Parallelware Trainer; Manuel Arenaz Interview](https://anchor.fm/nersc-news/episodes/Parallelware-Trainer-Manuel-Arenaz-Interview-e4g46r): 
+Learn about the Appentra Parallelware Trainer tool: how it can help you learn to
+code with OpenMP and OpenACC, the features of the tool, and how to use it on 
+Cori.
 - [Profiling Codes with Cray Performance Tools](https://anchor.fm/nersc-news/episodes/Profiling-Codes-with-Cray-Performance-Tools-Heidi-Poxon-Interview-e42veg):
 Learn about why you would want to profile your codes and the tools for profiling
 provided by Cray from Cray senior principal engineer and senior manager Heidi
