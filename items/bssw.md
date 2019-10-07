@@ -1,4 +1,4 @@
-## Applications for Better Scientific Software (BSSw) Fellowship Program Now Open
+## Applications for Better Scientific Software (BSSw) Fellowship Program Closing October 15
 
 Do you have something to share with the scientific software community? Do you
 have a passion to learn and teach others about better software? Are you 

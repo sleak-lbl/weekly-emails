@@ -3,6 +3,10 @@
 There will be no new episode of the "NERSC User News" podcast this week due to
 the new fortnightly release schedule. We encourage you to instead enjoy some of 
 our most recent episodes and greatest hits:
+- [Monitoring System Performance](https://anchor.fm/nersc-news/episodes/Monitoring-System-Performance-Eric-Roman-Interview-e5g20m/a-aobd6p)
+NERSC Computational Systems Group's Eric Roman discusses how NERSC monitors 
+system performance, what we're doing with the data right now, and how we plan to
+use it in the future.
 - [The Superfacility Concept](https://anchor.fm/nersc-news/episodes/The-Superfacility-Concept-Debbie-Bard-Interview-e5a5th/a-amoglk):
 Join NERSC Data Science Engagement Group Lead Debbie Bard in a discussion about
 the concept of the superfacility: what it means, how facilities interact, and
