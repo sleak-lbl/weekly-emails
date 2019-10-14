@@ -15,7 +15,7 @@
 - [Upcoming Outages](#outages)
 - [About this Email](#about)
 
-## Summary of Upcoming Events and Key Dates <a name="dates"/> ##
+## Summary of Upcoming Events and Key Dates <a name="dates"/></a> ##
 
            September 2019   
      Su  Mo  Tu  We  Th  Fr  Sa
@@ -60,7 +60,7 @@ Notes:
 - **Dec 24, 2019-Jan 1, 2020**: Christmas/New Year Holiday (Limited Consulting or Account Support)
 
 
-## Potential Impacts on NERSC from California Wildfire Season <a name="fireseason"/> ##
+## Potential Impacts on NERSC from California Wildfire Season <a name="fireseason"/></a> ##
 
 PG&E, which provides power to Berkeley Lab (and NERSC), is taking a more
 conservative approach to wildfire prevention, which may result in power lines
@@ -71,7 +71,7 @@ informing users. Users can also look at <http://status.lbl.gov/> to find out the
 latest status of NERSC as well as Berkeley Lab as a whole.
 
 
-## Join Us for ERCAP Virtual Office Hours in September and October <a name="ercapofficehrs"/> ##
+## Join Us for ERCAP Virtual Office Hours in September and October <a name="ercapofficehrs"/></a> ##
 
 Allocations staff are holding virtual office hours via Zoom from 8:00 am to 5:00
 pm (Pacific time) to assist users finishing up their ERCAP requests, which
@@ -88,7 +88,7 @@ user issues. Join us at <https://lbnl.zoom.us/my/ercap.office.hours> during
 office hours to get some help!
 
 
-## ERCAP Submissions Due Monday, October 7 <a name="ercap"/> ##
+## ERCAP Submissions Due Monday, October 7 <a name="ercap"/></a> ##
 
 Submissions for the 2020 ERCAP allocations process are now open. Requests
 will be accepted through Monday, October 7. During September and October, NERSC
@@ -99,7 +99,7 @@ Please listen to this NERSC User News [podcast](https://anchor.fm/nersc-news/epi
 for more information about ERCAP.
 
 
-## Applications for Better Scientific Software (BSSw) Fellowship Program Now Open <a name="bssw"/> ##
+## Applications for Better Scientific Software (BSSw) Fellowship Program Now Open <a name="bssw"/></a> ##
 
 Do you have something to share with the scientific software community? Do you
 have a passion to learn and teach others about better software? Are you 
@@ -114,7 +114,7 @@ For more information and to apply, please see <https://bssw.io/fellowship>.
 Applications are due Tuesday, October 15. 
 
 
-## Appentra Parallelware Tool Training on October 17! <a name="parallelware"/> ##
+## Appentra Parallelware Tool Training on October 17! <a name="parallelware"/></a> ##
 
 NERSC is always looking for new ways to improve user experience while coding.
 One ever-present challenge in high-performance computing is how to parallelize 
@@ -133,7 +133,7 @@ Registration information and agenda for the day are available at:
 <https://www.nersc.gov/users/training/events/parallelware-tool-workshop-october-17>.
 
 
-## Sign up Now for UPC++ Workshop on November 1 at NERSC! <a name="upcpp"/> ##
+## Sign up Now for UPC++ Workshop on November 1 at NERSC! <a name="upcpp"/></a> ##
 
 UPC++ is a C++11 library providing classes and functions that support 
 Partitioned Global Address Space (PGAS) programming. UPC++ provides mechanisms 
@@ -158,7 +158,7 @@ event and space is limited so please register as soon as possible. Registration
 closes when the limit is reached or on October 18, 2019.
 
 
-## Videos from June New Users Training Now Available <a name="newuservideos"/> ##
+## Videos from June New Users Training Now Available <a name="newuservideos"/></a> ##
 
 Did you miss the last new users training? Are you interested in brushing
 up on the basics about NERSC?
@@ -168,7 +168,7 @@ from the training are now available. To view the playlist on YouTube, please
 visit <https://www.youtube.com/playlist?list=PL20S5EeApOSt-f-t3HGB_AprZuAp2W3xc>.
 
 
-## This Week on "NERSC User News" Podcast: Monitoring System Performance <a name="podcast"/> ##
+## This Week on "NERSC User News" Podcast: Monitoring System Performance <a name="podcast"/></a> ##
 
 In this week's NERSC User News podcast, listen to NERSC Computer Systems Group's
 Eric Roman talk about how NERSC monitors system performance, what we're doing
@@ -183,7 +183,7 @@ Please give it a listen and let us know what you think, via a ticket at
 <https://help.nersc.gov>.
 
 
-## Come Work for NERSC! <a name="careers"/> ##
+## Come Work for NERSC! <a name="careers"/></a> ##
 
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
@@ -226,7 +226,7 @@ We know that NERSC users can make great NERSC employees! We look forward to
 seeing your application.
 
 
-## Upcoming Outages <a name="outages"/> ##
+## Upcoming Outages <a name="outages"/></a> ##
 
 Visit <http://www.nersc.gov/users/live-status/> for latest status and outage 
 information.
@@ -234,7 +234,7 @@ information.
 No planned outages.
 
 
-## About this Email <a name="about"/> ##
+## About this Email <a name="about"/></a> ##
 
 You are receiving this email because you are the owner of an active account at
 NERSC. This mailing list is automatically populated with the email addresses
