@@ -1,7 +1,7 @@
-## Learn to optimize GPU code with Appentra Parallelware on October 17!
+## Learn to optimize GPU code with Appentra Parallelware on October 17
 
 Parallelware Trainer helps you to use OpenMP and OpenACC directives to develop 
-code for CPUs and GPUs. On Thursday, October 17, Appentra founder Manuel Arneaz
+code for CPUs and GPUs. On **this Thursday**, October 17, Appentra founder Manuel Arneaz
 will lead a training session at NERSC focused on optimization of GPU code, 
 particularly addressing how to minimize data transfers, how to exploit massive 
 parallelism and how to optimize the usage of the GPU memory. The workshop includes

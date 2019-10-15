@@ -1,4 +1,4 @@
-## Sign up Now for UPC++ Workshop on November 1 at NERSC!
+## Sign up Now for UPC++ Workshop on November 1 at NERSC
 
 UPC++ is a C++11 library providing classes and functions that support 
 Partitioned Global Address Space (PGAS) programming. UPC++ provides mechanisms 

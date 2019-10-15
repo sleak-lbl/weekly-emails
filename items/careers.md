@@ -23,9 +23,6 @@ the limits of high-end computing.
 - [HPC Storage Systems Analyst](https://jobs.lbl.gov/jobs/hpc-storage-systems-analyst-1851):
 Help architect, deploy, and manage NERSC's storage hierarchy (including Burst
 Buffer, Lustre, and Spectrum Scale filesystems, and HPSS archives).
-- [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-1170):
-Use your computer and programming skills to protect large-scale network and
-supercomputing systems in an open science environment.
 - [Application Performance Specialist](https://jobs.lbl.gov/jobs/application-performance-consultant-1010):
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
