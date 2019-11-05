@@ -1,6 +1,8 @@
-## 2019 ERCAP Allocations Announced 
+## ERCAP Submissions Due TODAY, October 7!
 
-DOE program managers have completed the majority of their decisions, and NERSC 
-has been sending out award announcements. There are a few awards that have not
-been decided yet but we expect them to be complete by COB tomorrow. Thanks for
-your patience as we finish the process.
+Submissions for the 2020 ERCAP allocations process are **closing today**. NERSC 
+is holding [ERCAP Office Hours](#ercapoffichrs) via Zoom to assist users with 
+submitting their requests.
+
+Please listen to this NERSC User News [podcast](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l)
+for more information about ERCAP.

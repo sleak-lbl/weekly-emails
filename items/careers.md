@@ -4,6 +4,12 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):
+Protect Exascale class systems in an open science environment and enhance 
+network and host intrusion prevention as we migrate from 100G to Terabit networks.
+- [Software Engineer (Storage and I/O)](https://jobs.lbl.gov/jobs/software-engineer-storage-and-i-o-2275):
+Enable DOE researchers and the broader science community to benefit from improvements 
+to HDF5 and other leading high-performance computing (HPC) storage and I/O software
 - [Data Management Engineer](https://jobs.lbl.gov/jobs/data-management-engineer-2129):
 Provide a variety of engineering support services to manage a data warehouse and
 notification infrastructure for the NERSC computational facility.

@@ -1,38 +1,26 @@
-## Recap: Northern California power outage last week
+## Recap: Northern California power outage October 26
 
-This fire season, PG&E (the utility that provides power to Berkeley Lab and NERSC)
-announced a wildfire prevention plan that would preemptively de-energize power 
-lines during high-risk weather conditions. NERSC responded by preparing procedures 
-that allow us to respond to a power outage with minimal disruption to our users,
-even given potentially short notice and an indefinite duration.
+The California wildfire season continues and only two weeks after the conclusion 
+of the first PG&E Public Safety Power Shutdown (PSPS), a second PSPS affecting 
+NERSC was announced on Friday October 25. On Saturday morning the expected start 
+was moved forward, and in response NERSC began shutdown procedures around 1:30pm.
 
-Last Tuesday (October 8) this preparation proved its worth when PG&E announced
-a likely power outage beginning just after midnight on Wednesday morning.
+At about 2pm on Saturday October 26, Cori and the NERSC filesystems became 
+unavailable to users. Our generator is able to supply power for web services, 
+databases and other auxiliary services, and fortunately we were able to keep these
+running for the duration of the PSPS.
 
-Safely cutting and restoring power to complex facilities such as Berkeley Lab and 
-NERSC is not a trivial operation. NERSC has a generator that can supply power for
-some time to its critical equipment and auxiliary systems, but not to its HPC 
-systems. Therefore the Cori compute nodes were shutdown first, but login nodes,
-filesystems and the website continued to be available. 
+On Monday evening PG&E announced that power to Berkeley Lab's substation was 
+restored, and work began to return power to the Lab, including NERSC. NERSC 
+power was restored late on Monday night, and early on Tuesday work began to restore
+NERSC systems to service. NERSC was back to full service a little before 7pm PDT on
+Tuesday October 29.
 
-With reduced cooling ability and a warm afternoon, the remaining NERSC systems 
-excepting our website were shutdown on Thursday afternoon. Meanwhile PG&E were 
-inspecting power lines and in the evening, restored power to the Lab's substation.
+Some scheduled maintenance and some user-training events were delayed or modified
+as a consequence of the outage, we apologize for the inconvenience to our users.
 
-Power was restored to NERSC around 10:30 am on Friday, and NERSC staff spent the 
-day bringing the many systems that support our HPC facilities back to service. 
-By midnight, Cori and most other NERSC services were opened to users, with the 
-remaining services returned to service shortly later. Berkeley Lab re-opened
-at 6 am this (Monday) morning, and Consulting and Account Support Services resumed
-today.
-
-We hope that this will be the only event of its kind, but as long as there is 
-a risk of wildfires, there is a chance that our power will again be cut. We plan 
-to keep our users well-informed of events if this should happen again, and 
-<http://status.lbl.gov/> will continue to indicate the status of Berkeley Lab as 
-a whole.
-
-We'd like to thank you all again for your patience and support during this 
-unprecedented event!
-
+We would like to thank our users for your patience and support again during this 
+second outage. We hope that this will be the last such outage, but should another 
+PSPS occur we plan to keep our users well-informed of events. <http://status.lbl.gov/>
+will also continue to indicate the status of Berkeley Lab.
 

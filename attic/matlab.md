@@ -1,6 +1,9 @@
-## MATLAB Instruction for Berkeley Lab Staff on May 10
+## MATLAB Maintenance for Toolbox Enhancements - moved to this Thursday
 
-There will be a complimentary MATLAB hands-on workshop for **Berkeley Lab only**
-on the morning of Thursday, May 10. The workshop, delivered by a MathWorks
-engineer, will be on the topic of data analysis and visualization in MATLAB. For
-more information and to register, please see <https://www.mathworks.com/lbl2>.
+The MATLAB maintenance scheduled last week has been moved due to the power 
+outage, to this **Thursday, October 17**, between 10 am and noon pacific time. 
+We are making the symbolic math toolbox available and adding additional license
+seats for the signal processing and statistics and machine learning
+toolboxes. **Please be sure to log out of any MATLAB sessions**, including
+those running in NX, in advance.
+
