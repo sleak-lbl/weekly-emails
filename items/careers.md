@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [Computer Systems Engineer](https://jobs.lbl.gov/jobs/computer-systems-engineer-2357):
+Help prepare Exascale Computing Project (ECP) codes for the next-generation pre-exascale 
+and exascale high performance computing (HPC) systems. 
 - [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):
 Protect Exascale class systems in an open science environment and enhance 
 network and host intrusion prevention as we migrate from 100G to Terabit networks.

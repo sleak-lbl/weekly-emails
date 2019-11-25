@@ -1,6 +1,7 @@
 ## Sign up Now for UPC++ Workshop on December 16 at NERSC
 
-Registration is now open for the free one-day ECP/NERSC UPC++ tutorial.
+[Registration is now open](https://www.exascaleproject.org/event/upcpp/) for
+for the free one-day ECP/NERSC UPC++ tutorial.
 
 This event is a repeat of the tutorial delivered on November 1, but with the 
 restoration of the hands-on component which was omitted due to uncertainty 
