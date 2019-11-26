@@ -1,4 +1,4 @@
-## New Requirement for ALCC Proposals
+## ALCC Letters Of Intent Due December 16
 
 For the 2020-2021 ALCC campaign, PIs are **required** to submit a Letter of 
 Intent (LOI) as the first step of submitting a proposal. The ALCC submission 

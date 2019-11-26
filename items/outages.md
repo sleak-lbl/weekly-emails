@@ -1,5 +1,8 @@
 ## Upcoming Outages 
 
+ - Jupyter:	
+   11/27/19 8:30-9:30 PST Scheduled Maintenance
+
  - Cori:	
    12/05/19 7:00-12/06/19 9:00 PST Scheduled Maintenance
 
