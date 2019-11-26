@@ -1,6 +1,6 @@
 ## Sign up Now for UPC++ Workshop on December 16 at NERSC
 
-[Registration is now open](https://www.exascaleproject.org/event/upcpp/) for
+[Registration is now open](https://www.eventbrite.com/e/ecpnersc-upc-tutorial-tickets-80937832235) for
 for the free one-day ECP/NERSC UPC++ tutorial.
 
 This event is a repeat of the tutorial delivered on November 1, but with the 
@@ -28,7 +28,7 @@ NERSC's Cori (currently the #14 fastest computer in the world).
 This event can be attended on-site at NERSC or remotely via the free Zoom
 video-conferencing application. The remote connection information will be
 provided to the registrants closer to the event. 
-[Registration is required](https://www.exascaleproject.org/event/upcpp/) for
+[Registration is required](https://www.eventbrite.com/e/ecpnersc-upc-tutorial-tickets-80937832235) for
 this event and space is limited so please register as soon as possible.
 **Registration closes when the limit is reached or on Dec 1, 2019**.
 
