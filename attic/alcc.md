@@ -1,9 +1,9 @@
-## ALCC Letters Of Intent Due December 16
+## ALCC Letters of Intent Due TODAY!
 
 For the 2020-2021 ALCC campaign, PIs are **required** to submit a Letter of 
 Intent (LOI) as the first step of submitting a proposal. The ALCC submission 
 site (<https://science.osti.gov/ascr/ALCC>) opened October 1,
-with LOIs due on December 16. 
+with LOIs due **today**.
 
 All proposals are due when the submission site closes at 11:59 PM (Eastern Time)
 on February 3, 2020. Information from the LOI will be automatically populated to

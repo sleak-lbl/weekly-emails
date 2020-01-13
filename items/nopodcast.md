@@ -3,9 +3,13 @@
 There will be no new episode of the "NERSC User News" podcast this week. We 
 encourage you to instead enjoy some of our most recent episodes and greatest 
 hits:
+- [Community File System](https://anchor.fm/nersc-news/episodes/Community-File-System-Kristy-Kallback-Rose--Greg-Butler--and-Ravi-Cheema-Interview-e9d88q/a-a149hf5)
+NERSC Storage System Group staff Kristy Kallback-Rose, Greg Butler, and Ravi
+Cheema talk about the new Community File System and the migration timeline.
 - [May Quarterly Maintenance & James Botts Interview](https://anchor.fm/nersc-news/episodes/May-Quarterly-Maintenance--James-Botts-Interview-e1ec2g/a-a3cfi7)
 The first-ever NERSC User News podcast, in which James Botts from NERSC's 
-Computational Systems Group describes the process of rebooting Cori after an outage.
+Computational Systems Group describes the process of rebooting Cori after an 
+outage.
 - [Monitoring System Performance](https://anchor.fm/nersc-news/episodes/Monitoring-System-Performance-Eric-Roman-Interview-e5g20m/a-aobd6p)
 NERSC Computational Systems Group's Eric Roman discusses how NERSC monitors 
 system performance, what we're doing with the data right now, and how we plan to

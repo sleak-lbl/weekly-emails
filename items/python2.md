@@ -1,10 +1,11 @@
-## NERSC Will Support Only Python3 in New Allocation Year
+## NERSC Will Support Only Python3 Beginning Tomorrow
 
-Python 2 will reach its end of life on [January 1, 2020](https://devguide.python.org/#status-of-python-branches),
-at which point there will be no more development, bug fixes, patches, etc.
+Python 2 has reached its end of life ([January 1, 
+2020](https://devguide.python.org/#status-of-python-branches)),
+so there will be no more development, bug fixes, patches, etc.
 
-Therefore, upon the beginning of the 2020 Allocation Year at NERSC, the 
-following changes to Python support will occur at NERSC:
+Therefore, starting tomorrow (the beginning of the 2020 Allocation Year at 
+NERSC), the following changes to Python support will occur at NERSC:
 - At the AY rollover, the default Python module will become a module based on a
 Python 3 distribution.
 - The old Python 2 module will remain available for use but users must specify

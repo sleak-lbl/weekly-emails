@@ -1,24 +1,27 @@
-## Dynamic linking to become default on Jan 14, 2020, you can test now
+## Dynamic Linking Is Default in New AY
 
-We plan to set the new CDT/19.11 as default (pending no major issues discovered) 
-on **Jan 14, 2020** at the Allocation Year Rollover. 
+When the new CDT/19.11 is set as default at the time of the Allocation Year 
+transition tomorrow, the default linking mode on Cori will change from static 
+to dynamic. 
 
-When this happens, please notice that there is **one big change**
-starting from CDT/19.06, that the **default linking mode changes** from static to
-dynamic.  We would like users to test this change now and 
-[let us know](https://help.nersc.gov) if you encounter any issues. 
+For best performance with dynamically linked executables running on the compute
+nodes, we recommend storing your executable on 
+`/global/common/software/<your_proj>` instead of the community file system. 
+Note that /global/common is mounted as read-write on login nodes, and 
+read-only on compute nodes.
 
-Even before CDT/19.11 is installed on Cori on Dec 5, you could start testing now by: 
-
-```
-% module load cdt/19.06 
-% export LD_LIBRARY_PATH=$CRAY_LD_LIBRARY_PATH:$LD_LIBRARY_PATH 
-```
-
-If, after the default changes, you prefer to use static linking as default (eg for 
-workflow or performance reasons), you can set: 
-
+If, after the default linking mode changes, you prefer to use static linking as 
+default (e.g., for workflow or performance reasons), you can set:
 ```
 % export CRAYPE_LINK_TYPE=static   
 ```
+or add the `-static` flag in your compile and link lines to retain static 
+linking.
 
+If you need to use the previous default CDT/19.03 version (which has static 
+linking as default), you can do so with:
+```
+% module load cdt/19.03 
+% export LD_LIBRARY_PATH=$CRAY_LD_LIBRARY_PATH:$LD_LIBRARY_PATH 
+```
+(this second line is needed only for dynamically linked executables.)

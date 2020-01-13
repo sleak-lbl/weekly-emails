@@ -1,4 +1,4 @@
-## FY19 User Statisitics sent to DOE
+## FY19 User Statisitics Sent to DOE
 
 The U.S. Department of Energy Office of Science (SC), which is the primary
 sponsor of  NERSC, requires that a limited set of information relating to your
