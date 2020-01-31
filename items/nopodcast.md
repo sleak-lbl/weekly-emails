@@ -3,6 +3,9 @@
 There will be no new episode of the "NERSC User News" podcast this week. We 
 encourage you to instead enjoy some of our most recent episodes and greatest 
 hits:
+- [NERSC 2019 in Review and Looking Forward](https://anchor.fm/nersc-news/episodes/NERSC-2019-in-Review-and-Looking-Forward--Sudip-Dosanjh-Interview-ea5d5t/a-a1a6cpd)
+NERSC director Sudip Dosanjh reflects upon the accomplishments of NERSC and its 
+users in 2019, and what he's looking forward to in 2020 at NERSC.
 - [Community File System](https://anchor.fm/nersc-news/episodes/Community-File-System-Kristy-Kallback-Rose--Greg-Butler--and-Ravi-Cheema-Interview-e9d88q/a-a149hf5)
 NERSC Storage System Group staff Kristy Kallback-Rose, Greg Butler, and Ravi
 Cheema talk about the new Community File System and the migration timeline.

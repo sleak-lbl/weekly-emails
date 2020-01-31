@@ -1,8 +1,8 @@
-## Need Help Switching to Cori KNL Nodes? KNL Office Hours on Fridays All Month!
+## Need Help Switching to Cori KNL Nodes? Final KNL Office Hours Friday
 
-NERSC will hold virtual office hours over Zoom from 9:00 am to 3:00 pm Pacific 
-Time for every Friday in January, including this Friday (January 17), to help 
-users get their codes running efficiently on the Cori KNL nodes. 
+The final instance instance in a series of virtual office hours to help users 
+get their codes running efficiently on the Cori KNL nodes will be this Friday, 
+January 31 from 9:00 am to 3:00 pm Pacific Time.
 
 For many users, running efficiently on the KNL nodes is as simple as making sure
 that their job script is set to request the proper thread affinity on the node,

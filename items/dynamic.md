@@ -1,17 +1,16 @@
-## Dynamic Linking Is Default in New AY
+## Dynamic Linking Is Now Default on Cori
 
-When the new CDT/19.11 is set as default at the time of the Allocation Year 
-transition tomorrow, the default linking mode on Cori will change from static 
-to dynamic. 
+With the change in default software environment for the new allocation year, the
+default linking mode on Cori is now dynamic.
 
 For best performance with dynamically linked executables running on the compute
 nodes, we recommend storing your executable on 
 `/global/common/software/<your_proj>` instead of the community file system. 
-Note that /global/common is mounted as read-write on login nodes, and 
+Note that i`/global/common` is mounted as read-write on login nodes, and 
 read-only on compute nodes.
 
-If, after the default linking mode changes, you prefer to use static linking as 
-default (e.g., for workflow or performance reasons), you can set:
+If you prefer to use static linking as default (e.g., for workflow or 
+performance reasons), you can set:
 ```
 % export CRAYPE_LINK_TYPE=static   
 ```

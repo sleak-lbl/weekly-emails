@@ -8,11 +8,11 @@ made changes to your starting environment by adding
 To reduce some shell startup overhead, and to bring NERSC in line with most 
 other HPC centers, we will migrate away from this arrangement during the 
 scheduled maintenance in **February 2020**. After the change is made, you will 
-be able to edit `.bashrc` (etc) directly.
+be able to edit `.bashrc` (etc.) directly.
 
-During the change, your `.bashrc` (etc), which is currently a symlink, will be 
-replaced by a template `.bashrc` (etc) that simply sources your `.bashrc.ext` 
-(etc).
+During the change, your `.bashrc` (etc.), which is currently a symlink, will be 
+replaced by a template `.bashrc` (etc.) that simply sources your `.bashrc.ext` 
+(etc.).
 
 For most users this should have no other impact. But some non-default 
 environments and workflows might experience some changes to their environment. 

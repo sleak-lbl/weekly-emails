@@ -11,5 +11,5 @@ real-life applications and/or realistic workloads, the composability challenges
 arising from the use of bespoke solutions, and the desire to "future-proof" 
 applications in the long term.
 
-Submissions close next Friday, January 24, 2020. For more information and to submit a paper,
-please see <https://p3hpcforum2020.alcf.anl.gov/>.
+Submissions close this Friday, January 24, 2020. For more information and to 
+submit a paper, please see <https://p3hpcforum2020.alcf.anl.gov/>.

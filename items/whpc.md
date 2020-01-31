@@ -1,4 +1,4 @@
-## Women in HPC Summit Call for Submissions; Poster Submissions Deadline January 31!
+## Women in HPC Summit Poster Submissions Deadline Friday!
 
 Submissions for posters are now being accepted for the
 first Women in HPC Summit, to be held April 29-May 1, 2020 in Vancouver, British
@@ -19,5 +19,6 @@ applications/architectures;
 - Fostering creativity through diversity.
 
 The tutorial and paper submission deadlines have passed, but poster submissions 
-are due January 31, 2020, AOE. For more information and to submit, please see
+are due this Friday, January 31, 2020, AOE. For more information and to submit, 
+please see
 <https://womeninhpc.org/events/summit-2020>.
