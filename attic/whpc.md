@@ -1,12 +1,24 @@
-## Women in HPC Workshop at SC18 Call for Submissions Deadline Extended to this Wednesday 
+## Women in HPC Summit Poster Submissions Deadline Friday!
 
-The Women in HPC Workshop at SC18 seeks submissions in the form of extended
-abstracts for short talks to be given during the workshop.  The workshop, which 
-will be held in conjunction with SC18 in Dallas, Texas in November, is an 
-opportunity for participants to grow their network, receive expert advice and
-mentorship from accomplished colleagues, and meet potential employers.
-Submissions from early-career women are especially encouraged, although authors 
-may submit irrespective of career stage. 
+Submissions for posters are now being accepted for the
+first Women in HPC Summit, to be held April 29-May 1, 2020 in Vancouver, British
+Columbia, Canada.
 
-Submissions close this Wednesday, August 15. For more information, including 
-how to submit, please see <https://womeninhpc.org/whpc-sc18/workshop/submit/>.
+Posters are solicited on a diverse range of technical and diversity, inclusion, 
+and leadership topics, including but not limited to:
+- Programming models and applications for HPC, Big Data, and AI;
+- Architectures and accelerators on high-performance platforms;
+- Computational models and algorithms for HPC, Big Data, and AI;
+- Using machine learning to analyze large-scale systems;
+- Performance modeling, analysis, and benchmarking of HPC, Big Data, and AI
+applications/architectures;
+- Methods and techniques to create a diverse workforce;
+- Inclusive leadership and retention strategies;
+- Building diversity advocates and allies;
+- Dealing with unconscious bias and sexism in the workplace;
+- Fostering creativity through diversity.
+
+The tutorial and paper submission deadlines have passed, but poster submissions 
+are due this Friday, January 31, 2020, AOE. For more information and to submit, 
+please see
+<https://womeninhpc.org/events/summit-2020>.

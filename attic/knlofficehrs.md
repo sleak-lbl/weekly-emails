@@ -1,9 +1,8 @@
-## Need Help Switching to Cori KNL Nodes? Final KNL Office Hours on Friday!
+## Need Help Switching to Cori KNL Nodes? Final KNL Office Hours Friday
 
-NERSC will hold virtual office hours over Zoom from 9:00 am to 3:00 pm Pacific 
-Time for every Friday in May, to help users get their codes running efficiently 
-on the Cori KNL nodes. **The final session in this series is on Friday, so
-don't delay!**
+The final instance instance in a series of virtual office hours to help users 
+get their codes running efficiently on the Cori KNL nodes will be this Friday, 
+January 31 from 9:00 am to 3:00 pm Pacific Time.
 
 For many users, running efficiently on the KNL nodes is as simple as making sure
 that their job script is set to request the proper thread affinity on the node,
@@ -22,10 +21,9 @@ these steps. Please (virtually) drop by for help with
 - Getting started with profiling your code
 - Interpreting the results of profiling, and advice on how to proceed
 
-A recent [podcast](https://anchor.fm/nersc-news/episodes/KNL-Office-Hours-Jack-Deslippe-Interview-e3uk9f/a-aee631) provides additional information about the
-office hours.
+A [podcast](https://anchor.fm/nersc-news/episodes/KNL-Office-Hours-Jack-Deslippe-Interview-e3uk9f/a-aee631) 
+from May provides additional information about the office hours.
 
-For more information, including connection information, please see
-<https://www.nersc.gov/news-publications/announcements/featured-announcements/knl-office-hours-starting-this-friday-and-every-friday-in-may/>.
-
-
+Join online at <https://lbnl.zoom.us/j/943079374> or view the event on the 
+[NERSC Public Events calendar](https://calendar.google.com/calendar/embed?src=lbl.gov_ls0gdtgi7b93jredles0ibl0u4%40group.calendar.google.com&ctz=America%2FLos_Angeles) 
+for full connection information.
