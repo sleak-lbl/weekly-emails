@@ -3,16 +3,18 @@
 There will be no new episode of the "NERSC User News" podcast this week. We 
 encourage you to instead enjoy some of our most recent episodes and greatest 
 hits:
+
+- [IO Middleware](https://anchor.fm/nersc-news/episodes/IO-Middleware-Quincey-Koziol-Interview-eaf5r3/a-a1c7plt)
+NERSC Principal Data Architect Quincey Koziol talks about IO Middleware:
+what it is, how you can benefit from using it in your code, and how it is 
+evolving to support data-intensive computing and future supercomputing 
+architectures.
 - [NERSC 2019 in Review and Looking Forward](https://anchor.fm/nersc-news/episodes/NERSC-2019-in-Review-and-Looking-Forward--Sudip-Dosanjh-Interview-ea5d5t/a-a1a6cpd)
 NERSC director Sudip Dosanjh reflects upon the accomplishments of NERSC and its 
 users in 2019, and what he's looking forward to in 2020 at NERSC.
 - [Community File System](https://anchor.fm/nersc-news/episodes/Community-File-System-Kristy-Kallback-Rose--Greg-Butler--and-Ravi-Cheema-Interview-e9d88q/a-a149hf5)
 NERSC Storage System Group staff Kristy Kallback-Rose, Greg Butler, and Ravi
 Cheema talk about the new Community File System and the migration timeline.
-- [May Quarterly Maintenance & James Botts Interview](https://anchor.fm/nersc-news/episodes/May-Quarterly-Maintenance--James-Botts-Interview-e1ec2g/a-a3cfi7)
-The first-ever NERSC User News podcast, in which James Botts from NERSC's 
-Computational Systems Group describes the process of rebooting Cori after an 
-outage.
 - [Monitoring System Performance](https://anchor.fm/nersc-news/episodes/Monitoring-System-Performance-Eric-Roman-Interview-e5g20m/a-aobd6p)
 NERSC Computational Systems Group's Eric Roman discusses how NERSC monitors 
 system performance, what we're doing with the data right now, and how we plan to
@@ -25,18 +27,6 @@ future of data-intensive science.
 - [Optimizing I/O in Applications](https://anchor.fm/nersc-news/episodes/Optimizing-IO-in-Applications-Jialin-Liu-Interview-e50nvm):
 Listen to an I/O optimization success story in this interview with NERSC Data
 and Analytics Services Group's Jialin Liu.
-- [ERCAP Allocation Requests](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l):
-Learn how to get compute and storage allocations on NERSC resources for next
-year in this interview with NERSC User Engagement Group's Clayton Bagwell.
-- [Roofline Model for Application Performance](https://anchor.fm/nersc-news/episodes/Roofline-Model-for-Application-Performance-Charlene-Yang-Interview-e4osl1):
-NERSC Application Performance Specialist Charlene Yang discusses the roofline 
-model for application performance: what it is and how it works, how to use it to
-improve your application's performance, and future directions in roofline model 
-research.
-- [Parallelware Trainer; Manuel Arenaz Interview](https://anchor.fm/nersc-news/episodes/Parallelware-Trainer-Manuel-Arenaz-Interview-e4g46r): 
-Learn about the Appentra Parallelware Trainer tool: how it can help you learn to
-code with OpenMP and OpenACC, the features of the tool, and how to use it on 
-Cori.
 - [Profiling Codes with Cray Performance Tools](https://anchor.fm/nersc-news/episodes/Profiling-Codes-with-Cray-Performance-Tools-Heidi-Poxon-Interview-e42veg):
 Learn about why you would want to profile your codes and the tools for profiling
 provided by Cray from Cray senior principal engineer and senior manager Heidi

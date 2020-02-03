@@ -4,7 +4,7 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [HPC Consultant/Software Integration Specialist](https://jobs.lbl.gov/jobs/hpc-consultant-software-integration-specialist-2491):
+- [HPC Consultant/Software Integration Specialist](https://jobs.lbl.gov/jobs/hpc-consultant-software-integration-specialist-2491):
 provide courteous and expert advice to NERSC users, and help develop continuous
 integration at NERSC.
 - [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-2476):
@@ -14,17 +14,13 @@ limits of HPC in simulation, data, or learning.
 - [HPC Architecture and Performance Engineer](https://jobs.lbl.gov/jobs/hpc-architecture-and-performance-engineer-2427):
 Evaluate global technology trends and combine them with the needs of NERSC users
 with the goal of architecting the supercomputing ecosystem of the future.
-- [Application Performance Specialist](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
+- [Application Performance Specialists (for APG](https://jobs.lbl.gov/jobs/application-performance-specialist-2312) and [ECP)](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
 Help prepare large-scale scientific codes for next-generation high performance 
-computing (HPC) systems as part of the ECP project.
+computing (HPC) systems.
 - [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):
 Protect Exascale class systems in an open science environment and enhance 
 network and host intrusion prevention as we migrate from 100G to Terabit 
 networks.
-- [Software Engineer (Storage and I/O)](https://jobs.lbl.gov/jobs/software-engineer-storage-and-i-o-2275):
-Enable DOE researchers and the broader science community to benefit from 
-improvements to HDF5 and other leading high-performance computing (HPC) storage 
-and I/O software.
 - [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2004):
 work in multidisciplinary teams to transition simulation codes to NERSC's new 
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 
@@ -44,7 +40,7 @@ Buffer, Lustre, and Spectrum Scale filesystems, and HPSS archives).
 
 (**Note:** We have received reports that the URLs for the jobs change without 
 notice, so if you encounter a page indicating that a job is closed or not found,
-please check by navigating to <https://https://jobs.lbl.gov/>, scrolling down to
+please check by navigating to <https://jobs.lbl.gov/>, scrolling down to
 the 9th picture that says "All Jobs" and clicking on that. Then, under 
 "Business," select "View More" and scroll down until you find the checkbox for 
 "NE-NERSC" and select it.)
