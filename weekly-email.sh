@@ -56,7 +56,7 @@ done
 
 # assemble the markdown from the outline, if necessary:
 if [[ $file =~ ^outline- ]]; then
-    for_real=0
+    #for_real=0
     assembled=${file/outline/weekly-email}
     [[ -e $assembled ]] && echo "warning: overwriting $assembled"
     scripts=$(/usr/bin/dirname ${BASH_SOURCE[0]})
@@ -65,7 +65,6 @@ if [[ $file =~ ^outline- ]]; then
     echo "$0 --for-real $assembled"
     file=$assembled
 fi
-
 if (( for_real )) ; then
     to="$real_to" 
     bcc+="$real_bcc" 
@@ -111,5 +110,29 @@ cat >> ${f}.email << EOF
 --asdfghjkl--
 EOF
 
+show=echo # while I'm testing
 $show /usr/sbin/sendmail -i -t < ${f}.email
 
+if (( for_real )) ; then
+    outline=${file/weekly-email/outline}
+    #files=$(sed -n 's/^(#\(\w\+\))/\1.md/p' $outline)
+    #files+=" $file $outline"
+    files=$(git ls-files -o --exclude-standard)
+    read -p "commit edits? [Y/n]" yn
+    case ${yn:0:1} in
+        n|N) exit ;;
+    esac
+    label=$(sed -n 's/^# NERSC Weekly Email, Week of \([A-Za-z]\+ [0-9]\+, [0-9]\+\).*/\1/p; q' $outline)
+    msg="add updates for $label"
+    echo "commit message? (make blank to abort)"
+    read -e -i "$msg" ans
+    [[ -z $ans ]] && exit
+    git add $files &&
+    git commit -a -m "'$ans'"  || 
+    { echo "something went wrong"; exit ; }
+    read -p "push to github? [Y/n]"
+    case ${yn:0:1} in
+        n|N) exit ;;
+    esac
+    echo git push
+fi
