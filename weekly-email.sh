@@ -134,5 +134,5 @@ if (( for_real )) ; then
     case ${yn:0:1} in
         n|N) exit ;;
     esac
-    echo git push
+    git push
 fi
