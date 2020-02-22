@@ -20,6 +20,11 @@ esac
 real_to="To: users@nersc.gov"
 real_bcc=", Richard.Carlson@science.doe.gov, barbara.helland@science.doe.gov, christine.chalk@science.doe.gov, cpott@lbl.gov, nersc-admin@lbl.gov, carol.hawk@science.doe.gov"
 reply_to="Reply-To: consult@nersc.gov"
+# if pasting into gmail interface, use:	nersc-consulting@lbl.gov
+# need to do it in gmail -> settings -> accounts -> send mail as
+# check the google group "nersc consulting".
+# (ugh, it still gets reported as spam)
+
 
 usage="$0 [-n] [--for-real] <outline-YYYYMMDD.md>"$'\n'
 usage+="$0 [-n] [--for-real] <weekly-email-YYYYMMDD.md>"$'\n'
@@ -96,7 +101,9 @@ Content-Type: text/html; charset=utf-8
 EOF
 
 # generate and add the html part:
-cmark ${f}.md >> ${f}.email
+#cmark ${f}.md >> ${f}.email
+cmark --unsafe ${f}.md > ${f}.html
+cat ${f}.html >> ${f}.email
 
 # end matter:
 cat >> ${f}.email << EOF

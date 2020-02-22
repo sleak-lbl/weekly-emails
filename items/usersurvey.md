@@ -1,4 +1,4 @@
-## NERSC User Survey for AY 2019 Closes this Friday, February 28th
+### NERSC User Survey for AY 2019 Closes this Friday, February 28th
 
 Users who were active in 2019 were sent personalized invitations for the 
 annual NERSC User Survey from a company called NBRI. Thank you to the 500

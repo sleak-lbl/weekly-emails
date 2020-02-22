@@ -1,4 +1,4 @@
-## About this Email
+### About this Email
 
 You are receiving this email because you are the owner of an active account at
 NERSC. This mailing list is automatically populated with the email addresses
