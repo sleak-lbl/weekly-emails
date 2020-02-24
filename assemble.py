@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import re
 item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
@@ -56,7 +56,7 @@ if __name__ == '__main__':
         lines = infile.readlines()
         m = email_title_re.match(lines[0])
         if m and parse(nameparts['date']) != parse(m.group('date')):
-            print "Warning: the title date {0} doesn't seem to match the outline date {1}".format(m.group('date'), nameparts['date'])
+            print("Warning: the title date {0} doesn't seem to match the outline date {1}".format(m.group('date'), nameparts['date']))
         for line in lines:
             match = item_re.match(line)
             if match:
@@ -76,6 +76,6 @@ if __name__ == '__main__':
     allitems = set([f for f in listdir('items') if isfile(join('items', f))])
     unused = allitems - items
     if len(unused) != 0:
-        print "Warning: the following items were found in items/ but not used:"
+        print("Warning: the following items were found in items/ but not used:")
         for i in unused:
-            print i
+            print(i)
