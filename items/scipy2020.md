@@ -11,7 +11,7 @@ track](https://www.scipy2020.scipy.org/talk-poster-presentations) at
 Austin, Texas.
 
 Submissions for talks and posters are being accepted through **February 11, 
-2020.** Sucessful talk submissions are eligible to submit a paper to be 
+2020.** Successful talk submissions are eligible to submit a paper to be 
 published in the conference proceedings.
 
 We hope to see you in Austin!

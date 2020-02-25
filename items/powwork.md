@@ -1,22 +1,11 @@
-## Sitewide Outage for Power Upgrade, February 21-24
+### Current NERSC Outage for Power Upgrade, Maintenance 
 
-Over the weekend of February 22-23, there will be a facilities upgrade to the
-systems that supply power to NERSC, in order to increase the amount of power
-available in the machine room. This work is required in order to have enough
-power to supply both Cori and Perlmutter (scheduled to arrive at the very end of
-this year).
+Over this past weekend NERSC underwent a site-wide outage as our power supply 
+was upgraded to support Perlmutter, which is scheduled to arrive around the 
+end of this year. The outage is scheduled to continue until 23:59 Tuesday 
+February 25, and includes maintenance work for Cori and other NERSC resources. 
 
-**During the outage, no NERSC systems will be available, including all 
-computing, file systems, and auxiliary services.**
+The power work went well, and the maintenance is on track to complete 
+overnight. Please check <https://www.nersc.gov/users/live-status/>
+for the latest updates.
 
-In preparation for the power being turned off so the electrical work may be
-performed, NERSC will begin shutting off computer systems at 7:00 am (Pacific
-time) on Friday, February 21. On Cori, there will be a system reservation in 
-place to prevent jobs from running, but any errant jobs will be killed at that 
-time and users will be logged off the machine. All systems will be offline by
-5:00 pm.
-
-After the electrical work is complete, we will begin powering the center back
-up. Work on Cori will begin at 7:00 am on Monday, February 24 and a maintenance
-will be performed at that time. We expect to have all systems returned to users
-before midnight.

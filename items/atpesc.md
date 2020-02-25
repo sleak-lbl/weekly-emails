@@ -1,4 +1,4 @@
-## Argonne Training Program on Extreme-Scale Computing Now Accepting Applications!
+### Argonne Training Program on Extreme-Scale Computing Now Accepting Applications!
 
 Are you a doctoral student, postdoc, or computational scientist looking for
 advanced training on the key skills, approaches, and tools to design, implement,
@@ -15,4 +15,4 @@ systems, and methodologies and tools relevant for Big Data applications. There
 is no cost to attend.
 
 For more information and to apply, please see <https://extremecomputingtraining.anl.gov/>.
-The application deadline is March 2, 2020.
+**The application deadline is March 2, 2020**.

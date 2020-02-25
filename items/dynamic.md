@@ -1,4 +1,4 @@
-## Dynamic Linking Is Now Default on Cori
+### Dynamic Linking Is Now Default on Cori
 
 With the change in default software environment for the new allocation year, the
 default linking mode on Cori is now dynamic.
@@ -6,7 +6,7 @@ default linking mode on Cori is now dynamic.
 For best performance with dynamically linked executables running on the compute
 nodes, we recommend storing your executable on 
 `/global/common/software/<your_proj>` instead of the community file system. 
-Note that i`/global/common` is mounted as read-write on login nodes, and 
+Note that `/global/common` is mounted as read-write on login nodes, and 
 read-only on compute nodes.
 
 If you prefer to use static linking as default (e.g., for workflow or 

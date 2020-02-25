@@ -3,7 +3,7 @@
 import re
 item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
 # note that this ignores any anchor, the filename (sans suffix) is used as anchor instead:
-title_re = re.compile('^## ([^<#]+)')
+title_re = re.compile('^### ([^<#]+)')
 
 def item(name):
     """ returns tuple of (title, text) """
@@ -16,7 +16,7 @@ def item(name):
                 match = title_re.match(line)
                 if match:
                     title = match.group(1).strip()
-                    text += '\n## {0} <a name="{1}"/></a> ##\n'.format(title, name)
+                    text += '\n### {0} <a name="{1}"/></a> ###\n'.format(title, name)
                 continue
             if line.strip() == "":
                 blankcount += 1
@@ -42,9 +42,9 @@ if __name__ == '__main__':
     #outfilename = 'weekly-email-{0}'.format(infilename.rsplit('-',1)[-1])
     outfilename = 'weekly-email-{0}.md'.format(nameparts['date'])
 
-    item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
-    # note that the anchor point in the item title will be replaced:
-    title_re = re.compile('^## ([^<#]+)')
+    #item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
+    ## note that the anchor point in the item title will be replaced:
+    #title_re = re.compile('^## ([^<#]+)')
 
     email_title_re = re.compile('^# NERSC Weekly Email, Week of (?P<date>\w+ \d+, \d+)')
 

@@ -1,11 +1,17 @@
-## Come Work for NERSC! 
+### Come Work for NERSC! 
 
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [HPC Architecture & Performance Student Assistant (NEW)](https://jobs.lbl.gov/jobs/hpc-architecture-performance-student-assistant-2537):
+Summer internships in the 
+[Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/). 
+Areas of interest span from performance analysis for next generation 
+high-performance computing (HPC) architectures, power management and evaluating 
+OpenMP on accelerators. 
 - [HPC Consultant/Software Integration Specialist](https://jobs.lbl.gov/jobs/hpc-consultant-software-integration-specialist-2491):
-provide courteous and expert advice to NERSC users, and help develop continuous
+Provide courteous and expert advice to NERSC users, and help develop continuous
 integration at NERSC.
 - [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-2476):
 Work as part of a multidisciplinary team composed of computational and domain 
@@ -14,7 +20,7 @@ limits of HPC in simulation, data, or learning.
 - [HPC Architecture and Performance Engineer](https://jobs.lbl.gov/jobs/hpc-architecture-and-performance-engineer-2427):
 Evaluate global technology trends and combine them with the needs of NERSC users
 with the goal of architecting the supercomputing ecosystem of the future.
-- [Application Performance Specialists (for APG](https://jobs.lbl.gov/jobs/application-performance-specialist-2312) and [ECP)](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
+- [Application Performance Specialists (for ECP)](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
 - [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):

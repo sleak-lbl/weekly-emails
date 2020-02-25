@@ -1,4 +1,4 @@
-## Training: Introduction to GPUs, Feb 28
+### Training: Introduction to GPUs, Feb 28
 
 NERSC will host a one-day "Introduction to GPU" training event for users on 
 Friday, February 28, 2020. Topics covered will include:
