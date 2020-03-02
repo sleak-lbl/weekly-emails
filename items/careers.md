@@ -4,7 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [HPC Architecture & Performance Student Assistant (NEW)](https://jobs.lbl.gov/jobs/hpc-architecture-performance-student-assistant-2537):
+- [Senior Network Engineer (NEW)](https://jobs.lbl.gov/jobs/senior-network-engineer-2580):
+Be part of the team who shares in the design, implementation and on-going 
+maintenance of NERSC's high performance networks.
+- [HPC Architecture & Performance Student Assistant](https://jobs.lbl.gov/jobs/hpc-architecture-performance-student-assistant-2537):
 Summer internships in the 
 [Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/). 
 Areas of interest span from performance analysis for next generation 

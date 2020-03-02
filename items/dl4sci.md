@@ -1,4 +1,4 @@
-### Call for Applications: Deep Learning for Science School
+### Call for Applications: Deep Learning for Science School due this Wednesday
 
 Are you interested in applying deep learning to your science problem? Would you
 like to learn more about the capabilities of deep learning and how to use it in

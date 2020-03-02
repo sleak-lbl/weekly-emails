@@ -15,7 +15,7 @@ development goals. During the event, teams will have access to compute resources
 provided by SDSC, NERSC, and OLCF.
 
 If you are interested in more information, or would like to submit a short
-proposal form, please visit SDSC’s event page:
+proposal form, please visit SDSC's event page:
 <https://hpc-training.sdsc.edu/gpuhackathon/>. Please note the **deadline to submit
 a proposal is March 11, 2020**. 
 

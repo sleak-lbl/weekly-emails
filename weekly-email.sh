@@ -71,8 +71,10 @@ if (( for_real )) ; then
 fi
 
 # get the subject from the first heading in the input file:
-sline=$(grep -m 1 '^# NERSC' $file)
-subject="Subject: ${sline//#}"
+#sline=$(grep -m 1 '^# NERSC' $file)
+#sline=$(grep -m 1 -i -o 'NERSC Weekly Email, Week of [A-Za-z]+ [0-9]+, 202[0-9]' $file)
+#subject="Subject: ${sline//#}"
+subject=$(grep --color=never -m 1 -i -E -o 'NERSC Weekly Email, Week of [A-Za-z]+ [0-9]+, 202[0-9]' $file)
 
 f=${file%.md}
 cat > ${f}.email << EOF
@@ -81,7 +83,7 @@ $to
 $bcc
 $reply_to
 Date: `date` 
-$subject
+Subject: $subject
 MIME-Version: 1.0
 Content-Type: multipart/alternative; boundary=asdfghjkl
 
@@ -101,7 +103,15 @@ EOF
 
 # generate and add the html part:
 #cmark ${f}.md >> ${f}.email
-cmark --unsafe ${f}.md > ${f}.html
+#cmark --unsafe ${f}.md > ${f}.html || { echo "error running cmark!" ; exit 2 ; }
+# argh, cmark made breaking changes between versions:
+cmarkver=$(cmark --version | sed -n 's/^cmark \([0-9.]\+\).*/\1/p')
+case $cmarkver in 
+  0.28.3) cmark=cmark ;;
+  0.29.0) cmark="cmark --unsafe" ;;
+  *) echo "check cmark usage and update $0" ; exit 2 ;;
+esac
+$cmark ${f}.md > ${f}.html || { echo "error running cmark!" ; exit 2 ; }
 cat ${f}.html >> ${f}.email
 
 # end matter:
@@ -110,7 +120,7 @@ cat >> ${f}.email << EOF
 --asdfghjkl--
 EOF
 
-show=echo # while I'm testing
+#show=echo # while I'm testing
 $show /usr/sbin/sendmail -i -t < ${f}.email
 
 if (( for_real )) ; then

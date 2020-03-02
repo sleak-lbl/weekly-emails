@@ -1,4 +1,4 @@
-### User Dotfile Changes This Week 
+### User Dotfile Changes
 
 Until now, NERSC reserved the standard dotfiles (`~/.bashrc`, `~/.bash_profile`,
 `~/.cshrc`, `~/.login`, etc.) and users added customizations instead to the

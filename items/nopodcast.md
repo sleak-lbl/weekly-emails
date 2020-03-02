@@ -1,9 +1,13 @@
-## No New "NERSC User News" Podcast this Week
+### No New "NERSC User News" Podcast this Week
 
 There will be no new episode of the "NERSC User News" podcast this week. We 
 encourage you to instead enjoy some of our most recent episodes and greatest 
 hits:
 
+- [RAPIDS](https://anchor.fm/nersc-news/episodes/The-RAPIDS-Library-Nick-Becker-Interview-eb0h5a)
+In this interview with NVIDIA RAPIDS senior engineer Nick Becker, 
+learn about the RAPIDS library, how it can accelerate your data 
+science, and how to use it.
 - [IO Middleware](https://anchor.fm/nersc-news/episodes/IO-Middleware-Quincey-Koziol-Interview-eaf5r3/a-a1c7plt)
 NERSC Principal Data Architect Quincey Koziol talks about IO Middleware:
 what it is, how you can benefit from using it in your code, and how it is 
@@ -27,21 +31,6 @@ future of data-intensive science.
 - [Optimizing I/O in Applications](https://anchor.fm/nersc-news/episodes/Optimizing-IO-in-Applications-Jialin-Liu-Interview-e50nvm):
 Listen to an I/O optimization success story in this interview with NERSC Data
 and Analytics Services Group's Jialin Liu.
-- [Profiling Codes with Cray Performance Tools](https://anchor.fm/nersc-news/episodes/Profiling-Codes-with-Cray-Performance-Tools-Heidi-Poxon-Interview-e42veg):
-Learn about why you would want to profile your codes and the tools for profiling
-provided by Cray from Cray senior principal engineer and senior manager Heidi
-Poxon.
-- [Energy Efficiency and Environmental Consciousness at NERSC](https://anchor.fm/nersc-news/episodes/Energy-Efficiency-and-Environmental-Consciousness-at-NERSC--Norm-Bourassa-Interview-e35tfp):
-Learn about all the energy efficiency work going on at NERSC from building
-energy efficiency expert Norm Bourassa.
-- [Getting a Machine from Contract to Reality](https://anchor.fm/nersc-news/episodes/Getting-a-Machine-from-Contract-to-Reality--Tina-Declerck-Interview-e307eg/a-a9521c):
-Listen to Systems Department Head Tina Declerck describe the complex process of 
-going from a contract with a vendor to a supercomputer on the floor in 
-production for users.
-- [A Day in the Control Room](https://anchor.fm/nersc-news/episodes/A-Day-in-the-Control-Room--Interview-with-Owen-James-e2uh9v/a-a8rppe):
-In this interview, NERSC Site Reliability Engineer Owen James talks about what
-it's like in the NERSC control room and how they ensure that the systems stay
-up for you.
 - [NESAP Postdocs](https://anchor.fm/nersc-news/episodes/NESAP-Postdocs--Laurie-Stephey-Interview-e2lsg0):
 Learn from NESAP postdoc Laurie Stephey what it's like working as a postdoc in
 the NESAP program at NERSC.
