@@ -2,12 +2,12 @@
 
 Until now, NERSC reserved the standard dotfiles (`~/.bashrc`, `~/.bash_profile`,
 `~/.cshrc`, `~/.login`, etc.) and users added customizations instead to the
-corresponding `.ext` files (eg `~/.bashrc.ext`). During today's maintenance we 
-have changed this setup so that dotfiles on NERSC systems are more like those 
+corresponding `.ext` files (eg `~/.bashrc.ext`). During last week's maintenance 
+we changed this setup so that dotfiles on NERSC systems are more like those 
 on a traditional Linux system. 
 
 You will now see that your dotfiles are no longer a symlink to NERSC-defined 
-dotfiles and instead are a template that sources your `.ext` file, eg your
+dotfiles and instead are a template that sources your `.ext` file, e.g., your
 `~/.bashrc` file now looks like:
 
 ```

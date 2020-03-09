@@ -17,8 +17,8 @@ Following the presentation will be a hands-on session where in-person
 participants can complete example exercises meant to reinforce the presented 
 concepts.
 
-Registration for part 3 **closes on March 11**. For more information 
-(including registration information) please see 
+Registration for part 3 **closes this Wednesday, March 11**. For more 
+information (including registration information) please see 
 <https://www.nersc.gov/users/training/events/fundamental-cuda-optimization-part-1-part-3-of-9-cuda-training-series/>
 
 Other scheduled dates in the series:

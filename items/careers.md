@@ -4,7 +4,11 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [Senior Network Engineer (NEW)](https://jobs.lbl.gov/jobs/senior-network-engineer-2580):
+- **NEW** [Storage Systems Group Leader](https://jobs.lbl.gov/jobs/storage-systems-group-leader-2596):
+Lead the group responsible for supporting NERSC's large-scale parallel file 
+systems and archival storage systems with an eye towards balancing performance, 
+stability, and usability for NERSC's over 7000 users. 
+- [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2580):
 Be part of the team who shares in the design, implementation and on-going 
 maintenance of NERSC's high performance networks.
 - [HPC Architecture & Performance Student Assistant](https://jobs.lbl.gov/jobs/hpc-architecture-performance-student-assistant-2537):
@@ -27,7 +31,7 @@ with the goal of architecting the supercomputing ecosystem of the future.
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
 - [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):
-Protect Exascale class systems in an open science environment and enhance 
+Protect Exascale class systems in an open-science environment and enhance 
 network and host intrusion prevention as we migrate from 100G to Terabit 
 networks.
 - [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2004):

@@ -1,4 +1,6 @@
 #!/bin/bash
+# System python3 does not have dateutil.parser 
+module load python
 
 case $USER in
     rjhb)  from="From: Rebecca Hartman-Baker <rjhartmanbaker@lbl.gov>"  

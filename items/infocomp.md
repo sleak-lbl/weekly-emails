@@ -1,4 +1,4 @@
-### INFOCOMP 2020, The Tenth International Conference on Advanced Communications and Computation
+### Submissions for INFOCOMP 2020, The Tenth International Conference on Advanced Communications and Computation, Due May 18
 
 INFOCOMP2020 is soliciting academic, research, and industrial contributions 
 presenting research and practical results, position papers addressing the pros 

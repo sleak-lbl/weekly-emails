@@ -1,8 +1,8 @@
 ### Data Analytics in Python on GPUs with NVIDIA RAPIDS, April 14, 2020
 
 NERSC and NVIDIA are pleased to announce an all-day training event at NERSC on
-**Tuesday, April 14, 2020** to teach NERSC users about the NVIDIA RAPIDS software
-ecosystem for GPU-accelerated data analytics and machine learning.
+**Tuesday, April 14, 2020** to teach NERSC users about the NVIDIA RAPIDS 
+software ecosystem for GPU-accelerated data analytics and machine learning.
 
 The RAPIDS data science framework includes a collection of libraries for
 executing end-to-end data science pipelines completely in the GPU, and is

@@ -16,8 +16,8 @@ provided by SDSC, NERSC, and OLCF.
 
 If you are interested in more information, or would like to submit a short
 proposal form, please visit SDSC's event page:
-<https://hpc-training.sdsc.edu/gpuhackathon/>. Please note the **deadline to submit
-a proposal is March 11, 2020**. 
+<https://hpc-training.sdsc.edu/gpuhackathon/>. Please note the **deadline to 
+submit a proposal is this Wednesday, March 11, 2020**. 
 
 For questions about the hackathon please contact Tom Papatheodore (`papatheodore` at
 `ornl.gov`) or Susan Rathbun (`susan` at `sdsc.edu`).
