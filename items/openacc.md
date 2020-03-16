@@ -13,8 +13,7 @@ OpenACC API.
 Each part will include a one-hour presentation and example exercises. The 
 exercises are meant to reinforce the material from the presentation and 
 can be completed during a one-hour hands-on session following each lecture 
-(for in-person participants) or on your own (for remote participants). 
-OLCF and NERSC will both be holding in-person events for each part of the series.
+(via teleconference) or on your own. **The April training will be online only.**
 
 More details are available at:
 <https://www.nersc.gov/users/training/events/introduction-to-openacc-part-1-of-3-openacc-training-series-april-17-2020/>

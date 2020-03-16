@@ -4,7 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Storage Systems Group Leader](https://jobs.lbl.gov/jobs/storage-systems-group-leader-2596):
+- **NEW** [Software/DevOps/API Engineer](https://jobs.lbl.gov/jobs/software-devops-api-engineer-2611):
+Work on the system that tracks and manages resource usage and help build an API
+to automate the use of supercomputing resources.
+- [Storage Systems Group Leader](https://jobs.lbl.gov/jobs/storage-systems-group-leader-2596):
 Lead the group responsible for supporting NERSC's large-scale parallel file 
 systems and archival storage systems with an eye towards balancing performance, 
 stability, and usability for NERSC's over 7000 users. 

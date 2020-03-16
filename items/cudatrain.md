@@ -5,17 +5,16 @@ existing GPU programmers understand the main concepts of the CUDA platform and
 its programming model. Each part will include a 1-hour presentation and example 
 exercises. The exercises are meant to reinforce the material from the 
 presentation and can be completed during a 1-hour hands-on session following 
-each lecture (for in-person participants) or on your own (for remote 
-participants). OLCF and NERSC will both be holding in-person events for each 
-part of the series.
+each lecture via teleconference or on your own. **The entire event will be 
+online exclusively for this and the following event.**
 
 The third training in the series, on Fundamental CUDA Optimization, will 
-introduce users to optimization strategies related to kernel launch configurations, 
-GPU latency hiding, global memory throughput, and shared memory applicability.
+introduce users to optimization strategies related to kernel launch 
+configurations, GPU latency hiding, global memory throughput, and shared memory 
+applicability.
 
-Following the presentation will be a hands-on session where in-person 
-participants can complete example exercises meant to reinforce the presented 
-concepts.
+Following the presentation will be a hands-on session where participants can 
+complete example exercises meant to reinforce the presented concepts.
 
 Registration for part 3 **closes this Wednesday, March 11**. For more 
 information (including registration information) please see 
