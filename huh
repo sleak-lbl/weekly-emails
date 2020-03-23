@@ -1,5 +1,0 @@
-('Debug: starting ', './outline-20200217.md')
-Traceback (most recent call last):
-  File "./assemble.py", line 38, in <module>
-    nameparts = re.match('(?P<label>\w+)-(?P<date>\d+).md', infilename).groupdict()
-AttributeError: 'NoneType' object has no attribute 'groupdict'
