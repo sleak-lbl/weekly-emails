@@ -1,4 +1,4 @@
-### CUDA Training Series Continues March 18
+### CUDA Training Series Continues April 16
 
 NVIDIA is presenting a 9-part CUDA training series intended to help new and 
 existing GPU programmers understand the main concepts of the CUDA platform and 
@@ -6,21 +6,20 @@ its programming model. Each part will include a 1-hour presentation and example
 exercises. The exercises are meant to reinforce the material from the 
 presentation and can be completed during a 1-hour hands-on session following 
 each lecture via teleconference or on your own. **The entire event will be 
-online exclusively for this and the following event.**
+online exclusively for this event.**
 
-The third training in the series, on Fundamental CUDA Optimization, will 
-introduce users to optimization strategies related to kernel launch 
-configurations, GPU latency hiding, global memory throughput, and shared memory 
-applicability.
+The fourth training in the series, on Fundamental CUDA Optimization, is a
+continuation of what was learned last time about optimization strategies related
+to kernel launch configurations, GPU latency hiding, global memory throughput, 
+and shared memory applicability.
 
 Following the presentation will be a hands-on session where participants can 
 complete example exercises meant to reinforce the presented concepts.
 
-Registration for part 3 **closes this Wednesday, March 11**. For more 
+Registration for part 4 closes Thursday, April 9. For more 
 information (including registration information) please see 
-<https://www.nersc.gov/users/training/events/fundamental-cuda-optimization-part-1-part-3-of-9-cuda-training-series/>
+<https://www.nersc.gov/users/training/events/fundamental-cuda-optimization-part-2-part-4-of-9-cuda-training-series/>.
 
 Other scheduled dates in the series:
-- April 16: [4. Fundamental CUDA Optimization (Part 2)](https://www.nersc.gov/users/training/events/fundamental-cuda-optimization-part-2-part-4-of-9-cuda-training-series/)
 - May 13: [5. CUDA Atomics, Reductions, and Warp Shuffle](https://www.nersc.gov/users/training/events/cuda-atomics-reductions-and-warp-shuffle-part-5-of-9-cuda-training-series/)
 

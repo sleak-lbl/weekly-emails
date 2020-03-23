@@ -1,6 +1,7 @@
 ### No New "NERSC User News" Podcast this Week
 
-There will be no new episode of the "NERSC User News" podcast this week. We 
+There will be no new episode of the "NERSC User News" podcast this week as we
+try to adapt to social distancing. We 
 encourage you to instead enjoy some of our most recent episodes and greatest 
 hits:
 

@@ -1,4 +1,4 @@
-### OpenACC Training Sereies at NERSC and OLCF, starting April 17
+### OpenACC Training Series at NERSC and OLCF, starting April 17
 
 OpenACC is a directive-based approach to parallel programming for heterogeneous 
 architectures, where developers specify regions of code (written in C, C++, 

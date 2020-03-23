@@ -1,14 +1,10 @@
-### Cori Maintenance on Wednesday, March 25
+### Cori Maintenance on Wednesday, March 25; Reduced Scope, Shorter Downtime
 
-The March Cori system maintenance will begin just after midnight (Pacific time)
-on Wednesday, March 25. During this maintenance, we will be upgrading the Cori
-scratch software stack to a newer version. 
+The March Cori system maintenance for this Wednesday, March 25, has been scaled
+down. During this maintenance, we will simply be installing a minor patch set
+and performing hardware maintenance on Cori. Because there will be less to do,
+the maintenance will begin at 7:00 am (Pacific) rather than just after midnight.
 
-There will be a reservation in place to prevent jobs from running into the 
-maintenance time. Any users on the system will be logged off and there will be 
-no user access to the system for the duration of the outage, which is expected 
-to end at 5 pm.
-
-Note that during the maintenance, the Cori scratch file system will be
-unavailable everywhere, including on the Data Transfer Nodes and through Globus.
-
+During the maintenance, the Cori scratch file system will be available from
+systems other than Cori. We expect to have the system returned to users before
+7:00 pm on Wednesday.

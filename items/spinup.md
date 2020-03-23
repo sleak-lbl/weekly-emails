@@ -9,13 +9,13 @@ NERSC User News podcast on Spin:
 
 Attend an upcoming SpinUp workshop to learn to use Spin for your own science 
 gateway projects! Applications for sessions that begin 
-[Thursday April 23](https://www.nersc.gov/users/data-analytics/spin/#toc-anchor-3) 
+[Thursday April 23](https://www.nersc.gov/users/training/spin/)
 are now open. SpinUp is hands-on and interactive, so space is limited.
 
 Participants will attend two instructional sessions and a hack-a-thon to learn 
 about the platform, create running services, and learn maintenance and 
 troubleshooting techniques. Local and remote participants are welcome.
 
-See a video of Spin in action, check the workshop schedule, and apply at the 
-[NERSC Spin](https://www.nersc.gov/users/data-analytics/spin/) page.
+See a video of Spin in action at the 
+[Spin documentation](https://docs.nersc.gov/services/spin/) page.
 
