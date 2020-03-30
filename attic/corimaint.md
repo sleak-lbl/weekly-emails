@@ -1,11 +1,10 @@
-## Cori Maintenance on Wednesday
+### Cori Maintenance on Wednesday, March 25; Reduced Scope, Shorter Downtime
 
-Cori will be down for maintenance this Wednesday, October 17. During this
-maintenance, the login nodes and Cori scratch filesystem (cscratch1) will remain
-available, but no jobs will run. During the maintenance, the batch system will 
-be upgraded to version 18.08, the Datawarp patch will be installed, and a short 
-test will be run on Cori scratch. During the test, a reservation will be put in 
-place to prevent Edison jobs from using cscratch1.
+The March Cori system maintenance for this Wednesday, March 25, has been scaled
+down. During this maintenance, we will simply be installing a minor patch set
+and performing hardware maintenance on Cori. Because there will be less to do,
+the maintenance will begin at 7:00 am (Pacific) rather than just after midnight.
 
-The maintenance will commence at 7:00 am and we expect to return the machine to
-users before 7:00 pm (Pacific).
+During the maintenance, the Cori scratch file system will be available from
+systems other than Cori. We expect to have the system returned to users before
+7:00 pm on Wednesday.

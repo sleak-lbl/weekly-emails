@@ -33,10 +33,6 @@ with the goal of architecting the supercomputing ecosystem of the future.
 - [Application Performance Specialists (for ECP)](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
 Help prepare large-scale scientific codes for next-generation high performance 
 computing (HPC) systems.
-- [High Performance Computing Security Developer](https://jobs.lbl.gov/jobs/high-performance-computing-security-developer-2295):
-Protect Exascale class systems in an open-science environment and enhance 
-network and host intrusion prevention as we migrate from 100G to Terabit 
-networks.
 - [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2004):
 work in multidisciplinary teams to transition simulation codes to NERSC's new 
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 
