@@ -1,4 +1,4 @@
-### Normal NERSC Operations Expected During California Shelter-in-Place Period
+### Normal NERSC Operations Continue During California Shelter-in-Place Period
 
 Berkeley Lab, where NERSC is housed, is located in California, which is under a 
 statewide public health shelter-in-place Order for an indefinite period of time.

@@ -15,8 +15,8 @@ exercises are meant to reinforce the material from the presentation and
 can be completed during a one-hour hands-on session following each lecture 
 (via teleconference) or on your own. **The April training will be online only.**
 
-More details are available at:
-<https://www.nersc.gov/users/training/events/introduction-to-openacc-part-1-of-3-openacc-training-series-april-17-2020/>
-<https://www.nersc.gov/users/training/events/openacc-data-management-part-2-of-3-openacc-training-series-may-28-2020/>
-<https://www.nersc.gov/users/training/events/openacc-data-management-part-3-of-3-openacc-training-series-june-23-2020/>
+More details are available on the series web pages:
+- [Introduction to OpenACC (April 17)](https://www.nersc.gov/users/training/events/introduction-to-openacc-part-1-of-3-openacc-training-series-april-17-2020/)
+- [OpenACC Data Management (May 28)](https://www.nersc.gov/users/training/events/openacc-data-management-part-2-of-3-openacc-training-series-may-28-2020/)
+- [Loop Optimizations with OpenACC (June 23)](https://www.nersc.gov/users/training/events/loop-optimizations-with-openacc-part-3-of-3-openacc-training-series-june-23-2020/)
 
