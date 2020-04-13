@@ -20,9 +20,6 @@ Summer internships in the
 Areas of interest span from performance analysis for next generation 
 high-performance computing (HPC) architectures, power management and evaluating 
 OpenMP on accelerators. 
-- [HPC Consultant/Software Integration Specialist](https://jobs.lbl.gov/jobs/hpc-consultant-software-integration-specialist-2491):
-Provide courteous and expert advice to NERSC users, and help develop continuous
-integration at NERSC.
 - [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-2476):
 Work as part of a multidisciplinary team composed of computational and domain 
 scientists working together to produce mission-relevant science that pushes the 
