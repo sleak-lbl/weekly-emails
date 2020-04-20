@@ -1,4 +1,9 @@
-### Help Us Improve Your Jupyter Experience (Survey)
+### Last Chance! Jupyter Experience Survey Closes Sunday
+
+If you use Project Jupyter tools on HPC systems, we want to hear from you! 
+Don't forget to participate in the Jupyter Experience Survey before it closes on
+Sunday! The survey requires only 5-10 minutes of your time to complete. Please 
+fill out the online survey at: <https://forms.gle/G4mS5KG158pQgVno8>.
 
 Researchers from the Data Science and Technology Department at Lawrence Berkeley
 National Lab (Berkeley Lab) are conducting a survey of scientific researchers 
@@ -12,13 +17,6 @@ scientists understand and think about their data, and to identify opportunities
 to improve the NERSC Jupyter experience. **If your research work uses Project 
 Jupyter tools on HPC systems then we are seeking your participation in our
 study**.
-
-Participating in this study involves spending only 5-10 minutes completing our 
-online survey at the following link: <https://forms.gle/G4mS5KG158pQgVno8>.
-
-Please follow the link above if you are interested in participating in this 
-research. If you know someone else who might be interested in participating, 
-then please feel free to forward this message to that person.
 
 If you have any further questions about taking part in this study, please 
 contact Dr. Lavanya Ramakrishnan at 510-486-4384. Any questions you have about 
