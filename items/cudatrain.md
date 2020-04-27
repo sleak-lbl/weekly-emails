@@ -20,5 +20,5 @@ registration information) please see
 <https://www.nersc.gov/users/training/events/cuda-atomics-reductions-and-warp-shuffle-part-5-of-9-cuda-training-series/>.
 
 Other scheduled dates in the series:
-- June 18: 6. Managed Memory
-- July 21: 7. CUDA Concurrency
+- June 18: 6. [Managed Memory](https://www.nersc.gov/users/training/events/managed-memory-part-6-of-9-cuda-training-series-june-18-2020/)
+- July 21: 7. [CUDA Concurrency](https://www.nersc.gov/users/training/events/cuda-concurrency-part-7-of-9-cuda-training-series-july-21-2020/)

@@ -1,7 +1,7 @@
 ### VTune Profiler Default Upgraded to 2020 & All Older Versions Deprecated
 
-This week, the Intel VTune profiler version default has been upgraded to
-version 2020. Version 2020 includes significant upgrades in functionality and
+Last week, the Intel VTune profiler version default was upgraded to 
+version 2020. Version 2020 includes significant upgrades in functionality and 
 performance, and changes the names of the executables to simpler and 
 easier-to-understand strings.
 

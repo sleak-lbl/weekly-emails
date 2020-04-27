@@ -1,15 +1,22 @@
-### Join Us for the Inaugural NERSC Users Group Special Interest Group on Experimental Facilities Meeting on Wednesday!
+### NERSC Users Group Special Interest Group on Experimental Facilities Created 
 
-The NERSC Users Group (NUG) has formed a new Special Interest Group (SIG) on
-Experimental Facilities. The purpose of the SIG is to provide a forum for users
-who process data from experimental facilities to discuss policies and tools
-that are of specific interest to these users and to advise NERSC on how to
-improve its support of these workflows.
+The inaugural meeting of the NERSC Users Group (NUG) Special Interest Group 
+(SIG) on Experimental Facilities took place last Wednesday, April 22, with a
+discussion of plans and goals for the SIG and a presentation on best practices
+for using NERSC. Outcomes of the meeting include:
+- The creation of a web page covering the presented best-practices advice: 
+<https://docs.nersc.gov/science-partners/bestpractices-eod/>. (Please note that 
+NERSC documentation is hosted from an open 
+[git repository](https://gitlab.com/NERSC/nersc.gitlab.io) and contributions 
+are encouraged, so please feel free to share your own best practices!)
+- A new channel on the NERSC Users Slack workspace, `#user-facilities`, for 
+anyone interested in the SIG to join. (See the next entry for information on how
+to join the NERSC Users Slack workspace.)
 
-The first meeting of the SIG will be this Wednesday, April 22 at 10 am 
-(Pacific). The agenda will be:
-1. A presentation on best practices and tips for users from experimental
-facilities running at NERSC
-2. Organizational discussion
+The SIG was formed in order to provide a forum NERSC users who process data from
+experimental and observational facilities sponsored by the DOE Office of Science
+to exchange best practices, knowledge, and tools. The group will also provide
+feedback to NERSC staff on how to improve support for these workflows, and
+provide input on policies that affect this growing workload at NERSC. To get
+involved please join the channel and take a look at <https://www.nersc.gov/users/NUG/sig-for-experimental-facility-users/> for regular updates.
 
-To join the meeting, please see <https://www.jlab.org/indico/event/383/>.
