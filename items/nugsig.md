@@ -1,9 +1,15 @@
-### NERSC Users Group Special Interest Group on Experimental Facilities Created 
+### Next Meeting for NERSC Users Group Special Interest Group on Experimental Facilities this Wednesday!
 
-The inaugural meeting of the NERSC Users Group (NUG) Special Interest Group 
-(SIG) on Experimental Facilities took place last Wednesday, April 22, with a
-discussion of plans and goals for the SIG and a presentation on best practices
-for using NERSC. Outcomes of the meeting include:
+The next meeting for the NERSC Users Group (NUG) Special Interest Group (SIG) on
+Experimental Facilities will be this Wednesday, May 6, at 10 am Pacific time.
+David Lawrence will present the NERSC workflow for the Jefferson Lab GlueX
+experiment. For more information, including how to connect to the meeting and an
+archive of all resources from previous meetings, please see 
+<https://www.jlab.org/indico/event/383/>.
+
+The inaugural meeting of the SIG on Experimental Facilities was held last month, 
+with a discussion of plans and goals for the SIG and a presentation on best 
+practices for using NERSC. Outcomes of the meeting included:
 - The creation of a web page covering the presented best-practices advice: 
 <https://docs.nersc.gov/science-partners/bestpractices-eod/>. (Please note that 
 NERSC documentation is hosted from an open 

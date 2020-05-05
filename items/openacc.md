@@ -6,7 +6,8 @@ or Fortran) to be offloaded from a host CPU to a GPU. This approach is meant
 to reduce the amount of programming effort required of developers relative to 
 low-level models, such as CUDA. 
 
-**NVIDIA will present a [3-part OpenACC training series](https://www.olcf.ornl.gov/openacc-training-series/)**
+NVIDIA will present a 
+[3-part OpenACC training series](https://www.olcf.ornl.gov/openacc-training-series/)
 intended to help new and existing GPU programmers learn to use the 
 OpenACC API. 
 

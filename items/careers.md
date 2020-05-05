@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-2697):
+Support and optimize hundreds of petabytes of parallel storage that is served to
+thousands of clients at terabytes per second.
 - [Software/DevOps/API Engineer](https://jobs.lbl.gov/jobs/software-devops-api-engineer-2611):
 Work on the system that tracks and manages resource usage and help build an API
 to automate the use of supercomputing resources.
@@ -14,12 +17,6 @@ stability, and usability for NERSC's over 7000 users.
 - [HPC Network Engineer](https://jobs.lbl.gov/jobs/hpc-network-engineer-2580):
 Be part of the team who shares in the design, implementation and on-going 
 maintenance of NERSC's high performance networks.
-- [HPC Architecture & Performance Student Assistant](https://jobs.lbl.gov/jobs/hpc-architecture-performance-student-assistant-2537):
-Summer internships in the 
-[Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/). 
-Areas of interest span from performance analysis for next generation 
-high-performance computing (HPC) architectures, power management and evaluating 
-OpenMP on accelerators. 
 - [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-2476):
 Work as part of a multidisciplinary team composed of computational and domain 
 scientists working together to produce mission-relevant science that pushes the 
