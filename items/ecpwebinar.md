@@ -1,8 +1,8 @@
-### IDEAS-ECP Webinar on Accelerating Numerical Libraries with Multi-Precision Algorithms on May 13
+### IDEAS-ECP Webinar on Accelerating Numerical Libraries with Multi-Precision Algorithms on Wednesday
 
 The May webinar in the Best Practices for HPC Software Developers series is
 entitled "Accelerating Numerical Software Libraries with Multi-Precision
-algorithms", and will take place next Wednesday, May 13, 2020, at 10:00 am 
+algorithms", and will take place this Wednesday, May 13, 2020, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Hartwig Anzt (Karlsruhe Institute of Technology) and

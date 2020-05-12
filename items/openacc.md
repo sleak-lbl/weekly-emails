@@ -14,7 +14,8 @@ OpenACC API.
 Each part will include a one-hour presentation and example exercises. The 
 exercises are meant to reinforce the material from the presentation and 
 can be completed during a one-hour hands-on session following each lecture 
-(via teleconference) or on your own. **The May training will be online only.**
+(via teleconference) or on your own. **All training sessions will be online 
+only.**
 
 The May training covers data management in OpenACC. For more information and to
 register, please see <https://www.nersc.gov/users/training/events/openacc-data-management-part-2-of-3-openacc-training-series-may-28-2020/>.
