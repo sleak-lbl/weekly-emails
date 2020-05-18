@@ -1,11 +1,10 @@
-## Please Take the Machine Learning at NERSC Survey!
+### Please Take the Machine Learning at NERSC Survey!
 
-The role of Machine Learning (ML) in data analytics continues to grow. If you 
-are currently using ML in your research or plan to in the future, we would like 
-to make sure that our systems meet all of your workload needs.
+NERSC is conducting a [survey](https://bit.ly/3d28ZdM) of scientific researchers
+who are developing and using machine-learning (ML) models for scientific 
+problems. We want to better understand users' current and future ML ecosystem 
+and computational needs for development, training, and deployment of models. 
 
-Please take 5 minutes to fill out our survey about your development environment,
-software stack, data, and algorithmic needs for your ML work. This feedback will
-help us better support your needs.
-
-Please take the survey here: <https://goo.gl/GLg5xz>
+Your feedback is critical! It will help us optimize Cori and also Perlmutter for
+ML capability and performance. Please take the survey at 
+<https://bit.ly/3d28ZdM>.

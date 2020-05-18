@@ -1,7 +1,7 @@
-### Register Now for May 21 Online Hands-On Training on Variable-Time Jobs!
+### Register Now for Thursday's Online Hands-On Training on Variable-Time Jobs!
 
 NERSC will host a two-hour, online hands-on user training on variable-time jobs
-on Thursday, May 21, from 10:00 am to noon (Pacific time). The training begins
+this Thursday, May 21, from 10:00 am to noon (Pacific time). The training begins
 with a 30-minute presentation, followed by a 90-minute hands-on session.
 
 Variable-time jobs can greatly improve queue turnaround by automatically 

@@ -4,6 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [HPC Systems Cloud Engineer](https://jobs.lbl.gov/jobs/hpc-systems-cloud-engineer-2717):
+help architect, deploy, configure, maintain, and operate large-scale, 
+leading-edge HPC systems of high complexity, to provide computational resources
+for scientists around the world, including COVID-19 researchers.
 - [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-2697):
 Support and optimize hundreds of petabytes of parallel storage that is served to
 thousands of clients at terabytes per second.
@@ -40,9 +44,6 @@ work in multidisciplinary teams to develop and implement cutting-edge machine
 learning/deep learning solutions in codes that will run on NERSC's new
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 
 the limits of high-end computing.
-- [HPC Storage Systems Analyst](https://jobs.lbl.gov/jobs/hpc-storage-systems-analyst-1851):
-Help architect, deploy, and manage NERSC's storage hierarchy (including Burst
-Buffer, Lustre, and Spectrum Scale filesystems, and HPSS archives).
 
 (**Note:** We have received reports that the URLs for the jobs change without 
 notice, so if you encounter a page indicating that a job is closed or not found,

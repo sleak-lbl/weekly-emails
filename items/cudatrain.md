@@ -1,4 +1,4 @@
-### CUDA Training Series Continues this Wednesday
+### CUDA Training Series Continues June 18
 
 NVIDIA is presenting a 9-part CUDA training series intended to help new and 
 existing GPU programmers understand the main concepts of the CUDA platform and 
@@ -8,19 +8,16 @@ presentation and can be completed during a 1-hour hands-on session following
 each lecture via teleconference or on your own. **These events are being held 
 exclusively online.**
 
-The fifth training in the series covers CUDA atomics, reductions, and warp 
-shuffle. These operations can help you in cases where exposing parallelism is
-not immediately obvious due to potential thread contention.
+The sixth training in the series covers CUDA managed memory. The system can
+automatically migrate data between the host and device as necessary. Learn how
+to allocate managed memory, as well as how to use it to store data structures
+that might otherwise be difficult to manage manually in a heterogeneous system.
 
 Following the presentation will be a hands-on session where participants can 
-complete example exercises meant to reinforce the presented concepts. As this
-module's exercises are expected to take longer than the allocated time, an 
-additional session to walk through the exercises has been scheduled for Monday,
-May 19.
+complete example exercises meant to reinforce the presented concepts. 
 
 For more information please see 
-<https://www.nersc.gov/users/training/events/cuda-atomics-reductions-and-warp-shuffle-part-5-of-9-cuda-training-series/>.
+<https://www.nersc.gov/users/training/events/managed-memory-part-6-of-9-cuda-training-series-june-18-2020/>
 
 Other scheduled dates in the series:
-- June 18: 6. [Managed Memory](https://www.nersc.gov/users/training/events/managed-memory-part-6-of-9-cuda-training-series-june-18-2020/)
 - July 21: 7. [CUDA Concurrency](https://www.nersc.gov/users/training/events/cuda-concurrency-part-7-of-9-cuda-training-series-july-21-2020/)

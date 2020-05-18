@@ -8,4 +8,5 @@ of their codes.
 
 The training will be presented online only, using Zoom technology.
 
+The agenda has now been announced.
 Please see <https://www.nersc.gov/users/training/events/arm-debugging-and-profiling-tools-tutorial-june-25-2020/> for the agenda and to register.

@@ -1,9 +1,8 @@
 ### No New "NERSC User News" Podcast this Week
 
-There will be no new episode of the "NERSC User News" podcast this week as we
-try to adapt to social distancing. We 
-encourage you to instead enjoy some of our most recent episodes and greatest 
-hits:
+There will be no new episode of the "NERSC User News" podcast this week due to 
+the new fortnightly production schedule. We encourage you to instead enjoy some 
+of our most recent episodes and greatest hits:
 
 - [RAPIDS](https://anchor.fm/nersc-news/episodes/The-RAPIDS-Library-Nick-Becker-Interview-eb0h5a)
 In this interview with NVIDIA RAPIDS senior engineer Nick Becker, 
