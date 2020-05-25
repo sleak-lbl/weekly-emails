@@ -4,7 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [HPC Systems Cloud Engineer](https://jobs.lbl.gov/jobs/hpc-systems-cloud-engineer-2717):
+- **NEW** [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
+use your DevOps and system engineering skills to help build and manage systems 
+that complement NERSC's supercomputing environment.
+- [HPC Systems Cloud Engineer](https://jobs.lbl.gov/jobs/hpc-systems-cloud-engineer-2717):
 help architect, deploy, configure, maintain, and operate large-scale, 
 leading-edge HPC systems of high complexity, to provide computational resources
 for scientists around the world, including COVID-19 researchers.

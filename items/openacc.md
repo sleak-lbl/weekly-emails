@@ -1,4 +1,4 @@
-### OpenACC Training Series Continues May 28
+### OpenACC Training Series Continues Thursday
 
 OpenACC is a directive-based approach to parallel programming for heterogeneous 
 architectures, where developers specify regions of code (written in C, C++, 
@@ -17,8 +17,9 @@ can be completed during a one-hour hands-on session following each lecture
 (via teleconference) or on your own. **All training sessions will be online 
 only.**
 
-The May training covers data management in OpenACC. For more information and to
-register, please see <https://www.nersc.gov/users/training/events/openacc-data-management-part-2-of-3-openacc-training-series-may-28-2020/>.
+The Thursday training covers data management in OpenACC. For more information 
+and to register, please see 
+<https://www.nersc.gov/users/training/events/openacc-data-management-part-2-of-3-openacc-training-series-may-28-2020/>.
 
 Remaining in the series:
 - [Loop Optimizations with OpenACC (June 23)](https://www.nersc.gov/users/training/events/loop-optimizations-with-openacc-part-3-of-3-openacc-training-series-june-23-2020/)

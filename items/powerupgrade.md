@@ -8,3 +8,6 @@ additional, shorter, outage will be scheduled for September.
 These two outages are necessary prerequisites for the installation of
 Perlmutter, the first stage of which is expected to arrive at the end of the
 year.
+
+We will inform users of the dates as soon as they are finalized, through a
+standalone email if necessary.
