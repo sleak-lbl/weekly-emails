@@ -1,12 +1,9 @@
 ### Upcoming Outages 
 
-- **Cori**
-    - Late June. The June monthly maintenance will coincide with the
-               building power upgrade.
-    - 07/15/20 Scheduled Maintenance (tentative)
-    - 08/19/20 Scheduled Maintenance (tentative)
-    - 09/16/20 Scheduled Maintenance (tentative)
-
+- **NERSC Center**
+   - 06/25/20 7:00-06/29/20 23:59 PDT, Scheduled Maintenance
+              Facility upgrade to prepare for Perlmutter.  Cori, NGF, HPSS and
+              other systems will be impacted.
 
 Visit <http://my.nersc.gov/> for latest status and outage 
 information.
