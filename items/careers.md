@@ -4,11 +4,20 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2765):
+Join the team that designs, implements, and maintains the high-performance
+networks at NERSC that support leading edge compute, storage, and archive 
+systems.
+- **NEW** [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-2764):
+Help ensure that NERSC is accessible, reliable, secure, and available to NERSC 
+users on a 24 x 7 basis.
+- **NEW** [HPC Systems Software Engineer](https://jobs.lbl.gov/jobs/hpc-systems-software-engineer-2761):
+Join the team that manages the large supercomputers at NERSC.
 - [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
-use your DevOps and system engineering skills to help build and manage systems 
+Use your DevOps and system engineering skills to help build and manage systems 
 that complement NERSC's supercomputing environment.
 - [HPC Systems Cloud Engineer](https://jobs.lbl.gov/jobs/hpc-systems-cloud-engineer-2717):
-help architect, deploy, configure, maintain, and operate large-scale, 
+Help architect, deploy, configure, maintain, and operate large-scale, 
 leading-edge HPC systems of high complexity, to provide computational resources
 for scientists around the world, including COVID-19 researchers.
 - [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-2697):
@@ -21,30 +30,8 @@ to automate the use of supercomputing resources.
 Lead the group responsible for supporting NERSC's large-scale parallel file 
 systems and archival storage systems with an eye towards balancing performance, 
 stability, and usability for NERSC's over 7000 users. 
-- [HPC Network Engineer](https://jobs.lbl.gov/jobs/hpc-network-engineer-2580):
-Be part of the team who shares in the design, implementation and on-going 
-maintenance of NERSC's high performance networks.
-- [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-2476):
-Work as part of a multidisciplinary team composed of computational and domain 
-scientists working together to produce mission-relevant science that pushes the 
-limits of HPC in simulation, data, or learning.
-- [HPC Architecture and Performance Engineer](https://jobs.lbl.gov/jobs/hpc-architecture-and-performance-engineer-2427):
-Evaluate global technology trends and combine them with the needs of NERSC users
-with the goal of architecting the supercomputing ecosystem of the future.
-- [Application Performance Specialists (for ECP)](https://jobs.lbl.gov/jobs/application-performance-specialist-1010):
-Help prepare large-scale scientific codes for next-generation high performance 
-computing (HPC) systems.
-- [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2004):
-work in multidisciplinary teams to transition simulation codes to NERSC's new 
-Perlmutter supercomputer and produce mission-relevant science that truly pushes 
-the limits of high-end computing.
-- [NESAP for Data Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-data-postdoctoral-fellow-2412)
-work in multidisciplinary teams to transition data-analysis codes to NERSC's new
-Perlmutter supercomputer and produce mission-relevant science that truly pushes 
-the limits of high-end computing.
-- [NESAP for Learning Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-learning-postdoctoral-fellow-1964):
-work in multidisciplinary teams to develop and implement cutting-edge machine 
-learning/deep learning solutions in codes that will run on NERSC's new
+- [NESAP for Data Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-data-postdoctoral-fellow-2412):
+Work in multidisciplinary teams to transition data-analysis codes to NERSC's new
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 
 the limits of high-end computing.
 
