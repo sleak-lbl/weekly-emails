@@ -4,14 +4,19 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2765):
+- **NEW** [NESAP for Learning Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-learning-postdoctoral-fellow-2788):
+Work in multidisciplinary teams to develop and implement cutting-edge machine 
+learning/deep learning solutions in codes that will run on NERSC's new 
+Perlmutter supercomputer and produce mission-relevant science that truly pushes 
+the limits of high-end computing.
+- [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2765):
 Join the team that designs, implements, and maintains the high-performance
 networks at NERSC that support leading edge compute, storage, and archive 
 systems.
-- **NEW** [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-2764):
+- [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-2764):
 Help ensure that NERSC is accessible, reliable, secure, and available to NERSC 
 users on a 24 x 7 basis.
-- **NEW** [HPC Systems Software Engineer](https://jobs.lbl.gov/jobs/hpc-systems-software-engineer-2761):
+- [HPC Systems Software Engineer](https://jobs.lbl.gov/jobs/hpc-systems-software-engineer-2761):
 Join the team that manages the large supercomputers at NERSC.
 - [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
 Use your DevOps and system engineering skills to help build and manage systems 

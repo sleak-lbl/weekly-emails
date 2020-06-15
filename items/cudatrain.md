@@ -1,4 +1,4 @@
-### CUDA Training Series Continues Next Thursday
+### CUDA Training Series Continues on Thursday
 
 NVIDIA is presenting a 9-part CUDA training series intended to help new and 
 existing GPU programmers understand the main concepts of the CUDA platform and 

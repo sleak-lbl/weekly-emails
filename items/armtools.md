@@ -1,9 +1,5 @@
 ### Tutorial on Using ARM Debugging and Profiling Tools at NERSC Rescheduled for July 16
 
-The ARM Debugging and Profiling Tools tutorial originally scheduled for
-Thursday, June 25 has been rescheduled for July 16 due to the extension of the 
-center-wide electrical upgrade and power outage.
-
 Registration is open for the ARM Debugging and Profiling Tools (DDT, MAP, and
 Performance Reports) Tutorial that will now be held on Thursday, July 16 from
 9 am to noon (Pacific time). Attendees will learn how to efficiently use these

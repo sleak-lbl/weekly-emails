@@ -1,5 +1,8 @@
-### Save the Date: NERSC User Group Annual Meeting Set for August 17
+### Register for the NERSC User Group Annual Meeting on August 17
 
-Mark your calendars for the annual meeting of the NERSC User Group (NUG), which
-will be held online on Monday, August 17. More details on the schedule of events
-are forthcoming.
+Registration is now open for the NERSC User Group Annual Meeting, which is being
+held online on Monday, August 17. An agenda for the meeting is published, and
+includes time for short user talks. **If you are interested in speaking, please
+include an abstract when you fill out your registration form.**
+
+For more information and to register please see <https://www.nersc.gov/users/NUG/annual-meetings/nug-2020/>.

@@ -1,4 +1,4 @@
-### Applications for Broader Engagement Program at SIAM CSE21 Now Open!
+### Applications for Broader Engagement Program at SIAM CSE21 Closes June 26!
 
 Are you a student from an underrepresented and/or underprivileged background who
 aspires to broaden your experience in research-based professional activities?

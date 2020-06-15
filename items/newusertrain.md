@@ -1,11 +1,6 @@
-### New User Training Rescheduled for Tuesday, June 16
+### New User Training Tomorrow
 
-*The NERSC New User Training, originally scheduled for this Wednesday, has been
-rescheduled for Tuesday, June 16, due to a conflict with the [Science Strike for
-Black Lives](https://www.particlesforjustice.org/) that was impacting several
-participants as well as NERSC staff.*
-
-Join us for the NERSC New User Training that will be held online next Tuesday,
+Join us for the NERSC New User Training that will be held online tomorrow,
 June 16.
 
 The purpose of the training is to provide users new to NERSC with the basics on 

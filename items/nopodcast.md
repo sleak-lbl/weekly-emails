@@ -4,6 +4,10 @@ There will be no new episode of the "NERSC User News" podcast this week due to
 the new fortnightly production schedule. We encourage you to instead enjoy some 
 of our most recent episodes and greatest hits:
 
+- [Dynamic fan](https://anchor.fm/nersc-news/episodes/Dynamic-Fan-Norm-Bourassa-Interview-ef4bkp)
+NERSC Energy Efficiency Engineer Norm Bourassa talks about how NERSC is saving
+energy with the dynamic fan settings on the Cori supercomputing cabinets, and
+what NERSC is doing to make the cabinets even more energy efficient.
 - [RAPIDS](https://anchor.fm/nersc-news/episodes/The-RAPIDS-Library-Nick-Becker-Interview-eb0h5a)
 In this interview with NVIDIA RAPIDS senior engineer Nick Becker, 
 learn about the RAPIDS library, how it can accelerate your data 
