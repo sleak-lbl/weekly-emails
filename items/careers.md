@@ -4,11 +4,15 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [NESAP for Learning Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-learning-postdoctoral-fellow-2788):
+- **NEW** [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2804):
+Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
+system and produce mission-relevant science that pushes the limits of
+high-performance computing.
+- [NESAP for Learning Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-learning-postdoctoral-fellow-2788):
 Work in multidisciplinary teams to develop and implement cutting-edge machine 
 learning/deep learning solutions in codes that will run on NERSC's new 
-Perlmutter supercomputer and produce mission-relevant science that truly pushes 
-the limits of high-end computing.
+Perlmutter supercomputer and produce mission-relevant science that pushes the 
+limits of AI on high-performance computing.
 - [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2765):
 Join the team that designs, implements, and maintains the high-performance
 networks at NERSC that support leading edge compute, storage, and archive 

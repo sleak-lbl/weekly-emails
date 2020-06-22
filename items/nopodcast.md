@@ -1,7 +1,7 @@
 ### No New "NERSC User News" Podcast this Week
 
-There will be no new episode of the "NERSC User News" podcast this week due to 
-the new fortnightly production schedule. We encourage you to instead enjoy some 
+There will be no new episode of the "NERSC User News" podcast this week.
+We encourage you to instead enjoy some 
 of our most recent episodes and greatest hits:
 
 - [Dynamic fan](https://anchor.fm/nersc-news/episodes/Dynamic-Fan-Norm-Bourassa-Interview-ef4bkp)

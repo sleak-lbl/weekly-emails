@@ -1,4 +1,4 @@
-### Planned Power Upgrade & Outage of NERSC Resources Rescheduled for July 9-14
+### Power Upgrade & Outage of NERSC Resources on July 9-14
 
 To make the improvements required for Perlmutter, NERSC will take two
 machine room power outages this year. The first one, a four-day weekend outage,

@@ -1,4 +1,4 @@
-### OpenACC Training Series Concludes June 23
+### OpenACC Training Series Concludes Tomorrow
 
 OpenACC is a directive-based approach to parallel programming for heterogeneous 
 architectures, where developers specify regions of code (written in C, C++, 
