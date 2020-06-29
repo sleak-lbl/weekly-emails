@@ -1,6 +1,6 @@
-### Register Now for Online Hands-On User Training on VASP on Tuesday June 30, 2020
+### Online Hands-On User Training on VASP this Tuesday
 
-NERSC will host a 2-hour online hands-on training for VASP users on Tuesday 
+NERSC will host a 2-hour online hands-on training for VASP users this Tuesday,
 June 30, 2020, from 10:00 am to 12:00 pm (Pacific time). The training will focus
 on running VASP using variable-time job scripts which in order to improve your 
 queue turnaround by automatically exploiting backfill opportunities on the 

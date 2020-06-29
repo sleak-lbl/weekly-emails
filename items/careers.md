@@ -4,7 +4,7 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2804):
+- [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2804):
 Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
 system and produce mission-relevant science that pushes the limits of
 high-performance computing.
@@ -35,10 +35,6 @@ thousands of clients at terabytes per second.
 - [Software/DevOps/API Engineer](https://jobs.lbl.gov/jobs/software-devops-api-engineer-2611):
 Work on the system that tracks and manages resource usage and help build an API
 to automate the use of supercomputing resources.
-- [Storage Systems Group Leader](https://jobs.lbl.gov/jobs/storage-systems-group-leader-2596):
-Lead the group responsible for supporting NERSC's large-scale parallel file 
-systems and archival storage systems with an eye towards balancing performance, 
-stability, and usability for NERSC's over 7000 users. 
 - [NESAP for Data Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-data-postdoctoral-fellow-2412):
 Work in multidisciplinary teams to transition data-analysis codes to NERSC's new
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 

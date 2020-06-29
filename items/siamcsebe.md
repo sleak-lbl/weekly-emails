@@ -1,4 +1,4 @@
-### Applications for Broader Engagement Program at SIAM CSE21 Closes Friday!
+### Application Deadline for Broader Engagement Program at SIAM CSE21 Extended to Tuesday, July 7!
 
 Are you a student from an underrepresented and/or underprivileged background who
 aspires to broaden your experience in research-based professional activities?
@@ -19,6 +19,13 @@ program, HPC tutorials, community-building activities, a Mentor-Protege program,
 guided affinity groups to increase learning, and professional and career 
 development.
 
+*Note: SIAM CSE21 is planning for contingencies under the current
+circumstances; the conference will be held either in-person, virtually,
+or hybrid. Organizers request that you apply to the BE program under the
+assumption that safe participation is possible. Please check out their 
+[FAQ](https://sinews.siam.org/Details-Page/faq-on-covid-19-contingency-plans-for-cse21)
+for more information.*
+
 For more information and to apply, please see 
 <http://shinstitute.org/siam-cse21-broader-engagement-program/>. Applications
-close this Friday, June 26, 2020.
+close next Tuesday, July 7, 2020.

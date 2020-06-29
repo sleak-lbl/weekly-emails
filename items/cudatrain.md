@@ -8,10 +8,11 @@ presentation and can be completed during a 1-hour hands-on session following
 each lecture via teleconference or on your own. **These events are being held 
 exclusively online.**
 
-The seventh training in the series covers CUDA concurrency. Concurrency refers
-to the ability to perform multiple CUDA operations simultaneously. Learn about
-CUDA streams and asynchronous functions that can be used to do things like run
-multiple kernels on a single GPU or overlap data transfer and computation.
+The seventh training in the series, to be held on Tuesday, July 21, covers 
+CUDA concurrency. Concurrency refers to the ability to perform multiple CUDA 
+operations simultaneously. Learn about CUDA streams and asynchronous functions 
+that can be used to do things like run multiple kernels on a single GPU or 
+overlap data transfer and computation.
 
 Following the presentation will be a hands-on session where participants can 
 complete example exercises meant to reinforce the presented concepts. 

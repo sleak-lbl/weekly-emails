@@ -1,4 +1,4 @@
-### Join Us for the Roofline on NVIDIA GPUs Hackathon on July 8!
+### Join Us for the Roofline on NVIDIA GPUs Hackathon Next Wednesday, July 8!
 
 The Roofline performance model provides an intuitive and insightful way to 
 understand application performance, identify bottlenecks, and perform 
@@ -9,5 +9,5 @@ related to Roofline analysis on NVIDIA GPUs!
 
 For more information and to register, please see 
 <https://www.nersc.gov/users/training/events/roofline-on-nvidia-gpus-hackathon/>.
-Registration closes June 30.
+**Registration closes tomorrow.**
 
