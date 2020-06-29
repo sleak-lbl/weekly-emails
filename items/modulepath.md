@@ -12,7 +12,7 @@ In the upcoming maintenance, we plan to replace `/usr/common/software/modulefile
 in the default `MODULEPATH` with `/global/common/software/nersc/cle7/modulefiles`
 and `/global/common/software/nersc/cle7/extra_modulefiles`.
 
-This moves also allows us to migrate our modulefile version management to 
+This move also allows us to migrate our modulefile version management to 
 a gitlab repository supporting modern best practices for software management.
 
 **We don't expect this to have any visible impact on users or jobs** but we 
