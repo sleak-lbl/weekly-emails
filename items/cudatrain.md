@@ -19,3 +19,8 @@ complete example exercises meant to reinforce the presented concepts.
 
 For more information please see 
 <https://www.nersc.gov/users/training/events/cuda-concurrency-part-7-of-9-cuda-training-series-july-21-2020/>.
+
+Future scheduled events:
+- August 18: [GPU Performance Analysis](https://www.nersc.gov/users/training/events/gpu-performance-analysis-part-8-of-9-cuda-training-series-august-18-2020/)
+- September 17: [Cooperative Groups](https://www.nersc.gov/users/training/events/cooperative-groups-part-9-of-9-cuda-training-series-september-17-2020/)
+

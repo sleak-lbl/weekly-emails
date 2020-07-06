@@ -1,6 +1,6 @@
 ### July Maintenance Software Changes; Defaults Remain the Same
 
-During the July maintenance, there will be two updates to the software
+During this weekend's maintenance, there will be two updates to the software
 environment on Cori.
 
 First, we will upgrade the Slurm scheduler from version 19.05.5 to 20.02.3.

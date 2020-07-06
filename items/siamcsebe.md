@@ -27,5 +27,5 @@ assumption that safe participation is possible. Please check out their
 for more information.*
 
 For more information and to apply, please see 
-<http://shinstitute.org/siam-cse21-broader-engagement-program/>. Applications
-close next Tuesday, July 7, 2020.
+<http://shinstitute.org/siam-cse21-broader-engagement-program/>. **Applications
+close tomorrow, July 7, 2020.**
