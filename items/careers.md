@@ -17,11 +17,6 @@ limits of AI on high-performance computing.
 Join the team that designs, implements, and maintains the high-performance
 networks at NERSC that support leading edge compute, storage, and archive 
 systems.
-- [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-2764):
-Help ensure that NERSC is accessible, reliable, secure, and available to NERSC 
-users on a 24 x 7 basis.
-- [HPC Systems Software Engineer](https://jobs.lbl.gov/jobs/hpc-systems-software-engineer-2761):
-Join the team that manages the large supercomputers at NERSC.
 - [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
 Use your DevOps and system engineering skills to help build and manage systems 
 that complement NERSC's supercomputing environment.

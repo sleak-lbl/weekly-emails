@@ -61,7 +61,7 @@ if [[ $file =~ ^outline- ]]; then
     #for_real=0
     assembled=${file/outline/weekly-email}
     [[ -e $assembled ]] && echo "warning: overwriting $assembled"
-    scripts=$(/usr/bin/dirname ${BASH_SOURCE[0]})
+    scripts=$(/usr/bin/dirname ${BASH_SOURCE[0]:-.})
     $scripts/assemble.py $file
     echo "check $assembled (and resulting email), to send for real use"
     echo "$0 --for-real $assembled"

@@ -1,4 +1,4 @@
-### JupyterCon 2020 Call for Proposals Now Open
+### JupyterCon 2020 Call for Proposals Closes July 20
 
 JupyterCon 2020 will be held online, October 5-17.  With over 700 unique users 
 per month accessing NERSC through Jupyter it has become quite apparent that 

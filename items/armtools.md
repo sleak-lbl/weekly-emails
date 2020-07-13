@@ -1,7 +1,7 @@
 ### Register Today for July 16 Tutorial on Using ARM Debugging and Profiling Tools at NERSC
 
 Registration is open for the ARM Debugging and Profiling Tools (DDT, MAP, and
-Performance Reports) Tutorial that will be held next Thursday, July 16 from
+Performance Reports) Tutorial that will be held on Thursday, July 16 from
 9 am to noon (Pacific time). 
 
 In this interactive, hands-on training, attendees will learn how to efficiently 

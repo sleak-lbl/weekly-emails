@@ -1,14 +1,15 @@
-## IDEAS-ECP Webinar on Testing Fortran Software on April 10
+### IDEAS-ECP Webinar on Accelerating Numerical Libraries with Multi-Precision Algorithms on Wednesday
 
-The April webinar in the Best Practices for HPC Software Developers series is
-entitled "Testing Fortran Software with pFUnit", and will 
-take place Wednesday, April 10, 2019, at 10:00 am Pacific time.
+The May webinar in the Best Practices for HPC Software Developers series is
+entitled "Accelerating Numerical Software Libraries with Multi-Precision
+algorithms", and will take place this Wednesday, May 13, 2020, at 10:00 am 
+Pacific time.
 
-This webinar, presented by Thomas Clune from NASA, will describe the use of
-pFUnit to develop tests for MPI+Fortran software and highlight the new
-capabilities in the latest release of the tool, as well as specialized
-methodologies to test numerical algorithms.
+This webinar, presented by Hartwig Anzt (Karlsruhe Institute of Technology) and
+Piotr Luszczek (University of Tennessee), will explain how low-precision,
+high-speed special function units in modern processors can be leveraged to
+create fast numerical libraries for production computing.
 
 For more information and to register (there is no cost but registration is
 required), please see
-<https://www.exascaleproject.org/event/pfunit/>.
+<https://www.exascaleproject.org/event/multprec/>.

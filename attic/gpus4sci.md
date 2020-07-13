@@ -1,11 +1,9 @@
-## Register Now for GPUs for Science Day, July 2-3!
+### GPUs for Science 2020, this Tuesday and Wednesday, June 30-July 1
 
-The [GPUs for Science Day](https://www.nersc.gov/users/training/gpus-for-science/)
-event, to be held July 2-3, 2019, is directed towards people at all levels of 
-GPU experience (even no experience!). Day 1 includes a series of invited talks 
-on various GPU topics, and day 2 will include tutorials, lightning talks, and a 
-GPU hands-on challenge (with prizes!). 
+GPUs for Science 2020 is being held this Tuesday and Wednesday, June 30-July 1. 
+Join NERSC in this two-day, online-only event to learn about the science being 
+accomplished on GPUs, tools to help make the transition to GPUs, and tutorials 
+on programming GPUs with CUDA and OpenACC.
 
-Registration for the second day has unfortunately reached full capacity, and
-less than twenty spots remain for the first day. Register now at: 
-<https://forms.gle/ccMiEU5uxLRtzHps9>. Hope to see you there!
+For more information, please see 
+<https://www.nersc.gov/users/training/gpus-for-science/gpus-for-science-2020/>.

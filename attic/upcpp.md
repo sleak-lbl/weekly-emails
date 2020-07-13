@@ -1,8 +1,4 @@
-## UPC++ Workshop on December 16 at NERSC
-
-This event is a repeat of the tutorial delivered on November 1, but with the 
-restoration of the hands-on component which was omitted due to uncertainty 
-surrounding the power outage at NERSC.
+### Register Now for UPC++ Webinar on Wednesday
 
 UPC++ is a C++11 library providing classes and functions that support
 Partitioned Global Address Space (PGAS) programming. UPC++ provides mechanisms
@@ -14,13 +10,12 @@ fine-grained. The UPC++ interfaces are designed to be composable and similar to
 those used in conventional C++. The UPC++ programmer can expect communication to
 run at close to hardware speeds.
 
-In this tutorial we will introduce basic concepts and advanced optimization
-techniques of UPC++. We will discuss the UPC++ memory and execution models and
-walk through implementing basic algorithms in UPC++. We will discuss irregular
-applications and how to take advantage of UPC++ features to optimize their
-performance.  The tutorial will include hands-on exercises with basic UPC++
-constructs. 
+In this webinar, hosted by DOE's Exascale Computing Project and the ALCF, we 
+will introduce basic concepts and advanced optimization techniques of UPC++. We 
+will discuss the UPC++ memory and execution models and walk through basic 
+algorithm implementations. We will also look at irregular applications and show 
+how they can take advantage of UPC++ features to optimize their performance.
 
-Though registration has closed for on-site participation, one may still choose
-to audit remotely by [registering](https://www.eventbrite.com/e/ecpnersc-upc-tutorial-tickets-80937832235) 
-by this Thursday, December 12.
+This training will be held this Wednesday, May 27 from 9 am to noon Pacific.
+The training is free but registration is required. For more information and to
+register, please see <https://www.exascaleproject.org/event/alcf-ecp-upc-webinar/>.
