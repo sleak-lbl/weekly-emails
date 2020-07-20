@@ -1,4 +1,4 @@
-### JupyterCon 2020 Call for Proposals Closes July 20
+### JupyterCon 2020 Call for Proposals Extended - Closes July 22
 
 JupyterCon 2020 will be held online, October 5-17.  With over 700 unique users 
 per month accessing NERSC through Jupyter it has become quite apparent that 
@@ -8,7 +8,7 @@ NERSC to submit proposals for presentations, lightning talks, or online posters
 at 
 <https://jupytercon.com/participate/#Call%20for%20proposals>
 
-The call for proposals closes on July 20, 2020, and notifications will be sent
+The call for proposals closes at 11:59pm AoE on July 22, 2020, and notifications will be sent
 on August 10. Presenters of 30-minute conference talks are eligible for a free
 pass to the main conference week.
 
