@@ -4,6 +4,13 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [HPC Systems Software Engineer](https://jobs.lbl.gov/jobs/hpc-systems-software-engineer-2863):
+Develop new software for Slurm scheduling and Shifter HPC (High Performance
+Computing) container capabilities. Manage world-class Cray Supercomputer HPC
+resources in a 24x7 environment, assuring peak performance, high availability
+and reliability, and scientific productivity of the system. Debug system
+problems and work directly and effectively with vendors to correct or enhance
+the system for the benefit of our users and our team. 
 - [NESAP for Simulations Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-simulations-postdoctoral-fellow-2804):
 Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
 system and produce mission-relevant science that pushes the limits of
