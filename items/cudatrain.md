@@ -1,4 +1,4 @@
-### CUDA Training Series Continues August 18
+### CUDA Training Series Continues Next Tuesday, August 18
 
 NVIDIA is presenting a 9-part CUDA training series intended to help new and 
 existing GPU programmers understand the main concepts of the CUDA platform and 
@@ -8,7 +8,7 @@ presentation and can be completed during a 1-hour hands-on session following
 each lecture via teleconference or on your own. **These events are being held 
 exclusively online.**
 
-The eighth training in the series, to be held on Tuesday, August 18, covers 
+The eighth training in the series, to be held next Tuesday, August 18, covers 
 GPU performance analysis. This module introduces the analysis-driven 
 optimization workflow using NVIDIA developer tools Nsight Systems and Nsight
 Compute to profile your code and determine what optimizations to make.

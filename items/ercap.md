@@ -1,8 +1,7 @@
-### 2021 ERCAP Allocations Process Opens August 10!
+### 2021 ERCAP Allocations Process Now Open!
 
-The ERCAP allocations process will begin accepting requests for the 2021
-Allocation Year (AY) on Monday, August 10. Requests will be accepted through
-Monday, October 5, 2020.
+The ERCAP allocations process has now begun accepting requests for the 2021
+Allocation Year (AY). Requests will be accepted through Monday, October 5, 2020.
 
 The majority of NERSC resources and compute time are allocated through the
 [ERCAP process](https://www.nersc.gov/users/accounts/allocations/2021-call-for-proposals-to-use-nersc-resources/).
