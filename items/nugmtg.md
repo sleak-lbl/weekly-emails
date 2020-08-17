@@ -1,15 +1,18 @@
-### Register Today for the NERSC User Group Annual Meeting Next Monday, August 17!
+### NUG Meeting Slides and Livestream Available
 
-Registration is open for the NERSC User Group Annual Meeting, which is being
-held online next Monday, August 17. 
+Today's NERSC User Group Annual Meeting was livestreamed today. If you missed
+part of the meeting or wanted to take a look at some of it, you can peruse the 
+slides or watch the recorded livestream.
 
-This year's theme is Perlmutter, which is arriving at the very end of this year.
-Learn about the features and capabilities of the system, plus our plans for
-software and services, resources for getting your applications running on the
-GPUs, and how and when users will be able to access the machine. Join a
-breakout session on a topic such as AI and deep learning on Perlmutter, ERCAP
-and Iris tricks and tips, application performance portability, or experimental
-data best practices. User talks on their experiences and scientific results will
-be featured in a round of lightning talks.
+This year's theme was Perlmutter, which is arriving at the very end of this 
+year. Learn about the features and capabilities of the system, plus our plans 
+for software and services, resources for getting your applications running on 
+the GPUs, and how and when users will be able to access the machine. Breakout
+sessions were held on topics such as AI and deep learning on Perlmutter, ERCAP
+and Iris tricks and tips, application performance portability, and experimental
+data best practices. User talks on their experiences and scientific results were
+featured in a round of lightning talks.
 
-For more information and to register please see <https://www.nersc.gov/users/NUG/annual-meetings/nug-2020/>.
+For the slides, please see <https://www.nersc.gov/users/NUG/annual-meetings/nug-2020/>.
+The [raw livestream video](https://youtu.be/Bj-BMomoZfo) is available on the 
+NERSC YouTube channel.

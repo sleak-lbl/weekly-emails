@@ -4,10 +4,15 @@ There will be no new episode of the "NERSC User News" podcast this week.
 We encourage you to instead enjoy some 
 of our most recent episodes and greatest hits:
 
+- [Software Support Policy](https://anchor.fm/nersc-news/episodes/NERSC-Software-Support-Policy-Steve-Leak-Interview-ehu6bg)
+In this interview with NERSC HPC Consultant Steve Leak, learn about the new
+NERSC software support policy: what it is, how it works, and its benefits for
+users and NERSC staff alike.
 - [NERSC Power Upgrade](https://anchor.fm/nersc-news/episodes/NERSC-Power-Upgrade-David-Topete-Interview-egc35v)
-In this interview with Berkeley Lab Infrastructure Modernization Division's David 
-Topete, learn about the power upgrade happening this weekend, the work that has to 
-be done, and the steps taken to ensure the safety of the workers involved in the effort.
+In this interview with Berkeley Lab Infrastructure Modernization Division's 
+David Topete, learn about the power upgrade happening this weekend, the work 
+that has to be done, and the steps taken to ensure the safety of the workers 
+involved in the effort.
 - [Dynamic fan](https://anchor.fm/nersc-news/episodes/Dynamic-Fan-Norm-Bourassa-Interview-ef4bkp)
 NERSC Energy Efficiency Engineer Norm Bourassa talks about how NERSC is saving
 energy with the dynamic fan settings on the Cori supercomputing cabinets, and

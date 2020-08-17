@@ -1,4 +1,4 @@
-### 2021 ERCAP Allocations Process Now Open!
+### 2021 ERCAP Allocations Process Is Open!
 
 The ERCAP allocations process has now begun accepting requests for the 2021
 Allocation Year (AY). Requests will be accepted through Monday, October 5, 2020.
