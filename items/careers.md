@@ -16,10 +16,6 @@ Work in multidisciplinary teams to develop and implement cutting-edge machine
 learning/deep learning solutions in codes that will run on NERSC's new 
 Perlmutter supercomputer and produce mission-relevant science that pushes the 
 limits of AI on high-performance computing.
-- [Senior Network Engineer](https://jobs.lbl.gov/jobs/senior-network-engineer-2765):
-Join the team that designs, implements, and maintains the high-performance
-networks at NERSC that support leading edge compute, storage, and archive 
-systems.
 - [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
 Use your DevOps and system engineering skills to help build and manage systems 
 that complement NERSC's supercomputing environment.

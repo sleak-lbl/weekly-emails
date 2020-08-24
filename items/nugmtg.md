@@ -1,6 +1,6 @@
 ### NUG Meeting Slides and Livestream Available
 
-Today's NERSC User Group Annual Meeting was livestreamed today. If you missed
+Last Monday's NERSC User Group Annual Meeting was livestreamed. If you missed
 part of the meeting or wanted to take a look at some of it, you can peruse the 
 slides or watch the recorded livestream.
 
