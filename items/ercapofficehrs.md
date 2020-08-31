@@ -3,7 +3,6 @@
 Allocations staff will once again hold virtual office hours via Zoom to assist
 users with finishing up and submitting their ERCAP requests, on the following
 dates:
-- Thursday, August 27
 - Thursday, September 3
 - Thursday, September 17
 - Thursday, October 1

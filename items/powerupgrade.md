@@ -1,22 +1,10 @@
-### Power Upgrade & Outage of NERSC Resources Begins on Friday
+### Power Upgrade & Outage of NERSC Resources October 7-12
 
 To make the improvements required for Perlmutter, NERSC will take two
-machine room power outages this year. The first one, a three-day weekend outage,
-is scheduled for this weekend, July 10-14. An additional, shorter, outage will 
-be scheduled for late August or September.
+machine room power outages this year. The first one was held July 10-13. 
+**A second outage is now scheduled for October 7-12.**
 
 These two outages are necessary prerequisites for the installation of
-Perlmutter, the first stage of which is expected to arrive at the end of the
-year.
+Perlmutter, the first components of which will begin to arrive later in October.
 
-Note that we had originally allocated four days for this week's outage; however,
-thanks to some process improvements we were able to reduce the power outage to
-only three days.
-
-The electrical power upgrade will be performed from this Saturday to Monday,
-July 13. In preparation for it we will shut down all NERSC resources beginning 
-on Friday, July 10. Power will be restored on or before Tuesday, July 14, at
-which point we will perform a Cori maintenance. **You can expect for Cori and
-the majority of NERSC resources to be unavailable from 6:00 am (Pacific time)
-this Friday, July 10, to 11:59 pm on Tuesday, July 14.**
-
+More details will be provided in future communications.

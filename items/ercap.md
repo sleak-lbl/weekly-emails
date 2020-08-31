@@ -9,5 +9,4 @@ Proposals are reviewed and awarded by Office of Science allocation managers and
 implemented by NERSC. For more information on the ERCAP process, please listen 
 to [this podcast](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l). 
 
-Please join us for virtual [office hours](#ercapofficehrs), the first of which 
-will take place this Thursday.
+Please join us for virtual [office hours](#ercapofficehrs) this Thursday.
