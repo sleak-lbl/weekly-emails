@@ -1,9 +1,9 @@
-### IDEAS-ECP Webinar on Testing & Code Review Practices in Research Software Development on September 9
+### IDEAS-ECP Webinar on Testing & Code Review Practices in Research Software Development on Wednesday 
 
 The September webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Testing and Code Review Practices in Research Software 
-Development" and will take place on Wednesday, September 9, 2020, at 10:00 am 
+Development" and will take place this Wednesday, September 9, 2020, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Nasir Eisty (California Polytechnic State University,

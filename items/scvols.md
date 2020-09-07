@@ -1,4 +1,4 @@
-### SC21 Call for Planning Committee Volunteers Opens Tomorrow!
+### SC21 Call for Planning Committee Volunteers Is Now Open!
 
 Want to volunteer on the SC21 Planning Committee to directly impact the SC 
 conference?  We are seeking new volunteers to provide a fresh perspective to all
@@ -13,9 +13,9 @@ SCinet, Students@SC (Non-Student Volunteers), and Technical Program.
 Volunteer Applications will be accepted from September 1 - 30, 2020.
 
 IMPORTANT DATES:
-Submissions open:  01 September 2020
-Submissions close: 30 September 2020
-Notifications:  20 October 2020
+- Submissions open:  01 September 2020
+- Submissions close: 30 September 2020
+- Notifications:  20 October 2020
 
 IMPORTANT LINKS:
 - Planning Committee Volunteer details: <https://sc20.supercomputing.org/submit/volunteer/planning-committee-applications/>

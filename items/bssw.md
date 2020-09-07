@@ -10,5 +10,5 @@ workshop or tutorial, or creating content to engage the scientific software
 community.
 
 For more information and to apply, please see <https://bssw.io/pages/apply-for-the-bssw-fellowship-program>.
-Applications are due Wednesday, September 30, 2020.
+**Applications are due Wednesday, September 30, 2020.**
 

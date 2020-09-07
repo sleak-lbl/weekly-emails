@@ -1,14 +1,13 @@
-## Applications for SC18 Early Career Program Close TOMORROW July 31
+### SC20 Early Career Program Applications Closing Friday!
 
-Are you in the first five years of a permanent position and in search of
-activities to jump-start your career in High-Performance Computing? If so,
-consider applying for the SC18 Early Career Program (ECP).
+Are you an early-career researcher, educator, or technical professional who
+wants to develop professional skills and a strategic vision for your career in
+high-performance computing? If so, consider applying for the SC20 Early Career
+Program!
 
-The program is aimed at early-career researchers, educators, and technical
-professionals who are planning to attend SC18. ECP will include engaging and 
-interactive sessions aimed at helping participants develop their professional 
-skills as well as a strategic vision for their future.
+In this program, attendees participate in early career sessions Thursday-Friday,
+November 12-13, 2020 -- before the full SC20 program begins, allowing you to
+participate in as much of the Technical Program as possible.
 
-For more information, including how to apply, please see: 
-<https://sc18.supercomputing.org/how-sc18-can-inspire-a-young-attendees-career/>.
-
+For more information and to apply, please see: <https://sc20.supercomputing.org/submit/early-career-applications/>.
+Applications close this Friday, July 31!

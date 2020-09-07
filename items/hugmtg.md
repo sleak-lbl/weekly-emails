@@ -13,5 +13,5 @@ cases.
 
 HUG is currently soliciting 10-20 minute presentations for the meeting. For more
 information and to register or submit an abstract, please see
-<https://www.hdfgroup.org/hug/2020-hug/>. Abstract submissions are due
-September 15.
+<https://www.hdfgroup.org/hug/2020-hug/>. **Abstract submissions are due
+September 15.**
