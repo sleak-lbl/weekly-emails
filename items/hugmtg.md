@@ -1,4 +1,4 @@
-### Call for Participation: Virtual HDF5 User Group Meeting, October 13-16, 2020
+### Call for Participation: Virtual HDF5 User Group Meeting, October 13-16, 2020; Abstracts Due Tomorrow!
 
 The HDF Group and NERSC are organizing a virtual HDF5 User Group (HUG) meeting, 
 to be held October 13-16, 2020. 
@@ -14,4 +14,4 @@ cases.
 HUG is currently soliciting 10-20 minute presentations for the meeting. For more
 information and to register or submit an abstract, please see
 <https://www.hdfgroup.org/hug/2020-hug/>. **Abstract submissions are due
-September 15.**
+tomorrow, September 15.**

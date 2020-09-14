@@ -1,4 +1,4 @@
-### 2021 ERCAP Allocations Process Is Open!
+### 2021 ERCAP Allocations Process Closes Monday, October 5!
 
 The ERCAP allocations process has now begun accepting requests for the 2021
 Allocation Year (AY). Requests will be accepted through Monday, October 5, 2020.
@@ -9,4 +9,4 @@ Proposals are reviewed and awarded by Office of Science allocation managers and
 implemented by NERSC. For more information on the ERCAP process, please listen 
 to [this podcast](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l). 
 
-Please join us for virtual [office hours](#ercapofficehrs) next Thursday.
+Please join us for virtual [office hours](#ercapofficehrs) this Thursday.

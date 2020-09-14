@@ -1,9 +1,9 @@
-### Join Us for ERCAP Office Hours!
+### Join Us for ERCAP Office Hours this Thursday!
 
 Allocations staff will once again hold virtual office hours via Zoom to assist
 users with finishing up and submitting their ERCAP requests, on the following
 dates:
-- Thursday, September 17
+- **This Thursday, September 17**
 - Thursday, October 1
 - Monday, October 5 (ERCAP due date)
 
