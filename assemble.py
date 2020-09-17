@@ -6,7 +6,7 @@ item_re = re.compile('^ *\(#([a-zA-z]\w*)\) *$')
 title_re = re.compile('^### ([^<#]+)')
 section_re = re.compile('^### ([a-zA-z]\w*.*)')
 
-def item(name):
+def item(name, newflag):
     """ returns tuple of (title, text) """
     text = ""
     with open('items/' + name+'.md', 'r') as itemfile:
@@ -18,7 +18,7 @@ def item(name):
                 if match:
                     title = match.group(1).strip()
                     #text += '\n### {0} <a name="{1}"/></a> ###\n'.format(title, name)
-                    text += '\n### {0} <a name="{1}"/></a> \n'.format(title, name)
+                    text += '\n### {2}{0} <a name="{1}"/></a> \n'.format(title, name, newflag)
                 continue
             if line.strip() == "":
                 blankcount += 1
@@ -29,6 +29,18 @@ def item(name):
             text += '\n'
             blankcount += 1
     return (title, text)
+
+import subprocess
+import time
+def is_new(path:str):
+    cmd = 'git log --format=%at -1 {0}'.format(path)
+    ts = subprocess.check_output(cmd.split())
+    if not ts:
+        return True
+    now = int(time.time())
+    if now-int(ts) < (5*3600*24): # if it was added less than 5 days ago, assume it is new
+        return True
+    return False
 
 import sys
 import re
@@ -53,6 +65,8 @@ if __name__ == '__main__':
     # track which item files were used, and report on unused items:
     items = set()
 
+#
+#git log --format=%at -1 laborday.md
     item_text = ""
     with open(infilename,'r') as infile, open(outfilename, 'w') as outfile:
         lines = infile.readlines()
@@ -74,10 +88,11 @@ if __name__ == '__main__':
             match = item_re.match(line)
             if match:
                 name = match.group(1)
-                title, text = item(name)
+                newflag = '(NEW) ' if is_new('items/{0}.md'.format(name)) else ''
+                title, text = item(name, newflag)
                 items.add(name+'.md')
                 item_text += text
-                outfile.write('- [{0}](#{1})\n'.format(title, name))
+                outfile.write('- [{2}{0}](#{1})\n'.format(title, name, newflag))
             else:
                 outfile.write(line)
         # now add the items:
