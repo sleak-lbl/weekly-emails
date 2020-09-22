@@ -1,10 +1,16 @@
-### Power Upgrade & Outage of NERSC Resources October 7-12
+### UPDATE: October 7-12 Power Upgrade Will Impact Only Cori Auxiliary Nodes
 
-To make the improvements required for Perlmutter, NERSC will take two
-machine room power outages this year. The first one was held July 10-13. 
-**A second outage is now scheduled for October 7-12.**
+The scope of the power upgrade that will take place October 7-12 has changed,
+meaning that there will be a much smaller impact than previously reported.
 
-These two outages are necessary prerequisites for the installation of
-Perlmutter, the first components of which will begin to arrive later in October.
+The circuit that must be taken down does not power the main Cori system, so all
+equipment on that circuit that is already connected to the backup generator is
+expected to remain powered on for the duration of the work.
 
-More details will be provided in future communications.
+However, there are some auxiliary nodes not part of the main Cori system that 
+are powered by this circuit and are not connected to the backup generator. The 
+**impacted nodes include the JGI ExVivo nodes, the Cori GPU nodes, and the 
+recently installed large memory nodes.** These nodes will be taken offline on
+October 7, and will return to service after the outage is complete, on
+October 12.
+

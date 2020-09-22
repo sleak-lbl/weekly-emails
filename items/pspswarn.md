@@ -1,4 +1,4 @@
-### Potential Impacts on NERSC from California Wildfire Season
+### Potential Impacts on NERSC from Utility Company Response to California Wildfire Season
 
 PG&E, which provides power to Berkeley Lab (and NERSC), continues with its 
 conservative approach to wildfire prevention this year: de-energizing

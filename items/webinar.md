@@ -1,7 +1,7 @@
-### Join Us for the NUG Meeting, Next Thursday 24 September, 11am PT
+### Join Us for the NUG Meeting, this Thursday 24 September, 11am PT
 
 We're re-launching the NUG Monthly Webinar with a more interactive format,
-starting on Thursday 24 September, at 11am, at 
+starting this Thursday, 24 September, at 11am, at 
 <https://lbnl.zoom.us/j/285479463>.
 
 Our aim for these meetings is for a forum where NERSC and its users can 
@@ -11,12 +11,12 @@ discussion!
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 
-  or acheiving something innovative or high impact using NERSC
+  or acheiving something innovative or high impact using NERSC.
 
 - **Today-I-learned:** open discussion for attendees to point out something 
-  that surprised them, or that might be valuable to other users to know
+  that surprised them, or that might be valuable to other users to know.
 
-- **Announcements and CFPs:** upcoming conferences, workshops, or other events
+- **Announcements and CFPs:** upcoming conferences, workshops, or other events.
 
 - **Topic-of-the-day:** This month we'll talk about **"PSPS season, and what 
   you can do about it"**. Last year we were alerted by PG&E for three 
