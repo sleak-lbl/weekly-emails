@@ -1,4 +1,4 @@
-### SC21 Call for Planning Committee Volunteers Is Now Open!
+### SC21 Call for Planning Committee Volunteers Closes Wednesday!
 
 Want to volunteer on the SC21 Planning Committee to directly impact the SC 
 conference?  We are seeking new volunteers to provide a fresh perspective to all
