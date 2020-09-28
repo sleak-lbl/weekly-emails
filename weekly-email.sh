@@ -106,11 +106,13 @@ EOF
 # generate and add the html part:
 #cmark ${f}.md >> ${f}.email
 #cmark --unsafe ${f}.md > ${f}.html || { echo "error running cmark!" ; exit 2 ; }
+cmark=$(which cmark)
+[[ `hostname` =~ ^dtn ]] && cmark=$(which cmark-ivb)
 # argh, cmark made breaking changes between versions:
-cmarkver=$(cmark --version | sed -n 's/^cmark \([0-9.]\+\).*/\1/p')
+cmarkver=$($cmark --version | sed -n 's/^cmark \([0-9.]\+\).*/\1/p')
 case $cmarkver in 
-  0.28.3) cmark=cmark ;;
-  0.29.0) cmark="cmark --unsafe" ;;
+  0.28.3) cmark=$cmark ;;
+  0.29.0) cmark="$cmark --unsafe" ;;
   *) echo "check cmark usage and update $0" ; exit 2 ;;
 esac
 $cmark ${f}.md > ${f}.html || { echo "error running cmark!" ; exit 2 ; }
