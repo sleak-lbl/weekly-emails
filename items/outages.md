@@ -7,7 +7,7 @@
     - 01/20/21 07:00-20:00 PDT, Scheduled Maintenance
     - 02/17/21 07:00-20:00 PDT, Scheduled Maintenance
 
-- **Jupyter**        
-    - 09/23/20 12:00-13:00 PDT, Scheduled Maintenance
+- **HPSS Archive (User)** 
+    - 10/14/20 9:00-12:00 PDT, Scheduled Maintenance
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
