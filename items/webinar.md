@@ -1,7 +1,8 @@
-### Join Us for the NUG Meeting, this Thursday 24 September, 11am PT
+### (NEW) Join Us for the NUG Meeting, this Thursday 15 October, 11am PT
 
-We're re-launching the NUG Monthly Webinar with a more interactive format,
-starting this Thursday, 24 September, at 11am, at 
+The NUG Monthly Webinar is now the NUG Monthly Meeting with a more 
+interactive format, on the third Thursday of every month. Our October
+meeting is this Thursday, 15 October, at 11am, at 
 <https://lbnl.zoom.us/j/285479463>.
 
 Our aim for these meetings is for a forum where NERSC and its users can 
@@ -18,22 +19,24 @@ discussion!
 
 - **Announcements and CFPs:** upcoming conferences, workshops, or other events.
 
-- **Topic-of-the-day:** This month we'll talk about **"PSPS season, and what 
-  you can do about it"**. Last year we were alerted by PG&E for three 
-  potential PSPS events, and lost power in two of them. 
+- **Topic-of-the-day:** This month's topic is "The cscratch1 crash and
+  Lustre file striping". Cori had a major outage during the last two
+  weeks. We're still investigating the root cause but the trigger
+  conditions appear to relate to files with a very large stripe count.
+  We'll give a brief overview of the crash and then talk a bit about
+  Lustre File Striping and how to choose a good setting, and some Q&A,
+  with NERSC's Doug Jacobsen (Computational Systems Group), Glenn
+  Lockwood (Storage Systems Group) and Lisa Gerhardt and Alberto
+  Chiusole (Data and Analytics Services).
 
-  We don't always get a lot of notice, so long-running jobs are at risk 
-  of being terminated before they finish. One good solution is to use
-  checkpointing to break your job into shorter spans. **Zhengji Zhao** from 
-  NERSC User Engagement Group will give some tips on checkpointing at 
-  NERSC, and then we'll have a **Q&A session about PSPS readiness** with 
-  **Zhengji**, NERSC Deputy of Operations **Jeff Broughton** and **Rebecca 
-  Hartman-Baker**, who leads the NERSC team that ensures our users are 
-  kept updated during such events.
+  We'll do a deeper debrief on the crash in a later meeting - currently
+  we are still investigating the root cause. But we can say a little about
+  what we have found, and how to get the most from Lustre cscratch1
+  without risking stability.
 
 - **Coming up:** Nominations and requests for future topics 
 
 - **Last month's numbers:** NERSC center metrics and info for the most recent month
 
-Please see <https://www.nersc.gov/users/NUG/teleconferences/nug-webinar-sept-24/>
+Please see <https://www.nersc.gov/users/NUG/teleconferences/nug-meeting-oct-15-2020/>
 for details.
