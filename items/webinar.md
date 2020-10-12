@@ -19,20 +19,20 @@ discussion!
 
 - **Announcements and CFPs:** upcoming conferences, workshops, or other events.
 
-- **Topic-of-the-day:** This month's topic is "The cscratch1 crash and
-  Lustre file striping". Cori had a major outage during the last two
-  weeks. We're still investigating the root cause but the trigger
-  conditions appear to relate to files with a very large stripe count.
-  We'll give a brief overview of the crash and then talk a bit about
-  Lustre File Striping and how to choose a good setting, and some Q&A,
+- **Topic-of-the-day:** This month's topic is "The cscratch1 crash".
+  Cori had a major outage during the last two weeks. We're still investigating
+  the root cause but the trigger conditions appear to relate to files
+  with a very large stripe count. 
+  We'll give an overview of the crash, the conditions that we think triggered 
+  it and the impacts users might be seeing. We'll also have some Q&A 
   with NERSC's Doug Jacobsen (Computational Systems Group), Glenn
   Lockwood (Storage Systems Group) and Lisa Gerhardt and Alberto
   Chiusole (Data and Analytics Services).
 
-  We'll do a deeper debrief on the crash in a later meeting - currently
-  we are still investigating the root cause. But we can say a little about
-  what we have found, and how to get the most from Lustre cscratch1
-  without risking stability.
+  We're still investigating the root cause, so a deeper analysis will be a 
+  topic for a future meeting. But we can discuss what we know so far, tips 
+  for working around impacts you experience as a result, and how we debug this 
+  kind of issue.
 
 - **Coming up:** Nominations and requests for future topics 
 
