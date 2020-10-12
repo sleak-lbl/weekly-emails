@@ -13,3 +13,7 @@ downtimes than would occur under normal circumstances.
 
 Because onsite staffing is so minimal, we request that you continue to refrain 
 from calling NERSC Operations except to report urgent system issues.
+
+For current NERSC systems status, please see the online 
+[MOTD](https://www.nersc.gov/live-status/motd/) and 
+[current known issues](https://docs.nersc.gov/current/) webpages.

@@ -1,13 +1,15 @@
-### Programming Environment Updates During October Maintenance
+### (NEW) October Cori Maintenance Canceled
 
-As part of the October 21 Cori maintenance, NERSC will install some new
-software and remove some old software. **Software defaults will remain the
-same.**
+**The October Cori maintenance has been canceled.** The updates to installed
+software that was originally planned for October 21 will move to the next
+maintenance, in November.
 
-We will install the 20.09 Cray Programming Environment (PE) Software release and
+At that time, NERSC will install some new software and remove some old software.
+**Software defaults will remain the same.**
+
+We will install the 20.10 Cray Programming Environment (PE) Software release and
 retire the 20.03 PE. In addition, we will also install the new 19.1.2.254 
 version of the Intel compiler (which is the release version 2020 update 2).
 
-For more information about new software versions available and old versions
-that will be removed, please see 
-<https://docs.nersc.gov/systems/cori/timeline/default_PE_history/2020Oct>.
+More information about new software versions available and old versions
+that will be removed will be provided next week.

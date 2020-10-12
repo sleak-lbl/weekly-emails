@@ -20,12 +20,6 @@ limits of AI on high-performance computing.
 - [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
 Use your DevOps and system engineering skills to help build and manage systems 
 that complement NERSC's supercomputing environment.
-- [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-2697):
-Support and optimize hundreds of petabytes of parallel storage that is served to
-thousands of clients at terabytes per second.
-- [Software/DevOps/API Engineer](https://jobs.lbl.gov/jobs/software-devops-api-engineer-2611):
-Work on the system that tracks and manages resource usage and help build an API
-to automate the use of supercomputing resources.
 
 (**Note:** We have received reports that the URLs for the jobs change without 
 notice, so if you encounter a page indicating that a job is closed or not found,

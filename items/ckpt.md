@@ -1,7 +1,8 @@
 ### Call for Participation: First International Symposium on Checkpointing for Supercomputing (SuperCheck21)
 
 NERSC invites you to participate in the First International Symposium on
-Checkpointing for Supercomputing, which will be held February 4-5, 2021, online.
+Checkpointing for Supercomputing (SuperCheck21), which will be held February 
+4-5, 2021, online.
 
 The Call for Participation is now open. We invite researchers, end-users,
 professionals, and students to participate by submitting an abstract. Topics of
@@ -20,4 +21,5 @@ job, and system levels)
     - C/R applications and support on HPC systems
 
 For more information and to submit (or to register for the free symposium)
-please see <https://ckpt-symposium.lbl.gov/>.
+please see <https://ckpt-symposium.lbl.gov/>. The deadline for submissions is
+Monday, December 7.

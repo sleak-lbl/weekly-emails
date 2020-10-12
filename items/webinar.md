@@ -1,8 +1,8 @@
-### (NEW) Join Us for the NUG Meeting, this Thursday 15 October, 11am PT
+### Join Us for the NUG Meeting, this Thursday 15 October, 11am PT
 
 The NUG Monthly Webinar is now the NUG Monthly Meeting with a more 
 interactive format, on the third Thursday of every month. Our October
-meeting is this Thursday, 15 October, at 11am, at 
+meeting is **this Thursday, 15 October, at 11am** (Pacific time), at 
 <https://lbnl.zoom.us/j/285479463>.
 
 Our aim for these meetings is for a forum where NERSC and its users can 
@@ -34,9 +34,9 @@ discussion!
   for working around impacts you experience as a result, and how we debug this 
   kind of issue.
 
-- **Coming up:** Nominations and requests for future topics 
+- **Coming up:** Nominations and requests for future topics.
 
-- **Last month's numbers:** NERSC center metrics and info for the most recent month
+- **Last month's numbers:** NERSC center metrics and info for the most recent month.
 
 Please see <https://www.nersc.gov/users/NUG/teleconferences/nug-meeting-oct-15-2020/>
 for details.
