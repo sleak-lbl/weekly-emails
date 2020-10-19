@@ -1,4 +1,4 @@
-### (NEW) October Cori Maintenance Canceled
+### New PE Installations for November Maintenance
 
 **The October Cori maintenance has been canceled.** The updates to installed
 software that was originally planned for October 21 will move to the next

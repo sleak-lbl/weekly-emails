@@ -1,5 +1,7 @@
-### Normal NERSC Operations Continue 
+### NERSC Operations Continue to Be Minimally Impacted by Shelter in Place
 
+Alameda County, California, where NERSC is located, remains under a
+shelter-in-place order.
 NERSC continues to remain open while following site-specific protection plans.
 We remain in operation as before, with the majority of NERSC staff working
 remotely for the foreseeable future, and only staff essential to operations 
@@ -14,6 +16,6 @@ downtimes than would occur under normal circumstances.
 Because onsite staffing is so minimal, we request that you continue to refrain 
 from calling NERSC Operations except to report urgent system issues.
 
-For current NERSC systems status, please see the online 
+For **current NERSC systems status**, please see the online 
 [MOTD](https://www.nersc.gov/live-status/motd/) and 
 [current known issues](https://docs.nersc.gov/current/) webpages.
