@@ -1,4 +1,4 @@
-### Sign Up for Three-Part Parallelware for GPU Programming Training Series, Oct 27, Oct 29, & Nov 4
+### Three-Part Parallelware for GPU Programming Training Series, Oct 27, Oct 29, & Nov 4, Begins Tomorrow!
 
 Join [Appentra](https://www.appentra.com) and NERSC for a three-part
 Parallelware training series, with the goal of helping new and experienced

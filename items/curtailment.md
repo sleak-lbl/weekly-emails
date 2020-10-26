@@ -1,4 +1,4 @@
-### NERSC Operations Continue to Be Minimally Impacted by Shelter in Place
+### NERSC Operations Continue, with Minimal Shelter-in-Place Impacts
 
 Alameda County, California, where NERSC is located, remains under a
 shelter-in-place order.
