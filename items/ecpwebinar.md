@@ -1,9 +1,9 @@
-### (NEW) IDEAS-ECP Webinar on Reducing Technical Debt with Reproducible Containers on November 4
+### IDEAS-ECP Webinar on Reducing Technical Debt with Reproducible Containers on Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Reducing Technical Debt with Reproducible Containers"
-and will take place Wednesday, November 4, 2020, at 10:00 am 
+and will take place this Wednesday, November 4, 2020, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Tanu Malik (DePaul University), will describe 
