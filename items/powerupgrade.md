@@ -1,16 +1,10 @@
-### UPDATE: October 7-12 Power Upgrade Will Impact Only Cori Auxiliary Nodes
+### (NEW) Final Full-Facility Power Outage December 15-20
 
-The scope of the power upgrade that will take place October 7-12 has changed,
-meaning that there will be a much smaller impact than previously reported.
+The final power upgrade for the Perlmutter installation will take place
+December 15-20. During most of this time, power will be cut to the building 
+where NERSC is housed. **You can expect that for the duration of the outage, 
+NERSC resources will not be available.**
 
-The circuit that must be taken down does not power the main Cori system, so all
-equipment on that circuit that is already connected to the backup generator is
-expected to remain powered on for the duration of the work.
-
-However, there are some auxiliary nodes not part of the main Cori system that 
-are powered by this circuit and are not connected to the backup generator. The 
-**impacted nodes include the JGI ExVivo nodes, the Cori GPU nodes, and the 
-recently installed large memory nodes.** These nodes will be taken offline on
-October 7, and will return to service after the outage is complete, on
-October 12.
+More details of the plan will be provided in a standalone email to users and 
+subsequent weekly email items.
 

@@ -1,8 +1,8 @@
-### Apply for the Distinguished Hopper Postdoctoral Fellowship at NERSC by Monday!
+### Apply for the Distinguished Hopper Postdoctoral Fellowship at NERSC Today!
 
 Are you about to earn your PhD or have you received it within the last three
 years? Are you interested in setting your own research agenda within the area of
 HPC applications? Consider applying for the Admiral Grace Hopper Fellowship in
 Computing Sciences. For more information please see 
 <https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/>.
-Applications are being accepted through this coming Monday, November 9, 2020.
+Applications are due today!
