@@ -6,8 +6,8 @@
 
 ## [NERSC Status](#section1) ##
 
-- [Normal NERSC Operations Continue During California Phase 2 Period](#curtailment)
-- [Potential Impacts on NERSC from California Wildfire Season](#pspswarn)
+- [Normal NERSC Operations Continue](#curtailment)
+- [Potential Impacts on NERSC from Utility Company Response to California Wildfire Season](#pspswarn)
 
 ## [This Week's Events and Deadlines](#section2) ##
 
@@ -16,12 +16,12 @@
 
 ## [Updates at NERSC ](#section3) ##
 
-- [Join Us for the NUG Meeting, Next Thursday 24 September, 11am PT](#webinar)
+- [Join Us for the NUG Meeting, this Thursday 24 September, 11am PT](#webinar)
 - [HPSS Systems Degraded; Older Data May Be Unavailable at this Time](#hpssstatus)
 - [Test out NERSC's New, Filesystem-Like HPSS Interface!](#hpss)
-- [Power Upgrade & Outage of NERSC Resources October 7-12](#powerupgrade)
+- [UPDATE: October 7-12 Power Upgrade Will Impact Only Cori Auxiliary Nodes](#powerupgrade)
 - [2021 ERCAP Allocations Process Closes Monday, October 5!](#ercap)
-- [Join Us for ERCAP Office Hours this Thursday!](#ercapofficehrs)
+- [Join Us for ERCAP Office Hours October 1 and 5!](#ercapofficehrs)
 
 ## [Calls for Participation](#section4) ##
 
@@ -100,27 +100,24 @@ details)
 ---
 ## NERSC Status <a name="section1"/></a> ##
 
-### Normal NERSC Operations Continue During California Phase 2 Period <a name="curtailment"/></a> 
+### Normal NERSC Operations Continue <a name="curtailment"/></a> 
 
-Berkeley Lab, where NERSC is housed, is located in Alameda County, California 
-which remains under a Public Health Shelter-in-Place Order that has been
-slightly loosened. Under this Order, NERSC may continue to remain open while
-following site-specific protection plans. We remain in operation as before,
-with the majority of NERSC staff working remotely and only a skeleton crew 
+NERSC continues to remain open while following site-specific protection plans.
+We remain in operation as before, with the majority of NERSC staff working
+remotely for the foreseeable future, and only staff essential to operations 
 onsite.
 
-During this period, you can continue to expect regular online consulting and 
-account support but no telephone support. Trainings will continue to be held 
-online, or postponed if online is infeasible. Regular maintenances on the 
-systems will continue to be performed while minimizing onsite staff presence, 
-which could result in longer downtimes than would occur under normal 
-circumstances.
+You can continue to expect regular online consulting and account support but no 
+telephone support. Trainings will continue to be held online, or postponed if 
+online is infeasible. Regular maintenances on the systems will continue to be 
+performed while minimizing onsite staff presence, which could result in longer 
+downtimes than would occur under normal circumstances.
 
-Because onsite staffing is so minimal, we request that you refrain from
-calling NERSC Operations except to report urgent system issues.
+Because onsite staffing is so minimal, we request that you continue to refrain 
+from calling NERSC Operations except to report urgent system issues.
 
 
-### Potential Impacts on NERSC from California Wildfire Season <a name="pspswarn"/></a> 
+### Potential Impacts on NERSC from Utility Company Response to California Wildfire Season <a name="pspswarn"/></a> 
 
 PG&E, which provides power to Berkeley Lab (and NERSC), continues with its 
 conservative approach to wildfire prevention this year: de-energizing
@@ -188,10 +185,10 @@ survey this week!
 ---
 ## Updates at NERSC  <a name="section3"/></a> ##
 
-### Join Us for the NUG Meeting, Next Thursday 24 September, 11am PT <a name="webinar"/></a> 
+### Join Us for the NUG Meeting, this Thursday 24 September, 11am PT <a name="webinar"/></a> 
 
 We're re-launching the NUG Monthly Webinar with a more interactive format,
-starting on Thursday 24 September, at 11am, at 
+starting this Thursday, 24 September, at 11am, at 
 <https://lbnl.zoom.us/j/285479463>.
 
 Our aim for these meetings is for a forum where NERSC and its users can 
@@ -201,12 +198,12 @@ discussion!
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 
-  or acheiving something innovative or high impact using NERSC
+  or acheiving something innovative or high impact using NERSC.
 
 - **Today-I-learned:** open discussion for attendees to point out something 
-  that surprised them, or that might be valuable to other users to know
+  that surprised them, or that might be valuable to other users to know.
 
-- **Announcements and CFPs:** upcoming conferences, workshops, or other events
+- **Announcements and CFPs:** upcoming conferences, workshops, or other events.
 
 - **Topic-of-the-day:** This month we'll talk about **"PSPS season, and what 
   you can do about it"**. Last year we were alerted by PG&E for three 
@@ -279,16 +276,21 @@ are interested in trying it out, please [open a ticket](https://help.nersc.gov)
 and we'll give you access.
 
 
-### Power Upgrade & Outage of NERSC Resources October 7-12 <a name="powerupgrade"/></a> 
+### UPDATE: October 7-12 Power Upgrade Will Impact Only Cori Auxiliary Nodes <a name="powerupgrade"/></a> 
 
-To make the improvements required for Perlmutter, NERSC will take two
-machine room power outages this year. The first one was held July 10-13. 
-**A second outage is now scheduled for October 7-12.**
+The scope of the power upgrade that will take place October 7-12 has changed,
+meaning that there will be a much smaller impact than previously reported.
 
-These two outages are necessary prerequisites for the installation of
-Perlmutter, the first components of which will begin to arrive later in October.
+The circuit that must be taken down does not power the main Cori system, so all
+equipment on that circuit that is already connected to the backup generator is
+expected to remain powered on for the duration of the work.
 
-More details will be provided in future communications.
+However, there are some auxiliary nodes not part of the main Cori system that 
+are powered by this circuit and are not connected to the backup generator. The 
+**impacted nodes include the JGI ExVivo nodes, the Cori GPU nodes, and the 
+recently installed large memory nodes.** These nodes will be taken offline on
+October 7, and will return to service after the outage is complete, on
+October 12.
 
 
 ### 2021 ERCAP Allocations Process Closes Monday, October 5! <a name="ercap"/></a> 
@@ -302,19 +304,18 @@ Proposals are reviewed and awarded by Office of Science allocation managers and
 implemented by NERSC. For more information on the ERCAP process, please listen 
 to [this podcast](https://anchor.fm/nersc-news/episodes/ERCAP-Allocation-Requests-Clayton-Bagwell-Interview-e4u09l). 
 
-Please join us for virtual [office hours](#ercapofficehrs) this Thursday.
+Please join us for virtual [office hours](#ercapofficehrs) on October 1 and 5.
 
 
-### Join Us for ERCAP Office Hours this Thursday! <a name="ercapofficehrs"/></a> 
+### Join Us for ERCAP Office Hours October 1 and 5! <a name="ercapofficehrs"/></a> 
 
 Allocations staff will once again hold virtual office hours via Zoom to assist
 users with finishing up and submitting their ERCAP requests, on the following
 dates:
-- **This Thursday, September 17**
 - Thursday, October 1
 - Monday, October 5 (ERCAP due date)
 
-Office hours will take place from 9-11 am and 2-4 pm (Pacific
+October office hours will take place from 9-12 noon and 1-4 pm (Pacific
 time). Please join the Zoom meeting via [this link](https://lbnl.zoom.us/j/7314990879?pwd=Z1B6UnRjaEVSeFNUb1hCSUFTWjE2dz09), 
 or type the meeting number (7314990879) and password (NERSC) into your Zoom app.
 
@@ -494,44 +495,14 @@ seeing your application.
 ### Upcoming Outages <a name="outages"/></a> 
 
 - **Cori**
-    - 09/16/20 07:00-20:00 PDT, Scheduled Maintenance
+    - 10/21/20 07:00-20:00 PST, Scheduled Maintenance
     - 11/18/20 07:00-20:00 PST, Scheduled Maintenance
     - 12/16/20 07:00-20:00 PDT, Scheduled Maintenance
+    - 01/20/21 07:00-20:00 PDT, Scheduled Maintenance
     - 02/17/21 07:00-20:00 PDT, Scheduled Maintenance
 
-- **Spin**        
-    - 09/16/20 08:00-16:00 PDT, Scheduled Maintenance
-        - Services will be unavailable briefly (1-2 min) within the window
-          for upgrades to system software.
-
-- **Science Databases** 
-    - 09/16/20 8:00-13:00 PDT, Scheduled Maintenance
-        - Services will be unavailable briefly (15-30 min) within the window 
-          for upgrades to system software.
-
-- **JGI db, int, and web servers** 
-    - 09/16/20 8:00-16:00 PDT, Scheduled Maintenance
-        - Database and web services will be down briefly (15-30 minutes)
-          within the window and interactive services will be down for
-          60-90 minutes within the window for upgrades to system software.
-
-- **HPSS Regent (Backup)**
-    - 09/16/20 9:00-12:00 PDT, Scheduled Maintenance
-
-- **Globus**     
-    - 09/16/20 13:00-15:00 PDT, Scheduled Maintenance
-        - The Globus S3 endpoint will be unavailable briefly (1-2 min)
-          within the window for upgrades to system software.
-
-- **NoMachine**
-    - 09/16/20 13:00-15:00 PDT, Scheduled Maintenance
-        - Services will be unavailable briefly (1-2 min) within the window
-          for upgrades to system software.
-
-- **MyProxy**
-    - 09/16/20 13:00-15:00 PDT, Scheduled Maintenance
-        - Services will be unavailable briefly (1-2 min) within the window
-          for upgrades to system software.
+- **Jupyter**        
+    - 09/23/20 12:00-13:00 PDT, Scheduled Maintenance
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
 
