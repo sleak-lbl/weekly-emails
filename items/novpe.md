@@ -1,6 +1,6 @@
-### New PE Installations for November Maintenance
+### New PE Installations for this Week's Maintenance
 
-During the November Cori maintenance, NERSC will install some new software and 
+During this week's Cori maintenance, NERSC will install some new software and 
 remove some old software. **Software defaults will remain the same.**
 
 We will install the 20.10 Cray Programming Environment (PE) Software release and

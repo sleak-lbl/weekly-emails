@@ -1,4 +1,4 @@
-### (NEW) Final Full-Facility Power Outage December 15-20
+### Final Full-Facility Power Outage December 15-20
 
 The final power upgrade for the Perlmutter installation will take place
 December 15-20. During most of this time, power will be cut to the building 

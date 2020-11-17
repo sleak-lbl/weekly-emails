@@ -12,9 +12,9 @@ testing on an isolated, secondary metadata server for over a week now.
 It will take some weeks to robustly integrate the fixes into Lustre and test
 and deploy the update across cscratch1. In the meantime the mitigations already 
 in place are still effective: when using Lustre file striping to improve 
-performance of large scale I/O, please limit the stripe count to 72 (the setting 
+performance of large scale I/O, please limit the stripe count to 72 (the setting
 provided by the `stripe_large` utility). For more about Lustre striping please 
-see <https://docs.nersc.gov/performance/io/lustre/>
+see <https://docs.nersc.gov/performance/io/lustre/>.
 
 
  

@@ -1,17 +1,18 @@
-### IDEAS-ECP Webinar on Reducing Technical Debt with Reproducible Containers on Wednesday
+### IDEAS-ECP Webinar on Software Design for Longevity with Performance Portability on December 9
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "Reducing Technical Debt with Reproducible Containers"
-and will take place this Wednesday, November 4, 2020, at 10:00 am 
+series is entitled "Software Design for Longevity with Performance Portability"
+and will take place Wednesday, December 9, 2020, at 10:00 am 
 Pacific time.
 
-This webinar, presented by Tanu Malik (DePaul University), will describe 
-different levels of technical debt and quantify their costs; introduce
-isolation in containers as a powerful mechanism for reducing portability debt;
-provide a vision of a reproducible container with the aim of repaying different
-technical debt types; and conclude with results of using reproducible containers
-on domain science and HPC use cases, and provide guidance.
+This webinar, presented by Anshu Dubey (Argonne National Laboratory), will
+discuss the challenges of designing software that reconciles the cross purposes
+of performance portability and longevity, and present a few basic principles of 
+scientific software design that have been instrumental in mitigating some of the
+challenges that application developers are facing. These principles represent a
+combination of experience from the presenter's own project and from the ECP
+Performance Portability panel series over the summer.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://exascaleproject.zoomgov.com/meeting/register/vJIsf-qsrzoiG_wS4H6BK9I1bFC0l4NzWO0).
+[here](https://exascaleproject.zoomgov.com/meeting/register/vJIsf-CgqDwvE-qCex26LYy1YwhOEkhxHCE).
