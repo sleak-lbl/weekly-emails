@@ -9,11 +9,9 @@
          MATLAB, Community File System, Iris, ssh-proxy, Multi-Factor
          Authentication, and R Studio.
 - **Cori**
-    - 11/18/20 07:00-20:00 PST, Scheduled Maintenance
     - 01/20/21 07:00-20:00 PDT, Scheduled Maintenance
     - 02/17/21 07:00-20:00 PDT, Scheduled Maintenance
-- **DTNs**
-    - 11/18/20 7:00-12:00 PST, Scheduled Maintenance
-         DTNs will be down for OS and GPFS updates.
+- **HPSS Archive (user)**
+    - 11/25/20 9:00-13:00 PST, Scheduled Maintenance
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
