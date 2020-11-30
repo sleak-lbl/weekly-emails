@@ -1,6 +1,6 @@
-### Mark Your Calendar for TotalView Training, December 9!
+### Join us for a TotalView Training, Next Wednesday December 9!
 
-NERSC will host a half-day training event on the TotalView debugger on 
+NERSC will host a half-day training event on the TotalView debugger next
 Wednesday, December 9, 2020. In this training, users will learn how to use one 
 of the most popular parallel GUI debugging tools in identifying and fixing 
 errors in parallel codes on CPUs and GPUs. The presenters will also provide the

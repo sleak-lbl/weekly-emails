@@ -4,6 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [NESAP Engineer](https://jobs.lbl.gov/jobs/nesap-engineer-3167):
+Enable new scientific advancements by enabling scientists to exploit
+cutting-edge computational science techniques in machine learning, data 
+analysis, and/or simulation on NERSC's next supercomputer.
 - [NESAP for Data Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-data-postdoctoral-fellow-3017):
 Work in multidisciplinary teams to transition data-analysis codes to NERSC's new
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 

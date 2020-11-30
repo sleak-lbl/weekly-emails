@@ -1,11 +1,11 @@
-### File Purging on Cori Scratch Resumes Tomorrow
+### File Purging on Cori Scratch Has Resumed
 
 During the period of unstable scratch performance that began in late September, 
 NERSC temporarily suspended the purging of the Cori scratch file system 
 (CSCRATCH) to help preserve the state of user files while the metadata was being
 rebuilt.
 
-Now that the file system issue has been debugged and corrected, we are resuming
+Now that the file system issue has been debugged and corrected, we have resumed
 regularly scheduled purging of files whose last access time was over twelve
 weeks ago, per our 
 [scratch purge policy](https://docs.nersc.gov/filesystems/quotas/#purging).
