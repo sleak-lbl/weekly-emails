@@ -11,5 +11,10 @@
 - **Cori**
     - 01/20/21 07:00-20:00 PDT, Scheduled Maintenance
     - 02/17/21 07:00-20:00 PDT, Scheduled Maintenance
+- **Spin**
+    - 12/09/20 10:00-13:00 PDT, Scheduled Maintenance
+         Services in Rancher 2 will be unavailable briefly (1-2 min) for 
+         upgrades & network configuration changes. The Rancher 2 UI will also be
+         unavailable for brief periods.
 
 Visit <http://my.nersc.gov/> for latest status and outage information.

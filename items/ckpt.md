@@ -1,4 +1,4 @@
-### SuperCheck21 Call for Participation Extended to December 14!  
+### Submit to SuperCheck21 Before Next Monday, December 14!  
 
 NERSC invites you to participate in the First International Symposium on
 Checkpointing for Supercomputing (SuperCheck21), which will be held February 
@@ -22,4 +22,4 @@ job, and system levels)
 
 For more information and to submit (or to register for the free symposium)
 please see <https://ckpt-symposium.lbl.gov/>. The deadline for submissions is
-**Monday, December 14.**
+**next Monday, December 14.**
