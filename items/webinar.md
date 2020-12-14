@@ -1,8 +1,8 @@
-### Join Us for the NUG Meeting, this Thursday 19 November, 11am PT
+### Join Us for the NUG Meeting, this Thursday 17 December, 11am PT
 
 The NUG Monthly Webinar is now the NUG Monthly Meeting with a more 
-interactive format, on the third Thursday of every month. Our October
-meeting is **this Thursday, 19 November, at 11am** (Pacific time), at 
+interactive format, on the third Thursday of every month. Our December
+meeting is **this Thursday, 17 December, at 11am** (Pacific time), at 
 <https://lbnl.zoom.us/j/285479463>.
 
 Our aim for these meetings is for a forum where NERSC and its users can 
@@ -18,13 +18,12 @@ discussion!
   that surprised them, or that might be valuable to other users to know.
 
 - **Announcements and CFPs:** upcoming conferences, workshops, or other events.
+  - Today we'll talk a bit about the Allocation Year transition, scheduled for 
+    January 20, 2021, and what you can expect for next year.
 
-- **Topic-of-the-day:** This month's topic topic is "NERSC and NERSC
-  Users at SC20". This week and last week NERSC staff and many users
-  have participated in SC20, the largest annual Supercomputing conference.
-  We'll run through some highlights, have an open discussion of what our
-  users found interesting and build up a list of topics and talks of
-  interest to the NERSC user community.
+- **Topic-of-the-day:** This month's topic topic is "**HPSS**". 
+  We'll talk a bit about NERSC's archive system, some facts and figures,and 
+  some tips for getting the most from it
 
 - **Coming up:** Nominations and requests for future topics. We're
   especially interested to hear from our users - what are you using
@@ -33,5 +32,5 @@ discussion!
 
 - **Last month's numbers:** NERSC center metrics and info for the most recent month.
 
-Please see <https://www.nersc.gov/users/NUG/teleconferences/nug-meeting-nov-19>
+Please see <https://www.nersc.gov/users/NUG/teleconferences/nug-meeting-dec-17-2020/>
 for details.
