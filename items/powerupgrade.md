@@ -1,22 +1,27 @@
-### (NEW) Schedule for December 15-20 Full-Facility Power Outage
+### Full-Facility Power Outage Begins Tomorrow
 
-The final power upgrade for the Perlmutter installation will take place
-December 15-20. During most of this time, power will be cut to the building 
-where NERSC is housed.
+The final power upgrade for the Perlmutter installation begins tomorrow and
+will last through Sunday (December 15-20). During most of this time, power will 
+be cut to the building where NERSC is housed.
 
 **All NERSC resources -- systems and services alike -- except for the main NERSC
 website and the documentation website will be unavailable for all or part of the
 outage.** (These two websites are hosted off-site and have no dependencies 
-within the NERSC machine room.)
+within the NERSC machine room.) An incomplete list of impacted systems/services
+includes Cori, DTNs, Jupyter, HPSS Archive (user), HPSS Regent (backup), 
+ProjectB, Global Homes, NX Services, Science Gateway Services, DNA, Global 
+Common, MongoDB, Globus, Spin, NoMachine, NEWT, Science Databases, JGI db, 
+int, & web servers, MATLAB, Community File System, Iris, ssh-proxy, 
+Multi-Factor Authentication, and R Studio.
 
 Here is a brief timeline of what to expect (all times Pacific):
-- **7:00 am, Tuesday, December 15: NERSC starts to bring down systems.**
+- **7:00 am, tomorrow, December 15: NERSC starts to bring down systems.**
     - On Cori, a reservation will prevent any jobs from running past 7:00 am, 
 and at that time the login nodes will be made unavailable to users and powered 
 down.
     - All other systems, including all file systems, HPSS, Spin, Iris, and LDAP 
 (authentication) will begin to be systematically turned off. 
-- **1:00 pm, Tuesday, December 15: All resources are shut down.**
+- **1:00 pm, tomorrow, December 15: All resources are shut down.**
     - Because the NERSC help site requires LDAP authentication to be used,
 NERSC consultants and account support specialists will lose access to the
 system. (This may happen earlier than, but no later than, 1 pm.) *NERSC 
