@@ -1,6 +1,6 @@
-### Cori Default Python Modules Changing Next Monday 
+### Cori Default Python Modules Changing Today
 
-Next Monday, December 21, 2020, we will change Cori's default Python module 
+Today, December 21, 2020, we changed Cori's default Python module 
 (python/3.7-anaconda-2019.10) to a newer version (python/3.8-anaconda-2020.11). 
 What does this mean for you?
 

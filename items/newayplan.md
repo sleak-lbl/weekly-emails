@@ -2,10 +2,10 @@
 
 The new NERSC allocation year (AY) begins on January 20, 2021.
 
-Any new and continuing projects received notice late last week. Next week,
-after the power maintenance is complete, NERSC will send additional information
-to PIs and PI proxies of continuing projects on how to update your project's
-continuing user list and authorize the use of premium.
+Any new and continuing projects received notice the week before last. This week
+NERSC will send additional information to PIs and PI proxies of continuing 
+projects on how to update your project's continuing user list and authorize the 
+use of premium.
 
 There will be a few changes for AY 2021 centered around access and charging for 
 the "premium" QOS. PIs will now be able to authorize only select users to charge
@@ -18,8 +18,9 @@ Much will remain the same, however. The base charge rates will not change for
 anticipate that **software defaults may change later in the year** when we must
 perform an upgrade to Cori's operating system.
 
-Users will not be charged for any utilization on Perlmutter in AY 2021.
-Perlmutter charging will begin in AY 2022.
+The Perlmutter machine will come online in AY 2021. Users will not be charged 
+for any utilization on Perlmutter in AY 2021. Perlmutter charging will begin in 
+AY 2022.
 
 For more details about the AY transition, please see the [AY Transition
 Webpage](https://www.nersc.gov/news-publications/announcements/allocation-year-transition-2020-to-2021/).
