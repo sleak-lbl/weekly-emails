@@ -2,8 +2,8 @@
 
 The new NERSC allocation year (AY) begins on January 20, 2021.
 
-Any new and continuing projects received notice the week before last. This week
-NERSC will send additional information to PIs and PI proxies of continuing 
+Any new and continuing projects received notice in early December. Additional 
+information was sent before the holidays to PIs and PI proxies of continuing 
 projects on how to update your project's continuing user list and authorize the 
 use of premium.
 

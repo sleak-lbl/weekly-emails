@@ -1,6 +1,6 @@
 ### Resolution of cscratch1 Issues 
 
-During the NERSC facility power upgrade last week, fixes were deployed for 
+During the NERSC facility power upgrade last month, fixes were deployed for 
 the bugs that led to the cscratch1 outage in September and October. We are
 confident that the problem is now fully resolved.
 
