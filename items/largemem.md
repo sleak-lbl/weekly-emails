@@ -1,4 +1,4 @@
-### Large Memory Nodes on Cori and Spin Available to Users
+### Request Access to Large Memory Nodes on Cori and Spin
 
 The new [Cori Large Memory](https://docs.nersc.gov/systems/cori-largemem/)
 ("cmem") system, consisting of 20 nodes each with 2 TB memory and two 16-core

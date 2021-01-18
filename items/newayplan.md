@@ -1,12 +1,12 @@
-### Plan for the New Allocation Year, Beginning January 20, 2021
+### Plan for the New Allocation Year, Beginning Wednesday
 
-The new NERSC allocation year (AY) begins next Wednesday, January 20, 2021.
+The new NERSC allocation year (AY) begins this Wednesday, January 20, 2021.
 
 Any new and continuing projects received notice in early December. Additional 
 information was sent before the holidays to PIs and PI proxies of continuing 
 projects on how to update your project's continuing user list and authorize the 
-use of premium. **Please complete this task by the end of the week if at all
-possible.**
+use of premium. **Please complete this task immediately if you have not already
+done so.**
 
 There will be a few changes for AY 2021 centered around access and charging for 
 the "premium" QOS. PIs will now be able to authorize only select users to charge
