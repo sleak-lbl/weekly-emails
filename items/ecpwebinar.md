@@ -1,18 +1,15 @@
-### IDEAS-ECP Webinar on the Extreme-Scale Scientific Software Stack (E4S) on Wednesday
+### IDEAS-ECP Webinar on Good Practices for Research Software Documentation on Feb 10
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "Extreme-Scale Scientific Software Stack (E4S)"
-and will take place this Wednesday, January 13, 2021, at 10:00 am 
+series is entitled "Good Practices for Research Software Documentation"
+and will take place Wednesday, February 10, 2021, at 10:00 am 
 Pacific time.
 
-This webinar, presented by Sameer Shende (University of Oregon) and David
-Honneger Rogers (Los Alamos National Laboratory), discusses the Extreme-Scale
-Scientific Software Stack (E4S), a curated, Spack-based, comprehensive and
-coherent software stack that will enable application developers to productively
-write highly parallel applications that can portably target diverse exascale
-architectures.
-
+This webinar, presented by Stephan Druskat (Friedrich Schiller University Jena)
+and Sorrel Harriet (Leeds Trinity University), will introduce the importance of
+software documentation and the different approaches that may be taken at
+various stages, and on various levels, in the software development lifecycle.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://www.exascaleproject.org/event/e4s-210113/).
+[here](https://exascaleproject.zoomgov.com/meeting/register/vJIsf-ysqzgiHMXTHDl8MQIlbayLHoTf8R8).

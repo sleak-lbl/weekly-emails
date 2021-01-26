@@ -4,6 +4,9 @@ There will be no new episode of the "NERSC User News" podcast this week.
 We encourage you to instead enjoy some 
 of our most recent episodes and greatest hits:
 
+- [NERSC 2020 in Review & Looking Forward](https://anchor.fm/nersc-news/episodes/NERSC-2020-in-Review-and-Looking-Forward-Sudip-Dosanjh-Interview-ep44l0)
+NERSC director Sudip Dosanjh discusses the highlights of 2020 at NERSC, as well 
+as what to look forward to in 2021 and beyond.
 - [Software Support Policy](https://anchor.fm/nersc-news/episodes/NERSC-Software-Support-Policy-Steve-Leak-Interview-ehu6bg)
 In this interview with NERSC HPC Consultant Steve Leak, learn about the new
 NERSC software support policy: what it is, how it works, and its benefits for
@@ -26,9 +29,6 @@ NERSC Principal Data Architect Quincey Koziol talks about IO Middleware:
 what it is, how you can benefit from using it in your code, and how it is 
 evolving to support data-intensive computing and future supercomputing 
 architectures.
-- [NERSC 2019 in Review and Looking Forward](https://anchor.fm/nersc-news/episodes/NERSC-2019-in-Review-and-Looking-Forward--Sudip-Dosanjh-Interview-ea5d5t/a-a1a6cpd)
-NERSC director Sudip Dosanjh reflects upon the accomplishments of NERSC and its 
-users in 2019, and what he's looking forward to in 2020 at NERSC.
 - [Community File System](https://anchor.fm/nersc-news/episodes/Community-File-System-Kristy-Kallback-Rose--Greg-Butler--and-Ravi-Cheema-Interview-e9d88q/a-a149hf5)
 NERSC Storage System Group staff Kristy Kallback-Rose, Greg Butler, and Ravi
 Cheema talk about the new Community File System and the migration timeline.
