@@ -4,10 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [HPC Performance Engineer](https://jobs.lbl.gov/jobs/hpc-performance-engineer-3236):
+- **NEW** [Machine Learning Engineer](https://jobs.lbl.gov/jobs/machine-learning-engineer-3504):
 Enable new scientific advancements by enabling scientists to exploit
-cutting-edge computational science techniques in machine learning, data 
-analysis, and/or simulation on NERSC's next supercomputer.
+cutting-edge computational science techniques in machine learning and deep 
+learning on NERSC's future supercomputers.
 - [NESAP for Data Postdoctoral Fellow](https://jobs.lbl.gov/jobs/nesap-for-data-postdoctoral-fellow-3017):
 Work in multidisciplinary teams to transition data-analysis codes to NERSC's new
 Perlmutter supercomputer and produce mission-relevant science that truly pushes 
