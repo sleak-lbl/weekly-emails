@@ -1,9 +1,9 @@
-### IDEAS-ECP Webinar on Good Practices for Research Software Documentation on Feb 10
+### IDEAS-ECP Webinar on Good Practices for Research Software Documentation on Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Good Practices for Research Software Documentation"
-and will take place next Wednesday, February 10, 2021, at 10:00 am 
+and will take place this Wednesday, February 10, 2021, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Stephan Druskat (Friedrich Schiller University Jena)

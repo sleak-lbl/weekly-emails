@@ -4,7 +4,7 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Machine Learning Engineer](https://jobs.lbl.gov/jobs/machine-learning-engineer-3504):
+- [Machine Learning Engineer](https://jobs.lbl.gov/jobs/machine-learning-engineer-3504):
 Enable new scientific advancements by enabling scientists to exploit
 cutting-edge computational science techniques in machine learning and deep 
 learning on NERSC's future supercomputers.

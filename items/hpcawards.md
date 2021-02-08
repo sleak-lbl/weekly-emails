@@ -20,4 +20,4 @@ during or after 2015 is eligible.
 
 For more information and to nominate someone, please see the [NERSC HPC
 Achievement Awards](https://www.nersc.gov/science/nersc-hpc-achievement-awards/)
-page. Nominations are **due February 19, 2021.**
+page. Nominations are **due next Friday, February 19, 2021.**

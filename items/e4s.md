@@ -14,6 +14,6 @@ source.
 
 To learn more about E4S, check out the documentation at 
 <https://docs.nersc.gov/applications/e4s>. We encourage you to experiment with 
-the E4S 20.10 stack in order to help us improve subsequent e4s release. Please 
+the E4S 20.10 stack in order to help us improve subsequent e4s releases. Please 
 send in a ticket with any questions or comments.
 
