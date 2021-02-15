@@ -1,4 +1,4 @@
-### Nominate Someone for the NERSC Early Career HPC Achievement Awards Today!
+### Last Chance: NERSC Early Career HPC Achievement Awards Nominations Due Friday!
 
 Nominations are now open for the 2020 NERSC Early Career High-Performance
 Computing Achievement Awards. Awards will be made in the following two
@@ -20,4 +20,4 @@ during or after 2015 is eligible.
 
 For more information and to nominate someone, please see the [NERSC HPC
 Achievement Awards](https://www.nersc.gov/science/nersc-hpc-achievement-awards/)
-page. Nominations are **due next Friday, February 19, 2021.**
+page. Hurry; nominations are **due this Friday, February 19, 2021.**

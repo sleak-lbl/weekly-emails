@@ -1,6 +1,6 @@
-### Updated Darshan Module to Become Default on February 22
+### Updated Darshan Module to Become Default Next Monday
 
-Darshan 3.2.1 will be made a default module on Monday, February 22, 2021 on 
+Darshan 3.2.1 will be made a default module next Monday, February 22, 2021 on 
 Cori. We use Darshan to collect details about I/O and file systems usage by 
 NERSC users. (Note: while a darshan module is already loaded on Cori, the module
 has not been active since the transition from static linking to dynamic linking 
