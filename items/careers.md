@@ -4,7 +4,11 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [HPC Architecture and Performance Engineer](https://jobs.lbl.gov/jobs/hpc-architecture-and-performance-engineer-3575):
+- **NEW** [HPC Performance Engineer](https://jobs.lbl.gov/jobs/hpc-performance-engineer-3583):
+Enable new scientific advancements by enabling scientists to exploit 
+cutting-edge computational science techniques in machine learning, data 
+analysis, and/or simulation on NERSC's next supercomputer.
+- [HPC Architecture and Performance Engineer](https://jobs.lbl.gov/jobs/hpc-architecture-and-performance-engineer-3575):
 Help NERSC develop a complete understanding of architecture/performance to
 improve application and computer-system performance on extreme-scale advanced
 architectures.
