@@ -1,4 +1,4 @@
-### (NEW) Allocation Reductions Schedule Set for 2021
+### Allocation Reductions Schedule Set for 2021
 
 Allocation reductions will recommence this year after a one-year hiatus.
 The reduction process takes unused allocation from projects not using them and

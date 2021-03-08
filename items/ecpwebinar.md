@@ -1,9 +1,9 @@
-### IDEAS-ECP Webinar on RAJA Portability Suite on March 10
+### IDEAS-ECP Webinar on RAJA Portability Suite on Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "An Overview of the RAJA Portability Suite",
-and will take place next Wednesday, March 10, 2021, at 10:00 am 
+and will take place on Wednesday, March 10, 2021, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Arturo Vargas (Lawrence Livermore National 
