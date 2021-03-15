@@ -1,4 +1,4 @@
-### Sign up for Training on HPC Toolkit on March 29 & April 2!
+### (UPDATE) Sign up for Training on HPC Toolkit on March 29 & April 2!
 
 The developers of HPCToolkit from Rice University will present a 2-part training
 series on using HPCToolkit to measure and analyze the performance of 
@@ -17,3 +17,7 @@ of demos and help for users to apply HPCToolkit to their own codes.
 
 For more information and to register, please see
 <https://www.nersc.gov/users/training/events/hpctoolkit-for-gpu-tutorial-mar-apr-2021/>.
+
+**NOTE: If you registered for the training before March 3 at 11 am Pacific, 
+please re-register, as there was an error in the registration form so it failed 
+to capture all user registrations.**

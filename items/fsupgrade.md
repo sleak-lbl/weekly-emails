@@ -1,4 +1,4 @@
-### Hardware Upgrade for Global Homes and Common File Systems Begins Soon
+### Hardware Upgrade for Global Homes and Common File Systems Has Begun
 
 NERSC's storage team is working to upgrade the hardware that provides the Homes 
 and Common filesystems. Storage administrators will migrate data on behalf of 

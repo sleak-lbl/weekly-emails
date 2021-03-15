@@ -4,7 +4,7 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-3617):
+- [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-3617):
 Join the team that architects, deploys, and supports high-performance parallel
 storage systems at NERSC.
 - [HPC Performance Engineer](https://jobs.lbl.gov/jobs/hpc-performance-engineer-3583):

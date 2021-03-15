@@ -1,7 +1,7 @@
 ### Join Us for the NUG Meeting, this Thursday 18 March, 11am PT
 
 The NUG Monthly Webinar is now the NUG Monthly Meeting with a more 
-interactive format, on the third Thursday of every month. Our February
+interactive format, on the third Thursday of every month. Our March
 meeting is **this Thursday, 18 March, at 11am** (Pacific time), at 
 <https://lbnl.zoom.us/j/285479463>.
 
@@ -16,8 +16,6 @@ discussion!
 - **Today-I-learned:** open discussion for attendees to point out something 
   that surprised them, or that might be valuable to other users to know.
 - **Announcements and CFPs:** upcoming conferences, workshops, or other events.
-  - Today we'll talk a bit about the Allocation Year transition, scheduled for 
-    January 20, 2021, and what you can expect for next year.
 - **Topic-of-the-day:** This month's topic topic is "**Parallelware tools for 
   detecting code optimization opportunities**". Manuel Arenaz and Javier Novo 
   Rodríguez from Appentra will demonstrate using Parallelware Trainer and
