@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [Storage Systems Group Lead](https://jobs.lbl.gov/jobs/storage-systems-group-lead-3651):
+Lead the team that manages, supports, and monitors NERSC's large-scale storage 
+systems.
 - [HPC Storage Infrastructure Engineer](https://jobs.lbl.gov/jobs/hpc-storage-infrastructure-engineer-3617):
 Join the team that architects, deploys, and supports high-performance parallel
 storage systems at NERSC.

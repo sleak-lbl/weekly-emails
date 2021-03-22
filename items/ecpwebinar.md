@@ -1,17 +1,17 @@
-### IDEAS-ECP Webinar on RAJA Portability Suite on Wednesday
+### (NEW) IDEAS-ECP Webinar on Workflow for Increasing Scientific Software Quality, April 7
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "An Overview of the RAJA Portability Suite",
-and will take place on Wednesday, March 10, 2021, at 10:00 am 
+series is entitled "A Workflow for Increasing the Quality of Scientific 
+Software",
+and will take place on Wednesday, April 7, 2021, at 10:00 am 
 Pacific time.
 
-This webinar, presented by Arturo Vargas (Lawrence Livermore National 
-Laboratory), will introduce the RAJA Portability Suite, a collection of 
-open-source software libraries that enable developers to write single-source
-applications that are portable across a wide range of HPC architectures, 
-provide an overview of its capabilities, and present code examples and 
-performance results. 
+This webinar, presented by Tomislav Maric (TU Darmstadt), will present a
+workflow to increase the quality of research software in Computational Science
+and Engineering (CSE) by applying established software engineering practices
+extended with CSE-specific testing and visualization, and periodical
+cross-linking of software with reports/publications and datasets.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://www.exascaleproject.org/event/raja-210310/).
+[here](https://www.exascaleproject.org/event/workflow4scisoft/).

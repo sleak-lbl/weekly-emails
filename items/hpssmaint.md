@@ -1,4 +1,4 @@
-### (NEW) HPSS Archive Maintenance April 11-16; All Data in Archive Unavailable for Duration!
+### HPSS Archive Maintenance April 11-16; All Data in Archive Unavailable for Duration!
 
 **Archive, the NERSC HPSS Tape Storage System, will be unavailable for a 
 software upgrade from 7 am (Pacific) on April 11, 2021 to 7 pm on 

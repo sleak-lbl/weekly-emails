@@ -1,10 +1,10 @@
-### Call for Participation: PERMAVOST 2021 Workshop on Performance Engineering, Modelling, Analysis, & Visualization Strategy
+### (UPDATE) Deadline Extended to March 31: PERMAVOST 2021 Workshop on Performance Engineering, Modelling, Analysis, & Visualization Strategy
 
 The Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn
 STrategy (PERMAVOST), to be held June 25, 2021 in conjunction with ACM 
 HPDC 2021, has opened its call for participation.
 
-The goal of the work shop is to bring together tools developers and end users of
+The goal of the workshop is to bring together tools developers and end users of
 performance analysis tools. Topics of interest include
 - Performance analysis and modelling of real-world applications;
 - Data visualization in high-level performance analysis;
@@ -16,7 +16,7 @@ performance analysis tools. Topics of interest include
 
 For more information and to submit a paper, please see 
 <https://permavost.github.io/>.
-Submissions are due **March 19, 2021.**
+Submissions are due **March 31, 2021.**
 
 
 

@@ -1,4 +1,4 @@
-### (UPDATE) Sign up for Training on HPC Toolkit on March 29 & April 2!
+### Sign up for Training on HPC Toolkit on March 29 & April 2!
 
 The developers of HPCToolkit from Rice University will present a 2-part training
 series on using HPCToolkit to measure and analyze the performance of 
