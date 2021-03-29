@@ -1,4 +1,4 @@
-### (NEW) NERSC Public Events and Outages Google Calendars Available!
+### NERSC Public Events and Outages Google Calendars Available!
 
 NERSC has two publicly viewable calendars aimed at users, the NERSC Public 
 Events Calendar and the NERSC Outages Calendar, to help users keep track of 

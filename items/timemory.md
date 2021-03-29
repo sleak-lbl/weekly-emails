@@ -5,7 +5,8 @@ analysis, optimization studies, logging, and debugging, that can be used to
 easily integrate and maintain the exact set of measurements/tools/features you
 want to support with an interface best suited for your application. Timemory 
 helps you simplify the monitoring of the state and performance of your
-application so that relevant debugging, logging, and performance data can be trivially enabled or disabled in a consistent and portable manner.
+application so that relevant debugging, logging, and performance data can be 
+trivially enabled or disabled in a consistent and portable manner.
 
 The Timemory tutorial, to be held across two successive Mondays, April 19 & 26,
 will introduce the user to Timemory, its command-line tools and APIs, and how

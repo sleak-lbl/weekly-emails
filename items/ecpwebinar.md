@@ -1,10 +1,10 @@
-### (NEW) IDEAS-ECP Webinar on Workflow for Increasing Scientific Software Quality, April 7
+### IDEAS-ECP Webinar on Workflow for Increasing Scientific Software Quality, April 7
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "A Workflow for Increasing the Quality of Scientific 
 Software",
-and will take place on Wednesday, April 7, 2021, at 10:00 am 
+and will take place next Wednesday, April 7, 2021, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Tomislav Maric (TU Darmstadt), will present a

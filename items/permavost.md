@@ -1,4 +1,4 @@
-### (UPDATE) Deadline Extended to March 31: PERMAVOST 2021 Workshop on Performance Engineering, Modelling, Analysis, & Visualization Strategy
+### Submissions Due Wednesday: PERMAVOST 2021 Workshop on Performance Engineering, Modelling, Analysis, & Visualization Strategy
 
 The Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn
 STrategy (PERMAVOST), to be held June 25, 2021 in conjunction with ACM 
@@ -16,7 +16,7 @@ performance analysis tools. Topics of interest include
 
 For more information and to submit a paper, please see 
 <https://permavost.github.io/>.
-Submissions are due **March 31, 2021.**
+Submissions are due **this Wednesday, March 31, 2021.**
 
 
 
