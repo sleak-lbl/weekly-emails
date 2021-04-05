@@ -4,6 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [Linux Systems Administrator/Dev Ops Engineer](https://jobs.lbl.gov/jobs/linux-systems-administrator-dev-ops-engineer-3650):
+Help build and manage systems that complement the NERSC HPC environment,
+including web services, databases, container and virtual machine platforms,
+and more.
 - [Storage Systems Group Lead](https://jobs.lbl.gov/jobs/storage-systems-group-lead-3651):
 Lead the team that manages, supports, and monitors NERSC's large-scale storage 
 systems.
@@ -35,16 +39,10 @@ Work in multidisciplinary teams to develop and implement cutting-edge machine
 learning/deep learning solutions in codes that will run on NERSC's new 
 Perlmutter supercomputer and produce mission-relevant science that pushes the 
 limits of AI on high-performance computing.
-- [Systems / DevOps Engineer](https://jobs.lbl.gov/jobs/systems-devops-engineer-2742):
-Use your DevOps and system engineering skills to help build and manage systems 
-that complement NERSC's supercomputing environment.
 
-(**Note:** We have received reports that the URLs for the jobs change without 
-notice, so if you encounter a page indicating that a job is closed or not found,
-please check by navigating to <https://jobs.lbl.gov/>, scrolling down to
-the 9th picture that says "All Jobs" and clicking on that. Then, under 
-"Business," select "View More" and scroll down until you find the checkbox for 
-"NE-NERSC" and select it.)
+(**Note:** You can browse all our job openings by first navigating to 
+<https://jobs.lbl.gov/jobs/search/>. Under "Business," select "View More" 
+and scroll down to find and select the checkbox for "NE-NERSC".)
 
 We know that NERSC users can make great NERSC employees! We look forward to 
 seeing your application.

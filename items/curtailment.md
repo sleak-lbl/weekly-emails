@@ -1,7 +1,7 @@
 ### NERSC Operations Continue, with Minimal Shelter-in-Place Impacts
 
-Alameda County, California, where NERSC is located, remains under a
-public health order.
+Alameda County, California, where NERSC is located, remains under 
+public health order restrictions.
 NERSC continues to remain open while following site-specific protection plans.
 We remain in operation as before, with the majority of NERSC staff working
 remotely for the foreseeable future, and only staff essential to operations 

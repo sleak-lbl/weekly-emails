@@ -15,6 +15,10 @@ please plan accordingly. Once the upgrade is complete, you will be able to
 access your data as usual from any NERSC system without taking any further 
 action.
 
+After the maintenance is complete, users will once again have access to all
+files on Archive as before. No user files will be deleted during the upgrade
+process.
+
 Thank you for your patience during this long-overdue upgrade process. Please 
 open a ticket at <https://help.nersc.gov> if you have any questions or if you 
 need help finding temporary storage space while Archive is unavailable.
