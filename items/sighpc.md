@@ -1,4 +1,4 @@
-### Nominations for ACM SIGHPC Graduate Fellowships in Computational and Data Science Now Open!
+### Nominations for ACM SIGHPC Graduate Fellowships in Computational and Data Science Close April 30!
 
 Are you a currently enrolled graduate student focusing on computational or data 
 science (or will you be one no later than October 15)? Are you a woman or a 
@@ -14,8 +14,8 @@ national price level ratio for the country where the degree will be earned. In
 addition, new fellowship recipients will be supported to travel to the annual SC
 conference, where they will be honored at the awards session.
 
-The submissions close **April 30, 2021**. For more information please 
-see <https://www.sighpc.org/for-your-career/fellowships>.
+The submissions close **next Friday, April 30, 2021**. For more information 
+please see <https://www.sighpc.org/for-your-career/fellowships>.
 
 
 
