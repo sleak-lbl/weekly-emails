@@ -1,4 +1,4 @@
-### (NEW) Call for Papers: Parallel Applications Workshop, Alternatives to MPI+X
+### Call for Papers: Parallel Applications Workshop, Alternatives to MPI+X
 
 The Parallel Applications Workshop, Alternatives to MPI+X (PAW-ATM) is seeking 
 full-length papers and extended abstracts for the workshop to be held in 

@@ -1,10 +1,10 @@
-### Flex QOS Available on Cori Haswell Nodes Following Maintenance
+### Flex QOS Now Available on Cori Haswell Nodes 
 
-Following Wednesday's maintenance, a "flex" QOS will be available on the Cori
-Haswell partition. This QOS is aimed at users whose jobs are capabile of running
-for a relatively short amount of time before terminating. For example, if you
-are running a code that is capable of checkpointing and restarting where it left
-off, then you may be able to use the flex QOS.
+A "flex" QOS is now available on the Cori Haswell partition. This QOS is aimed 
+at users whose jobs are capabile of running for a relatively short amount of 
+time before terminating. For example, if you are running a code that is capable 
+of checkpointing and restarting where it left off, then you may be able to use 
+the flex QOS.
 
 Benefits to using the flex QOS include
 - The ability to improve your throughput by submitting jobs that can fit into
