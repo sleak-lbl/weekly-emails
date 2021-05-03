@@ -18,10 +18,6 @@ storage systems at NERSC.
 Enable new scientific advancements by enabling scientists to exploit 
 cutting-edge computational science techniques in machine learning, data 
 analysis, and/or simulation on NERSC's next supercomputer.
-- [HPC Architecture and Performance Engineer](http://m.rfer.us/LBLBDS3ft):
-Help NERSC develop a complete understanding of architecture/performance to
-improve application and computer-system performance on extreme-scale advanced
-architectures.
 - [Machine Learning Engineer](http://m.rfer.us/LBLviN3fs):
 Enable new scientific advancements by enabling scientists to exploit
 cutting-edge computational science techniques in machine learning and deep 

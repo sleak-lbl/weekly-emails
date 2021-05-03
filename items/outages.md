@@ -2,5 +2,8 @@
 
 - **Cori**
     - 05/19/21 07:00-20:00 PDT, Scheduled Maintenance
+    - 06/16/21 07:00-20:00 PDT, Scheduled Maintenance
+    - 07/21/21 07:00-20:00 PDT, Scheduled Maintenance
+    - 08/18/21 07:00-20:00 PDT, Scheduled Maintenance
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
