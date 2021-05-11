@@ -6,14 +6,14 @@ on this day, though if the upgrade proceeds smoothly the outage will be ended
 earlier. General compatablity issues are summarized here: 
 <https://docs.mongodb.com/manual/release-notes/4.0-compatibility/>.
 
-As part of this process, last Tuesday (April 27) we set 
+As part of this process, on April 27 we set 
 `featureCompatibilityVersion` to 3.6 on mongodb05/06 (aka mongodb01/02) 
 (<https://docs.mongodb.com/manual/release-notes/3.6-compatibility/#backwards-incompatible-features>) 
 and updated to SCRAM authentication (<https://docs.mongodb.com/manual/release-notes/3.0-scram/>) 
 mongodb07 already had these set so was not changed. We do not anticipate any 
 impact from this change but please let us know if you observed any issues.
 
-In addition to the changes above we will also have to change mongodb07 to pv1 
+In addition to the changes above we have also changed mongodb07 to pv1 
 <https://docs.mongodb.com/manual/reference/replica-set-protocol-versions/#modify-replica-set-protocol-version>.  
 We do not expect user impact from this either but to separate out changes we 
-will perform this change tomorrow, Tuesday May 4th.
+performed this change on May 4th.

@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Automated Fortran-C++ Bindings for Large-Scale Scientific Applications, May 12
+### IDEAS-ECP Webinar on Automated Fortran-C++ Bindings for Large-Scale Scientific Applications, Wednesday 
 
 The May webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Automated Fortran-C++ Bindings for Large-Scale Scientific
 Applications",
-and will take place Wednesday, May 12, 2021, at 10:00 am 
+and will take place this Wednesday, May 12, 2021, at 10:00 am 
 Pacific time.
 
 This webinar, presented by Seth Johnson (Oak Ridge National Laboratory), 
