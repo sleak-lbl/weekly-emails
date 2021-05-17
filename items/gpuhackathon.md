@@ -1,4 +1,4 @@
-### (NEW) Apply for the NERSC GPU Hackathon by May 19!
+### Apply for the NERSC GPU Hackathon by Wednesday!
 
 NERSC, in conjunction with NVIDIA and OLCF, will be hosting a GPU Hackathon 
 from July 26th-28th with an opening day on July 19th as part of the annual 
@@ -25,6 +25,6 @@ For more information, or to submit a short proposal form, please visit the
 [GPU Hackathons event page](https://www.gpuhackathons.org/event/nersc-gpu-hackathon-2021) 
 or [NERSC's event page](https://sites.google.com/lbl.gov/nersc-gpuhackathon-2021).
 
-Please note the deadline to submit a proposal is 11:59 pm (Pacific time, May 
-19th, 2021. If you have any questions, please feel free to contact Kevin Gott 
-(kngott@lbl.gov).
+Please note the deadline to submit a proposal is 11:59 pm (Pacific time), this
+Wednesday, May 19th, 2021. If you have any questions, please feel free to 
+contact Kevin Gott (kngott@lbl.gov).

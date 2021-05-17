@@ -1,4 +1,4 @@
-### Learn to Use Spin to Build Science Gateways at NERSC: Next SpinUp Workshop Starts Thursday! 
+### Learn to Use Spin to Build Science Gateways at NERSC: Next SpinUp Workshop Starts June 10! 
 
 Spin is a service platform at NERSC based on Docker container technology. It
 can be used to deploy science gateways, workflow managers, databases, and all 
@@ -11,15 +11,15 @@ NERSC User News podcast on Spin:
 
 Attend an upcoming SpinUp workshop to learn to use Spin for your own science 
 gateway projects! Applications for sessions that begin 
-on [Thursday April 15](https://www.nersc.gov/users/training/spin/)
-are still open. SpinUp is hands-on and interactive, so space is limited.
+on [Thursday June 10](https://www.nersc.gov/users/training/spin/)
+are now open. SpinUp is hands-on and interactive, so space is limited.
 
 Participants will attend an instructional session and a hack-a-thon to learn 
 about the platform, create running services, and learn maintenance and 
 troubleshooting techniques. Local and remote participants are welcome.
 
 If you can't make these upcoming sessions, never fear! The next session begins
-June 10, and we'll hold additional sessions in August, October, and December. 
+August 19, and we'll hold additional sessions in October and December. 
 
 See a video of Spin in action at the 
 [Spin documentation](https://docs.nersc.gov/services/spin/) page.

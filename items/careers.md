@@ -14,18 +14,10 @@ systems.
 - [HPC Storage Infrastructure Engineer](http://m.rfer.us/LBLGNw3fv):
 Join the team that architects, deploys, and supports high-performance parallel
 storage systems at NERSC.
-- [HPC Performance Engineer](http://m.rfer.us/LBLjuG3fu):
-Enable new scientific advancements by enabling scientists to exploit 
-cutting-edge computational science techniques in machine learning, data 
-analysis, and/or simulation on NERSC's next supercomputer.
 - [Machine Learning Engineer](http://m.rfer.us/LBLviN3fs):
 Enable new scientific advancements by enabling scientists to exploit
 cutting-edge computational science techniques in machine learning and deep 
 learning on NERSC's future supercomputers.
-- [NESAP for Data Postdoctoral Fellow](http://m.rfer.us/LBLyHh3fF):
-Work in multidisciplinary teams to transition data-analysis codes to NERSC's new
-Perlmutter supercomputer and produce mission-relevant science that truly pushes 
-the limits of high-end computing.
 - [NESAP for Simulations Postdoctoral Fellow](http://m.rfer.us/LBL6vJ3fr):
 Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
 system and produce mission-relevant science that pushes the limits of

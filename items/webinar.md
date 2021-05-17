@@ -5,9 +5,9 @@ celebrate successes, discuss difficulties and learn from each other.
 
 Our May meeting is **this Thursday, 20 May, at 11am** (Pacific time),
 at <https://lbnl.zoom.us/j/285479463>, and out topic of the month 
-will be **Running on GPUs at NERSC: job scripts for CoriGPU** - 
-bring a job script to show or ask about - or just come to see some 
-examples of scripts others are using - and join the discussion!
+will be **Running on GPUs at NERSC: job scripts for CoriGPU** -- 
+bring a job script to show or ask about -- or just come to see some 
+examples of scripts others are using -- and join the discussion!
 
 Our agenda for May is:
 

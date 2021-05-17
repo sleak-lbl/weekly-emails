@@ -1,4 +1,4 @@
-### JupyterLab 3 Comes to NERSC May 19
+### JupyterLab 3 Comes to NERSC May 20 
 
 NERSC currently supports JupyterLab 2 in production. JupyterLab 3 was released 
 several months ago and we have been watching its development closely. We have 
@@ -12,7 +12,7 @@ more info on JupyterLab 3 and what's changed from JupyterLab 2, see this
 the more detailed 
 [changelog](https://jupyterlab.readthedocs.io/en/stable/getting_started/changelog.html).
 
-Progress is such that we believe we can upgrade to JupyterLab 3 soon. We are 
-currently planning the upgrade for a short scheduled maintenance on Wednesday, 
-May 19. If all goes well after that maintenance, JupyterLab 3 will replace 
-JupyterLab 2 at NERSC.
+Progress is such that we believe we can upgrade to JupyterLab 3 soon. We have 
+planned the upgrade to coincide with the Cori maintenance, this Wednesday 
+through Thursday, May 19-20. If all goes well after that maintenance, 
+JupyterLab 3 will replace JupyterLab 2 at NERSC.
