@@ -1,4 +1,4 @@
-### (NEW) Introducing Appentra Parallelware Office Hours, June 9
+### Introducing Appentra Parallelware Office Hours, June 9
 
 [Appentra](https://www.appentra.com) produces the Parallelware tools, aimed at
 helping software developers build better quality parallel software in less time.
