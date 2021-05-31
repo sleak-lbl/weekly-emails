@@ -1,4 +1,4 @@
-### (NEW) Cori "Compile" Queue Now Available to All Users
+### Cori "Compile" Queue Now Available to All Users
 
 The "compile" QOS on Cori is now open to all users! The 
 [compile QOS](https://docs.nersc.gov/jobs/policy/#compile) is intended for 

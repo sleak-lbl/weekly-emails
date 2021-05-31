@@ -1,7 +1,7 @@
-### Introduction to NERSC Resources, June 3
+### Introduction to NERSC Resources on Thursday
 
-NERSC invites you to join our Introduction to NERSC Resources training on
-Thursday, June 3, 2021, from 1-3 pm (Pacific time).
+NERSC invites you to join our Introduction to NERSC Resources training **this 
+Thursday, June 3, 2021, from 1-3 pm (Pacific time).**
 
 This training is aimed at beginning users, to acquaint them with the basics of
 NERSC computational systems and their programming environment. Topics covered

@@ -1,7 +1,7 @@
-### Register Today for Introduction to Perlmutter, June 2
+### Register Today for Introduction to Perlmutter on Wednesday
  
-NERSC is hosting a half-day training provided by HPE on Wednesday, June 2,
-from 8:30 am to noon (Pacific) to familiarize users with the new Perlmutter
+NERSC is hosting a half-day training provided by HPE **this Wednesday, June 2,
+from 8:30 am to noon (Pacific)** to familiarize users with the new Perlmutter
 supercomputer.
 
 The session will prepare NERSC users to take advantage of the improved Cray 
