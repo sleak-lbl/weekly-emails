@@ -1,4 +1,4 @@
-### Introducing Appentra Parallelware Office Hours Next Wednesday, June 9
+### Introducing Appentra Parallelware Office Hours this Wednesday, June 9
 
 [Appentra](https://www.appentra.com) produces the Parallelware tools, aimed at
 helping software developers build better quality parallel software in less time.
@@ -16,7 +16,7 @@ NERSC has offered trainings on using these tools in
 [2019](https://www.nersc.gov/users/training/events/parallelware-tool-workshop-october-17/)
 and
 [2020](https://www.nersc.gov/users/training/events/parallelware-training-series-oct-nov-2020/). 
-Now Appentra staff are back at NERSC for virtual office hours, to be held **next
+Now Appentra staff are back at NERSC for virtual office hours, to be held **this
 Wednesday, June 9, from 9 am to noon (Pacific time)**. Users who are interested 
 in getting started or who have already used the tools but have questions are
 invited to drop in at any time during the event. For more information please see

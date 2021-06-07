@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [Site Reliability Engineer](http://m.rfer.us/LBLXsO3q2):
+Provide a variety of engineering support services in a 24x7 environment at
+NERSC.
 - [Linux Systems Administrator/Dev Ops Engineer](http://m.rfer.us/LBLA3-3fx):
 Help build and manage systems that complement the NERSC HPC environment,
 including web services, databases, container and virtual machine platforms,

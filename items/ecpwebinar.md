@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Using the PSIP Toolkit Next Wednesday, June 9
+### IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Using the PSIP Toolkit to Achieve your Goals -- A Case 
 study at The HDF Group",
-and will take place **next Wednesday, June 9, 2021, at 10:00 am 
+and will take place **this Wednesday, June 9, 2021, at 10:00 am 
 Pacific time.**
 
 This webinar, presented by Elena Pourmal (The HDF Group), Reed Milewicz (Sandia 
