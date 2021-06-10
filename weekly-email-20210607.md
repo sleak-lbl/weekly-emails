@@ -6,13 +6,13 @@
 
 ## [NERSC Status](#section1) ##
 
-- [NERSC Operations Continue, with Minimal Changes](#curtailment)
+- [(NEW) NERSC Operations Continue, with Minimal Changes](#curtailment)
 
 ## [This Week's Events and Deadlines](#section2) ##
 
-- [IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday](#ecpwebinar)
-- [Introducing Appentra Parallelware Office Hours this Wednesday, June 9](#parallelware)
-- [Crash Course in Supercomputing, this Friday, June 11](#crashcourse)
+- [(NEW) IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday](#ecpwebinar)
+- [(NEW) Introducing Appentra Parallelware Office Hours this Wednesday, June 9](#parallelware)
+- [(NEW) Crash Course in Supercomputing, this Friday, June 11](#crashcourse)
 
 ## [Perlmutter](#section3) ##
 
@@ -24,7 +24,7 @@
 - [Cori Operating System Upgrade & New Default Enivronment Coming in August or September](#osupgrade)
 - [Cori "Compile" Queue Now Available to All Users](#compileq)
 - [NERSC Electrical Systems Maintenance Weekend of July 10](#mvsgmaint)
-- [(NEW) New NERSC Appointments on Checkpoint/Restart Now Available!](#appointments)
+- [(NEW) (NEW) New NERSC Appointments on Checkpoint/Restart Now Available!](#appointments)
 - [Preparation Work for Community File System Expansion Ongoing](#cfsupdate)
 
 ## [Calls for Participation](#section5) ##
@@ -39,8 +39,8 @@
 ## [NERSC News ](#section7) ##
 
 - [No New "NERSC User News" Podcast this Week](#nopodcast)
-- [Come Work for NERSC!](#careers)
-- [Upcoming Outages](#outages)
+- [(NEW) Come Work for NERSC!](#careers)
+- [(NEW) Upcoming Outages](#outages)
 - [About this Email](#about)
 
 ## Summary of Upcoming Events and Key Dates <a name="dates"/></a> ##
@@ -111,7 +111,7 @@ details)
 ---
 ## NERSC Status <a name="section1"/></a> ##
 
-### NERSC Operations Continue, with Minimal Changes <a name="curtailment"/></a> 
+### (NEW) NERSC Operations Continue, with Minimal Changes <a name="curtailment"/></a> 
 
 Alameda County, California, where NERSC is located, remains under public health 
 order restrictions through June 14. Upon the June 15 reopening of the 
@@ -142,7 +142,7 @@ For **current NERSC systems status**, please see the online
 ---
 ## This Week's Events and Deadlines <a name="section2"/></a> ##
 
-### IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday <a name="ecpwebinar"/></a> 
+### (NEW) IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday <a name="ecpwebinar"/></a> 
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
@@ -161,7 +161,7 @@ There is no cost to attend, but registration is required. Please register
 [here](https://www.exascaleproject.org/event/psip4hdf/).
 
 
-### Introducing Appentra Parallelware Office Hours this Wednesday, June 9 <a name="parallelware"/></a> 
+### (NEW) Introducing Appentra Parallelware Office Hours this Wednesday, June 9 <a name="parallelware"/></a> 
 
 [Appentra](https://www.appentra.com) produces the Parallelware tools, aimed at
 helping software developers build better quality parallel software in less time.
@@ -187,7 +187,7 @@ the event webpage at <https://www.nersc.gov/users/training/events/parallelware-o
 and [add the event to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3EydWEzOTh2OGk5YmEydXFjbjFkOXEwZWUgbGJsLmdvdl9sczBnZHRnaTdiOTNqcmVkbGVzMGlibDB1NEBn&tmsrc=lbl.gov_ls0gdtgi7b93jredles0ibl0u4%40group.calendar.google.com).
 
 
-### Crash Course in Supercomputing, this Friday, June 11 <a name="crashcourse"/></a> 
+### (NEW) Crash Course in Supercomputing, this Friday, June 11 <a name="crashcourse"/></a> 
 
 NERSC invites those with an interest in or just beginning to write parallel
 programs to join our one-day Crash Course in Supercomputing **this Friday, 
@@ -273,7 +273,7 @@ NERSC may perform additional maintenance tasks while everything is already down.
 More details will be provided as we create a more detailed schedule.
 
 
-### (NEW) New NERSC Appointments on Checkpoint/Restart Now Available! <a name="appointments"/></a> 
+### (NEW) (NEW) New NERSC Appointments on Checkpoint/Restart Now Available! <a name="appointments"/></a> 
 
 NERSC provides 25-minute appointments with user support consultants on a range
 of topics.
@@ -431,7 +431,7 @@ Please give it a listen and let us know what you think, via a ticket at
 <https://help.nersc.gov>.
 
 
-### Come Work for NERSC! <a name="careers"/></a> 
+### (NEW) Come Work for NERSC! <a name="careers"/></a> 
 
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
@@ -472,7 +472,7 @@ We know that NERSC users can make great NERSC employees! We look forward to
 seeing your application.
 
 
-### Upcoming Outages <a name="outages"/></a> 
+### (NEW) Upcoming Outages <a name="outages"/></a> 
 
 - **Cori**
     - 06/16/21 07:00-20:00 PDT, Scheduled Maintenance

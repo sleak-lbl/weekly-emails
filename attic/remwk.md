@@ -1,24 +1,19 @@
-### Join IDEAS-ECP for Thursday Panel on How to Make Teams Tick
+### (NEW) Join IDEAS-ECP for Thursday Retrospective Panel on Strategies for Working Remotely
 
 In response to the COVID-19 pandemic and need for many to transition to 
 unplanned remote work, the IDEAS-ECP Productivity project launched the panel 
 series *Strategies for Working Remotely*, which explores important topics in 
-this area. The next panel discussion in the series is titled "How to Make Teams
-Tick", and will be held this Thursday, August 27, from noon to 1:15 PM (Pacific
-time).
+this area. The next panel discussion in the series is titled "Strategies for
+Working Remotely -- Year in Review", and will be held this Thursday, 
+December 17, from noon to 1:00 PM (Pacific time).
 
-**Abstract:** Many teams have been working remotely for several months as a 
-result of the COVID-19 pandemic. In some cases, teams were largely co-located 
-and comfortable that way -- they just seemed to tick. Now that teams have become
-fully virtual and can no longer rely on productivity practices driven by being 
-face-to-face, how have they managed change? What personal challenges have they 
-faced, and how are they bringing back into balance team dynamics and individual 
-well-being? What are they learning about themselves and each other that has been
-unexpected? In the fifth installment of this IDEAS-ECP panel discussion series, 
-we take a deeper dive and bring together members of successful software teams, 
-Sierra and Portage, to speak candidly about being disrupted by change and 
-bringing their teams back into balance. Panelists will make brief introductory 
-comments followed by open discussion. 
+**Abstract:** As we bring 2020 to a close, waht have we learned so far about our
+resiliency, ability to adapt, and productivity? The Exascale Computing 
+Project's Interoperable Design of Extreme-scale Application Software (IDEAS-ECP)
+team will host a free fireside chat to review highlights from each of the 
+Strategies for Working Remotely panel discussions in the series. What has 
+worked, why, and where can we improve? Submit "ask me anything" questions to 
+<remote@acm.org>.
 
-Register for this free event at the Exascale Computing Project (ECP) panel 
-series website: <https://www.exascaleproject.org/event/teamproductivity/>.
+Register for this free event at the Exascale Computing Project (ECP) 
+[panel series website](https://www.exascaleproject.org/event/strategies-for-working-remotely-panel-series-2020-review/).

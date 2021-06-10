@@ -1,16 +1,12 @@
-## Quarterly Allocation Adjustments tomorrow, Tuesday October 15
+### First Allocation Reductions Begin Tomorrow! 
 
-Computational repositories that are not ALCC or DDR projects and have not 
-charged significant amounts of NERSC hours are adjusted on a quarterly basis, 
-by returning a portion of their unused balance to the corresponding DOE Office 
-reserve. 
+The first allocation reductions will occur **tomorrow, May 4.**
 
-We were unable to perform the adjustments on October 9 due to the power outage,
-so they will instead occur tomorrow, October 15th:
+The allocation reduction process takes unused allocation from projects not using
+them and allows DOE program managers to redistribute that time to other 
+projects. PIs and PI proxies may request exemptions, at least one week before 
+the reduction date. 
 
-- If charged usage is less than 40% remove 25% of the unused balance.
-- If charged usage is less than 20% remove 75% of the unused balance.
-- If charged usage is less than 10% remove 90% of the unused balance.
-
-For more information on allocation adjustments, please see 
-<http://www.nersc.gov/users/accounts/allocations/allocation-reductions/>.
+Additional allocation reductions will occur on September 7, 2021. For more
+information, including how much allocation will be removed, please see
+<https://www.nersc.gov/users/accounts/allocations/allocation-reductions>.

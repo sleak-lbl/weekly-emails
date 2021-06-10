@@ -1,12 +1,11 @@
-## NERSC Public Events and Outages Google Calendars Available!
+### NERSC Public Events and Outages Google Calendars Available!
 
 NERSC has two publicly viewable calendars aimed at users, the NERSC Public 
 Events Calendar and the NERSC Outages Calendar, to help users keep track of 
 what's going on at NERSC.
 
-The **NERSC Public Events** calendar shows events such as trainings, NUG 
-webinars, and this week's ERCAP office hours. It is viewable as a standalone 
-calendar at
+The **NERSC Public Events** calendar shows events such as trainings, and NUG 
+webinars. It is viewable as a standalone calendar at
 <https://calendar.google.com/calendar?cid=bGJsLmdvdl9sczBnZHRnaTdiOTNqcmVkbGVzMGlibDB1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t>, and you can also add it to your own
 calendar:
 - The Google Calendar ID is

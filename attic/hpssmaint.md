@@ -1,29 +1,14 @@
-## HPSS Maintenance Tomorrow
+### HPSS Archive Maintenance April 11-16; All Data in Archive Unavailable for Duration!
 
-NERSC will hold a quarterly maintenance tomorrow, May 8. During this
-maintenance period, in addition to the Cori OS upgrade, there will be 
-maintenance on the HPSS systems.
+Archive, the NERSC HPSS Tape Storage System, is currently unavailable for a 
+software upgrade that started yesterday at 7 am (Pacific) and is expected to
+last until 7 pm on April 16, 2021. 
 
-During this maintenance, NERSC staff will be performing a full cartridge audit
-on one of the tape libraries. HPSS consists of two layers: a disk cache and 
-tape libraries. Recently stored or retrieved data is generally resident on the
-disk cache, while more dormant data has been migrated to the tapes. This
-tape layer will be audited during the first phase of the maintenance (denoted
-as "degraded mode" in the MOTD), and a full-system reboot (during the 
-"unavailable" period in the MOTD) will follow. 
+Users have no access to Archive while it is under maintenance. This means users
+cannot archive or retrive data until the upgrade is complete. Once the
+maintenance is over, users will once again be able to access all files on
+Archive as before. No user files will be deleted during the upgrade process.
 
-At any point during the first phase, a few tapes will be unavailable to users. 
-If your data happens to reside on a tape that is currently unavailable, you 
-will not be able to retrieve that data at the current time. However, if your 
-data has only recently been stored, it will likely still reside on the disk 
-cache and will be unaffected. Likewise, it will be possible to write files to 
-HPSS during this phase of the maintenance, because they will be written to the 
-disk cache.
-
-However, to be safe, **we recommend that you retrieve any files that you may
-need tomorrow from HPSS TODAY (the sooner the better).**
-
-Tomorrow, the Archive system (aka HPSS User) will be in degraded mode from 7:00 
-am to 1:00 pm (Pacific time) and unavailable from 1:00 pm to 7:00 pm. The Regent
-system (aka HPSS Backup) will be in degraded mode from 7:00 am to 6:00 pm and 
-unavailable for an hour between 6 and 7 pm.
+Thank you for your patience during this long-overdue upgrade process. Please 
+open a ticket at <https://help.nersc.gov> if you have any questions or if you 
+need help finding temporary storage space while Archive is unavailable.
