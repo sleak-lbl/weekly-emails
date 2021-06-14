@@ -1,7 +1,7 @@
 ### NERSC Power Outage and Cori Maintenance July 9-12
 
 A 3-yearly power maintenance on the weekend of July 9-12 will
-impact Cori and possibly auxiliary NERSC systems. To minimise
+impact Cori and possibly auxiliary NERSC systems. To minimize
 interruptions on Cori, the Cori maintenance originally scheduled for
 July 21 will be cancelled and instead performed during the July 9-12
 power maintenance.

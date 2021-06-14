@@ -1,17 +1,20 @@
-### IDEAS-ECP Webinar on Using the PSIP Toolkit on Wednesday
+### IDEAS-ECP Webinar on Mining Development Data to Understand and Improve Software Engineering Processes on July 7
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "Using the PSIP Toolkit to Achieve your Goals -- A Case 
-study at The HDF Group",
-and will take place **this Wednesday, June 9, 2021, at 10:00 am 
+series is entitled "Mining Development Data to Understand and Improve Software 
+Engineering Processes in HPC Projects",
+and will take place **Wednesday, July 7, 2021, at 10:00 am 
 Pacific time.**
 
-This webinar, presented by Elena Pourmal (The HDF Group), Reed Milewicz (Sandia 
-National Labs), and Elsa Gonsiorowski (Lawrence Livermore National Lab), will
-provide an overview of the PSIP methodology and toolkit, and describe how the
-HDF5 Group used PSIP to make improvements in three key areas of their software
-development process.
+This webinar, presented by Boyana Norris (University of Oregon), will explore
+the role of software-related data mining tools in supporting productive
+development of high-performance scientific software. The discussion will include
+a variety of existing and emerging tools for analyzing code, git, emails, 
+issues, test results, and dependencies, with the long-term goal of improving the
+understanding of development processes and enhancing developer productivity.
+Specific analysis examples of a subset of these tools applied to ECP projects
+will be included.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://www.exascaleproject.org/event/psip4hdf/).
+[here](https://www.exascaleproject.org/event/miningdatasep/).

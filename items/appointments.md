@@ -1,4 +1,4 @@
-### (NEW) New NERSC Appointments on Checkpoint/Restart Now Available!
+### New NERSC Appointments on Checkpoint/Restart Now Available!
 
 NERSC provides 25-minute appointments with user support consultants on a range
 of topics.

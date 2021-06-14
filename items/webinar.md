@@ -3,7 +3,7 @@
 The NUG monthly meeting is a forum where NERSC and its users can
 celebrate successes, discuss difficulties and learn from each other. 
 
-Our May meeting is **this Thursday, 17 June, at 11am** (Pacific time),
+Our June meeting is **this Thursday, 17 June, at 11am** (Pacific time),
 at <https://lbnl.zoom.us/j/285479463>. Our topic-of-the-month is still
 TBD, but tentatively a discussion of programming models for GPU 
 offload, and how they interact.
