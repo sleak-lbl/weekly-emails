@@ -7,10 +7,6 @@ openings:
 - [Site Reliability Engineer](http://m.rfer.us/LBLXsO3q2):
 Provide a variety of engineering support services in a 24x7 environment at
 NERSC.
-- [Linux Systems Administrator/Dev Ops Engineer](http://m.rfer.us/LBLA3-3fx):
-Help build and manage systems that complement the NERSC HPC environment,
-including web services, databases, container and virtual machine platforms,
-and more.
 - [Storage Systems Group Lead](http://m.rfer.us/LBLcze3fw):
 Lead the team that manages, supports, and monitors NERSC's large-scale storage 
 systems.

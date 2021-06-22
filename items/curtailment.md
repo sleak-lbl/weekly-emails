@@ -1,14 +1,10 @@
 ### NERSC Operations Continue, with Minimal Changes
 
-Alameda County, California, where NERSC is located, remains under public health 
-order restrictions. Upon the reopening of the California economy tomorrow, we do
-not anticipate substantial changes to our operations, as we continue to balance 
-local, state, and Department of Energy safety requirements.
-
-NERSC continues to remain open while following site-specific protection plans.
-We remain in operation as before, with the majority of NERSC staff working
-remotely for the foreseeable future, and only staff essential to operations 
-onsite.
+Berkeley Lab, where NERSC is located, is operating under public health 
+restrictions. NERSC continues to remain open while following site-specific 
+protection plans.  We remain in operation, with the majority of NERSC staff 
+working remotely, and only staff essential to operations onsite. We do not 
+expect any significant changes to our operations until October at the earliest.
 
 You can continue to expect regular online consulting and account support as well
 as schedulable online appointments. Trainings continue to be held online. 

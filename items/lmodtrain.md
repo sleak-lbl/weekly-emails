@@ -1,10 +1,10 @@
-### Training on Lmod, New Module Environment for Perlmutter, June 22
+### Training on Lmod, New Module Environment for Perlmutter Tomorrow
 
 Lmod is a Lua-based module system, with more features than the traditional
 TCL-based module system. The new Perlmutter system will use Lmod as the primary
 interface for interacting with module files.
 
-NERSC is offering a hands-on Lmod training on **Tuesday, June 22, from 10 
+NERSC is offering a hands-on Lmod training **tomorrow, June 22, from 10 
 am-noon (Pacific time)**. This trianing will walk users through the new features
 and usage of Lmod.
 
