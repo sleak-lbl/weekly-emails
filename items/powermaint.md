@@ -10,7 +10,7 @@ cscratch1 filesystem, CoriGPU, JGI ExVivo nodes, and large memory nodes. We
 anticipate that Cori will become available again to users during the afternoon 
 of Monday, July 12.
 
-Likewise, we plan to take the **HPSS Archive system down in the afternoon on
+Likewise, we plan to take the **HPSS Archive system down in the morning on
 Friday, July 9, and return it to service on Monday, July 12.**
 
 We aim to keep $HOME and CFS filesystems and auxiliary services including Iris, 

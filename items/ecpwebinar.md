@@ -4,7 +4,7 @@ The next webinar in the
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Mining Development Data to Understand and Improve Software 
 Engineering Processes in HPC Projects",
-and will take place **Wednesday, July 7, 2021, at 10:00 am 
+and will take place **next Wednesday, July 7, 2021, at 10:00 am 
 Pacific time.**
 
 This webinar, presented by Boyana Norris (University of Oregon), will explore

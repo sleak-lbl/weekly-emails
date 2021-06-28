@@ -3,7 +3,7 @@
 During the July 9-12 Cori maintenance coinciding with the NERSC facility
 [power maintenance](#powermaint), the Slurm batch scheduler will be upgraded 
 from version 20.02.6 to 20.11.7. One noticeable change will be that by default, 
-`srun` steps will no longer overlap with other job steps on the assigned 
+`srun` steps will no longer overlap with other job steps on the same assigned 
 resources.
 
 This change impacts only those who run multiple parallel jobs with more than 
