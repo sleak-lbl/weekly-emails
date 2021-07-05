@@ -1,9 +1,9 @@
-### NERSC Power Outage and Cori Maintenance July 9-12
+### NERSC Power Outage and Cori Maintenance this Friday through Monday!
 
-A 3-yearly power maintenance on the weekend of July 9-12 will impact Cori and 
-possibly auxiliary NERSC systems. To minimize interruptions on Cori, the Cori 
-maintenance originally scheduled for July 21 will be cancelled and instead 
-performed during the July 9-12 power maintenance.
+A 3-yearly **power maintenance this coming weekend**, July 9-12, will impact 
+Cori and possibly auxiliary NERSC systems. To minimize interruptions on Cori, 
+the Cori maintenance originally scheduled for July 21 has been cancelled and 
+the work will instead be performed during this power maintenance.
 
 During the morning of Friday, July 9 Cori will be shut down, including the 
 cscratch1 filesystem, CoriGPU, JGI ExVivo nodes, and large memory nodes. We
@@ -17,7 +17,8 @@ We aim to keep $HOME and CFS filesystems and auxiliary services including Iris,
 Spin, the Data Transfer nodes and Globus endpoints running with our backup 
 generators. However, weather conditions may necessitate shutting these down 
 too -- we'll know closer to the date how likely we are to face unfavorable 
-weather.
+weather. Be on the lookout for another email later this week with this 
+information.
 
 The main NERSC website, docs and help ticket system are hosted off-site, so 
 should not be impacted.

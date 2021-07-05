@@ -3,7 +3,7 @@
 As a continuation of last year's popular 
 [CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/),
 NVIDIA will present a session on "CUDA Multithreading with Streams" to NERSC and
-OLCF users on Friday, July 16, 2021, from 10 am to noon (Pacific time).
+OLCF users next Friday, July 16, 2021, from 10 am to noon (Pacific time).
 
 CUDA streams are useful for achieving concurrency and ensuring an application is
 fully utilizing the GPU. However, many GPU-accelearated applications start off
@@ -16,3 +16,8 @@ current NERSC users.
 
 Registration is required for remote participation. For more information and to
 register please see <https://www.nersc.gov/users/training/events/cuda-multithreading-with-streams-july-16-2021/>.
+
+Additional sessions in the series are scheduled:
+- [CUDA Multi-Process Service](https://www.nersc.gov/users/training/events/cuda-multi-process-service-aug-2021/),
+August 17
+- [CUDA Debugging](https://www.nersc.gov/users/training/events/cuda-debugging-sep-2021/), September 14

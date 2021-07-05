@@ -1,5 +1,5 @@
-### Independence Day Holiday Next Monday; No Consulting or Account Support
+### Independence Day Holiday Today; No Consulting or Account Support
 
-Next Monday, July 5, consulting and account support will be unavailable due to
+Consulting and account support will be unavailable today due to
 the Berkeley Lab-observed Indepenence Day holiday. Regular consulting and 
-account support will resume the next day. 
+account support will resume tomorrow. 
