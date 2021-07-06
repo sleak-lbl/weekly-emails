@@ -1,14 +1,24 @@
-## Learn to optimize GPU code with Appentra Parallelware on October 17
+### Introducing Appentra Parallelware Office Hours this Wednesday, June 9
 
-Parallelware Trainer helps you to use OpenMP and OpenACC directives to develop 
-code for CPUs and GPUs. On **this Thursday**, October 17, Appentra founder Manuel Arneaz
-will lead a training session at NERSC focused on optimization of GPU code, 
-particularly addressing how to minimize data transfers, how to exploit massive 
-parallelism and how to optimize the usage of the GPU memory. The workshop includes
-a hands-on session where the participants will apply OpenMP and OpenACC offloading 
-directives to their own code or a provided realistic example code.
- 
-Registration information and agenda for the day are available at:
-<https://www.nersc.gov/users/training/events/parallelware-tool-workshop-october-17>.
-For more about the tool see [Parallelware Trainer](https://www.appentra.com/products/parallelware-trainer/).
- 
+[Appentra](https://www.appentra.com) produces the Parallelware tools, aimed at
+helping software developers build better quality parallel software in less time.
+The [Parallelware Analyzer]()
+tool detects and helps to fix defects related to parallelism with OpenMP and
+OpenACC, and identifies opportunities for OpenMP/OpenACC parallelization on
+CPUs and GPUs.
+[Parallelware Trainer]()
+is an Integrated Development Environment designed to facilitate the learning,
+usage, and implementation of OpenMP/OpenACC parallel programming, along with the
+ability to test the performance improvements of particular parallel
+implementations.
+
+NERSC has offered trainings on using these tools in
+[2019](https://www.nersc.gov/users/training/events/parallelware-tool-workshop-october-17/)
+and
+[2020](https://www.nersc.gov/users/training/events/parallelware-training-series-oct-nov-2020/). 
+Now Appentra staff are back at NERSC for virtual office hours, to be held **this
+Wednesday, June 9, from 9 am to noon (Pacific time)**. Users who are interested 
+in getting started or who have already used the tools but have questions are
+invited to drop in at any time during the event. For more information please see
+the event webpage at <https://www.nersc.gov/users/training/events/parallelware-office-hours-june-9-2021/>
+and [add the event to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3EydWEzOTh2OGk5YmEydXFjbjFkOXEwZWUgbGJsLmdvdl9sczBnZHRnaTdiOTNqcmVkbGVzMGlibDB1NEBn&tmsrc=lbl.gov_ls0gdtgi7b93jredles0ibl0u4%40group.calendar.google.com).
