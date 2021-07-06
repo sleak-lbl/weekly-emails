@@ -32,5 +32,11 @@
     - 07/07/21 02:00-05:00 PDT, Scheduled Maintenance
       Service will be down briefly (30 minutes) within window for a database
       upgrade.
+- **ServiceNow (help.nersc.gov)**
+    - 07/28/21 08:00-12:00 PDT, Scheduled Maintenance
+      NERSC Help Portal and other ServiceNow functionality, including the 
+      ability to submit tickets, may be intermittently unavailable during 
+      this planned platform upgrade. Updates on this work will be provided 
+      via NERSC Status mailing list.
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
