@@ -4,12 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
+- [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
 Enable new advancements in bioinformatics by engaging with bioinformatics teams
 and developing optimized bioinformatics codes for GPU-accelerated architectures.
-- [Site Reliability Engineer](http://m.rfer.us/LBLXsO3q2):
-Provide a variety of engineering support services in a 24x7 environment at
-NERSC.
 - [Storage Systems Group Lead](http://m.rfer.us/LBLcze3fw):
 Lead the team that manages, supports, and monitors NERSC's large-scale storage 
 systems.

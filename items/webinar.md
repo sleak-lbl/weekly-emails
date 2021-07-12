@@ -5,11 +5,11 @@ celebrate successes, discuss difficulties and learn from each other.
 
 Our June meeting is **this Thursday, 15 July, at 11am** (Pacific time),
 at <https://lbnl.zoom.us/j/285479463>. Our topic-of-the-month is 
-**Energy Efficiency iat NERSC** - Norm Bourassa from NERSC's Building 
+**Energy Efficiency at NERSC** - Norm Bourassa from NERSC's Building 
 Infrastructure Group will tell us about some of the ways NERSC optimizes 
 its energy usage
 
-Our agenda for June is:
+Our agenda for July is:
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 

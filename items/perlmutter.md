@@ -12,7 +12,7 @@ addition to synthetic benchmarks designed to test the setup. Preliminary
 is under development. 
 
 In the [Top500 list](https://top500.org/news/fugaku-holds-top-spot-exascale-remains-elusive/)
-released last week, Perlmutter debuted as the 5th fastest machine on the list, 
+released last month, Perlmutter debuted as the 5th fastest machine on the list, 
 achieving 64.6 Pflop/s on the HPL benchmark. It also ranked as the 3rd fastest 
 for the HPCG benchmark and the 6th most energy efficient machine. The 
 benchmarking runs that went into these ratings helped expose and accelerate 
