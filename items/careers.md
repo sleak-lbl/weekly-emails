@@ -7,9 +7,6 @@ openings:
 - [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
 Enable new advancements in bioinformatics by engaging with bioinformatics teams
 and developing optimized bioinformatics codes for GPU-accelerated architectures.
-- [Storage Systems Group Lead](http://m.rfer.us/LBLcze3fw):
-Lead the team that manages, supports, and monitors NERSC's large-scale storage 
-systems.
 - [HPC Storage Infrastructure Engineer](http://m.rfer.us/LBLGNw3fv):
 Join the team that architects, deploys, and supports high-performance parallel
 storage systems at NERSC.

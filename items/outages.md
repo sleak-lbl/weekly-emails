@@ -12,5 +12,9 @@
       ability to submit tickets, may be intermittently unavailable during 
       this planned platform upgrade. Updates on this work will be provided 
       via NERSC Status mailing list.
+- **HPSS Archive**
+    - 07/28/21 09:00-13:00 PDT, Scheduled Maintenance
+- **HPSS Regent**
+    - 07/28/21 09:00-13:00 PDT, Scheduled Maintenance
 
 Visit <http://my.nersc.gov/> for latest status and outage information.

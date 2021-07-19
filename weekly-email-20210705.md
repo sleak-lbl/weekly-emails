@@ -10,18 +10,18 @@
 
 ## [This Week's Events and Deadlines](#section2) ##
 
-- [Independence Day Holiday Today; No Consulting or Account Support](#indday)
+- [(NEW) Independence Day Holiday Today; No Consulting or Account Support](#indday)
 
 ## [Perlmutter](#section3) ##
 
-- [Perlmutter Machine Status](#perlmutter)
-- [Perlmutter Availability Access Plan](#pmaccess)
+- [(NEW) Perlmutter Machine Status](#perlmutter)
+- [(NEW) Perlmutter Availability Access Plan](#pmaccess)
 
 ## [Updates at NERSC ](#section4) ##
 
 - [July Slurm Upgrade Will Bring Shared Node srun Behavior Change](#srunoverlap)
 - [E4S Version 21.02 Now Available on Cori!](#e4s)
-- [NERSC Power Outage and Cori Maintenance this Friday through Monday!](#powermaint)
+- [(NEW) NERSC Power Outage and Cori Maintenance this Friday through Monday!](#powermaint)
 - [Cori Operating System Upgrade & New Default Enivronment Coming in August or September](#osupgrade)
 - [New NERSC Appointments on Checkpoint/Restart Now Available!](#appointments)
 - [Preparation Work for Community File System Expansion Ongoing](#cfsupdate)
@@ -34,15 +34,15 @@
 ## [Upcoming Training Events ](#section6) ##
 
 - [Using Variorum for Portable Power Management Code, August 6 & 13 or 20 & 27](#variorum)
-- [Training on Continuous Integration at NERSC on Wednesday](#citrain)
-- [CUDA Multithreading with Streams Training, July 16](#custreams)
-- [IDEAS-ECP Webinar on Mining Development Data to Understand and Improve Software Engineering Processes on Wednesday](#ecpwebinar)
+- [(NEW) Training on Continuous Integration at NERSC on Wednesday](#citrain)
+- [(NEW) CUDA Multithreading with Streams Training, July 16](#custreams)
+- [(NEW) IDEAS-ECP Webinar on Mining Development Data to Understand and Improve Software Engineering Processes on Wednesday](#ecpwebinar)
 
 ## [NERSC News ](#section7) ##
 
 - [No New "NERSC User News" Podcast this Week](#nopodcast)
-- [Come Work for NERSC!](#careers)
-- [Upcoming Outages](#outages)
+- [(NEW) Come Work for NERSC!](#careers)
+- [(NEW) Upcoming Outages](#outages)
 - [About this Email](#about)
 
 ## Summary of Upcoming Events and Key Dates <a name="dates"/></a> ##
@@ -137,7 +137,7 @@ For **current NERSC systems status**, please see the online
 ---
 ## This Week's Events and Deadlines <a name="section2"/></a> ##
 
-### Independence Day Holiday Today; No Consulting or Account Support <a name="indday"/></a> 
+### (NEW) Independence Day Holiday Today; No Consulting or Account Support <a name="indday"/></a> 
 
 Consulting and account support will be unavailable today due to
 the Berkeley Lab-observed Indepenence Day holiday. Regular consulting and 
@@ -148,7 +148,7 @@ account support will resume tomorrow.
 ---
 ## Perlmutter <a name="section3"/></a> ##
 
-### Perlmutter Machine Status <a name="perlmutter"/></a> 
+### (NEW) Perlmutter Machine Status <a name="perlmutter"/></a> 
 
 The initial phase of the Perlmutter supercomputer is in the NERSC machine room, 
 booting and running benchmarks successfully. We continue configuring and testing
@@ -172,7 +172,7 @@ This newsletter item will be updated each week with the latest Perlmutter
 status.
 
 
-### Perlmutter Availability Access Plan <a name="pmaccess"/></a> 
+### (NEW) Perlmutter Availability Access Plan <a name="pmaccess"/></a> 
 
 Perlmutter is currently unavailable to users. We do not have a set date for
 allowing the first wave of users onto the machine, but when the machine is
@@ -224,7 +224,7 @@ Please use the NERSC [Help Desk](https://help.nersc.gov) to file a ticket with
 any questions or concerns.
 
 
-### NERSC Power Outage and Cori Maintenance this Friday through Monday! <a name="powermaint"/></a> 
+### (NEW) NERSC Power Outage and Cori Maintenance this Friday through Monday! <a name="powermaint"/></a> 
 
 A 3-yearly **power maintenance this coming weekend**, July 9-12, will impact 
 Cori and possibly auxiliary NERSC systems. To minimize interruptions on Cori, 
@@ -366,7 +366,7 @@ The sessions are free but registration is required. For more information please
 see <https://www.exascaleproject.org/event/variorum-class-series/>.
 
 
-### Training on Continuous Integration at NERSC on Wednesday <a name="citrain"/></a> 
+### (NEW) Training on Continuous Integration at NERSC on Wednesday <a name="citrain"/></a> 
 
 Continuous Integration (CI) is considered a best practice in scientific code
 development. It allows multiple developers to work on the same code with minimal
@@ -379,7 +379,7 @@ time).  For more information and to register please see
 <https://www.nersc.gov/users/training/events/introduction-to-ci-at-nersc-july-7-2021/>.
 
 
-### CUDA Multithreading with Streams Training, July 16 <a name="custreams"/></a> 
+### (NEW) CUDA Multithreading with Streams Training, July 16 <a name="custreams"/></a> 
 
 As a continuation of last year's popular 
 [CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/),
@@ -404,7 +404,7 @@ August 17
 - [CUDA Debugging](https://www.nersc.gov/users/training/events/cuda-debugging-sep-2021/), September 14
 
 
-### IDEAS-ECP Webinar on Mining Development Data to Understand and Improve Software Engineering Processes on Wednesday <a name="ecpwebinar"/></a> 
+### (NEW) IDEAS-ECP Webinar on Mining Development Data to Understand and Improve Software Engineering Processes on Wednesday <a name="ecpwebinar"/></a> 
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
@@ -488,7 +488,7 @@ Please give it a listen and let us know what you think, via a ticket at
 <https://help.nersc.gov>.
 
 
-### Come Work for NERSC! <a name="careers"/></a> 
+### (NEW) Come Work for NERSC! <a name="careers"/></a> 
 
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
@@ -524,7 +524,7 @@ We know that NERSC users can make great NERSC employees! We look forward to
 seeing your application.
 
 
-### Upcoming Outages <a name="outages"/></a> 
+### (NEW) Upcoming Outages <a name="outages"/></a> 
 
 - **NERSC Center**
     - 07/09/21 7:00-07/12/21 17:00 PDT, Scheduled Maintenance
@@ -558,6 +558,12 @@ seeing your application.
     - 07/07/21 02:00-05:00 PDT, Scheduled Maintenance
       Service will be down briefly (30 minutes) within window for a database
       upgrade.
+- **ServiceNow (help.nersc.gov)**
+    - 07/28/21 08:00-12:00 PDT, Scheduled Maintenance
+      NERSC Help Portal and other ServiceNow functionality, including the 
+      ability to submit tickets, may be intermittently unavailable during 
+      this planned platform upgrade. Updates on this work will be provided 
+      via NERSC Status mailing list.
 
 Visit <http://my.nersc.gov/> for latest status and outage information.
 

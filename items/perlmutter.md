@@ -4,12 +4,11 @@ The initial phase of the Perlmutter supercomputer is in the NERSC machine room,
 booting and running benchmarks successfully. We continue configuring and testing
 the machine. 
 
-We've begun the process of integrating the community and home file 
-systems into the machine. NERSC staff are beginning to set up the software 
-environment. Some test jobs with real user applications are being run in 
-addition to synthetic benchmarks designed to test the setup. Preliminary 
-[Perlmutter Documentation](https://docs.nersc.gov/systems/perlmutter/) 
-is under development. 
+The community and home filesystems are now integrated into the machine, and
+we are working on hardware stabilization and maintenance, setting up and testing 
+the software environment, and running test jobs. Preliminary 
+[Perlmutter Documentation](https://docs.nersc.gov/systems/perlmutter/)
+is available and under further development.
 
 In the [Top500 list](https://top500.org/news/fugaku-holds-top-spot-exascale-remains-elusive/)
 released last month, Perlmutter debuted as the 5th fastest machine on the list, 

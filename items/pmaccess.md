@@ -1,8 +1,9 @@
 ### Perlmutter Availability Access Plan
 
-Perlmutter is currently unavailable to users. We do not have a set date for
-allowing the first wave of users onto the machine, but when the machine is
-suitable for its first users, we will add users in stages. The order of access 
-is outlined at <https://docs.nersc.gov/systems/perlmutter/#access>. We are 
-currently evaluating user submissions to determine the list of teams to be let
-onto the machine in earlier tiers.
+NERSC is continuing to configure and test Perlmutter in preparation for opening
+the system to the broader NERSC community. We are working with a small number
+of application partners to identify issues and test the programming and runtime
+environments. Once the system is ready, users will be added in stages beginning
+with the early-access users as outlined at
+<https://docs.nersc.gov/systems/perlmutter/#access>.
+
