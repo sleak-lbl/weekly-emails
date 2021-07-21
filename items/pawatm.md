@@ -24,5 +24,6 @@ and comparisons to standard programming models.
 - Benefits of hardware abstraction and data locality on algorithm 
 implementation.
 
-Submissions close **ths Friday July 23, 2021**. For more information and to submit 
-a paper, please visit: <https://sourceryinstitute.github.io/PAW/>.
+The submission deadline has been extended unitl **this Friday July 30, 2021**. 
+For more information and to submit a paper, please visit: 
+<https://sourceryinstitute.github.io/PAW/>.
