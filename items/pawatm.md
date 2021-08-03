@@ -1,4 +1,4 @@
-### Call for Papers: Parallel Applications Workshop, Alternatives to MPI+X
+### Call for Papers: Parallel Applications Workshop, Alternatives to MPI+X Deadline Extended to August 11!
 
 The Parallel Applications Workshop, Alternatives to MPI+X (PAW-ATM) is seeking 
 full-length papers and extended abstracts for the workshop to be held in 
@@ -24,6 +24,6 @@ and comparisons to standard programming models.
 - Benefits of hardware abstraction and data locality on algorithm 
 implementation.
 
-The submission deadline has been extended unitl **this Friday July 30, 2021**. 
+The submission deadline has been extended until **Wednesday August 11, 2021**. 
 For more information and to submit a paper, please visit: 
 <https://sourceryinstitute.github.io/PAW/>.

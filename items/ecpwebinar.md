@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Software Engineering Challenges and Best Practices for Multi-Institutional Scientific Software Development, August 4
+### IDEAS-ECP Webinar on Software Engineering Challenges and Best Practices for Multi-Institutional Scientific Software Development on Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Software Engineering Challenges and Best Practices for 
 Multi-Institutional Scientific Software Development"
-and will take place **Wednesday, August 4, 2021, at 10:00 am 
+and will take place **this Wednesday, August 4, 2021, at 10:00 am 
 Pacific time.**
 
 This webinar, presented by Keith Beattie (Lawrence Berkeley National
