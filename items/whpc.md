@@ -1,4 +1,4 @@
-### (NEW) Call for Submissions: Women in HPC Workshop
+### Call for Submissions: Women in HPC Workshop
 
 The 12th international Women in HPC workshop will take place on Sunday,
 November 14, in conjunction with SC21 in St. Louis, MO. The workshop includes

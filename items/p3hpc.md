@@ -1,4 +1,4 @@
-### (NEW) Call for Papers: International Workshop on Performance, Portability, and Productivity in HPC
+### Call for Papers: International Workshop on Performance, Portability, and Productivity in HPC
 
 The 2021 International Workshop on Performance, Portability, and Productivity
 in HPC will be held on Sunday, November 14, 2021, in conjunction with SC21 in

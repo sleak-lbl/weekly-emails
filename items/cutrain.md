@@ -3,7 +3,7 @@
 As a continuation of last year's popular 
 [CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/),
 NVIDIA will present a session on "CUDA Multi-Process Service" to NERSC and
-OLCF users on Tuesday, August 17, 2021, from 10 am to noon (Pacific time).
+OLCF users next Tuesday, August 17, 2021, from 10 am to noon (Pacific time).
 
 CUDA allows the user to target a GPU with multiple processes, such as using
 multiple ranks to target the same GPU. This session will describe how NVIDIA

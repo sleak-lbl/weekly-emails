@@ -1,4 +1,4 @@
-### (NEW) Call for Participation: 8th Workshop on Accelerator Programming using Directives (WACCPD 2021)
+### Call for Participation: 8th Workshop on Accelerator Programming using Directives (WACCPD 2021)
 
 Exploiting the maximum available parallelism out of accelerated (CPU+GPU)
 systems requires refactoring and rewriting applications using a programming
