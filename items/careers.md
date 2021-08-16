@@ -4,10 +4,20 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-3981)
-Provide engineering support services in a 24x7 environment for the primary 
-scientific computational facility for the Office of Science in the US 
-Department of Energy (DOE) 
+- **NEW** [Software Integration Specialist](http://m.rfer.us/LBLCsY42K):
+Develop and support software integration with Continuous Integration in
+collaboration with ECP.
+- [Program Operations Analyst](http://m.rfer.us/LBLzxe41C):
+Provide support for managing and tracking hardware and software purchases,
+managing vendor and partner relationships, budgeting and tracking, and roadmap
+and technical reviews of cutting-edge computer technologies.
+- [HPC Architecture and Performance Engineer](http://m.rfer.us/LBLlZx41B):
+Contribute to the evaluation of existing and emerging high-performance
+computing systems by analyzing the performance characteristics of leading-edge
+DOE Office of Science application codes.
+- [Scientific Data Architect](http://m.rfer.us/LBL_uc41A):
+Collaborate with scientists to meet their Data, AI, and Analytics needs using
+NERSC supercomputers.
 - [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
 Enable new advancements in bioinformatics by engaging with bioinformatics teams
 and developing optimized bioinformatics codes for GPU-accelerated architectures.
