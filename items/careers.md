@@ -4,6 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [Site Reliability Engineer](https://jobs.lbl.gov/jobs/site-reliability-engineer-3981)
+Provide engineering support services in a 24x7 environment for the primary 
+scientific computational facility for the Office of Science in the US 
+Department of Energy (DOE) 
 - [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
 Enable new advancements in bioinformatics by engaging with bioinformatics teams
 and developing optimized bioinformatics codes for GPU-accelerated architectures.

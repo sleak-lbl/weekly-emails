@@ -1,4 +1,4 @@
-### Inside the NVIDIA Ampere A100 GPU in ThetaGPU and Perlmutter, July 28, 9am PT
+### Inside the NVIDIA Ampere A100 GPU in ThetaGPU and Perlmutter, This Wednesday July 28, 9am PT
 
 The **NVIDIA Ampere A100 GPU, which powers Perlmutter** and ALCF's ThetaGPU 
 system, builds on the excellent performance of the NVIDIA V100 GPU
@@ -12,3 +12,6 @@ significant effort in ensuring that both HPC applications and DL frameworks
 achieve excellent performance on A100. This talk will describe these (and
 other) aspects of A100 so that computational scientists can get a better idea
 of what is possible on this architecture.
+
+See <https://www.nersc.gov/users/training/events/inside-perlmutter-a100-gpu/> for
+details and to register
