@@ -1,7 +1,7 @@
-### Intro to Kernel Performance Analysis with NVIDIA Nsight Compute, August 26
+### Intro to Kernel Performance Analysis with NVIDIA Nsight Compute on Thursday
 
 As part of the ALCF Developer Sessions, there will be a training on kernel
-performance analysis with NVIDIA Nsight Compute on Thursday, August 26, from
+performance analysis with NVIDIA Nsight Compute this Thursday, August 26, from
 9-10:30 am (Pacific). The session is open to NERSC users.
 
 During the session, the use of Nsight Compute for analyzing the performance of

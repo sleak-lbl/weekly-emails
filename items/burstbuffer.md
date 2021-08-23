@@ -1,8 +1,8 @@
 ### Cori Burst Buffer (DataWarp) Unavailable
 
 The Cori Burst Buffer is currently unavailable. The issue is understood by the 
-vendor, and we are awaiting a fix from them that can be applied to the system.
-We will update the MOTD notice when a timescale for the fix is known.
+vendor, and the fix will be put on the machine during Wednesday's
+[Cori maintenance](#corimaint).
 
 Please also note that the Burst Buffer has had other recent limitations (see
 <https://docs.nersc.gov/filesystems/cori-burst-buffer/> for more info).

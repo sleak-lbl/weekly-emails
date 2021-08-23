@@ -1,4 +1,4 @@
-### Call for Papers: International Workshop on Performance, Portability, and Productivity in HPC
+### International Workshop on Performance, Portability, and Productivity in HPC Call for Papers Closes Friday!
 
 The 2021 International Workshop on Performance, Portability, and Productivity
 in HPC will be held on Sunday, November 14, 2021, in conjunction with SC21 in
@@ -24,4 +24,4 @@ include, but are not limited to:
 - Case studies using state-of-the-art P3 tools and techniques
 
 For more information please see the [P3HPC workshop website](https://p3hpc.org/workshop/2021/).
-Abstract submissions are due August 27.
+Abstract submissions are due **this Friday, August 27.**

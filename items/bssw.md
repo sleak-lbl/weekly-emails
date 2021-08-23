@@ -1,4 +1,4 @@
-### (NEW) Better Scientific Software 2022 Fellowship Program Applications Now Open!
+### Better Scientific Software 2022 Fellowship Program Applications Now Open!
 
 Are you passionate about creating high-quality scientific software to improve
 scientific productivity? Applications are now being accepted for the 2022 Better

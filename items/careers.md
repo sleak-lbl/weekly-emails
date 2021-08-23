@@ -4,10 +4,12 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Machine Learning Engineer](http://m.rfer.us/LBLXv743y): Apply machine
+- **NEW** [Site Reliability Engineer](http://m.rfer.us/LBLJe044m): Provide a 
+variety of engineering support services in a 24x7 environment at NERSC.
+- [Machine Learning Engineer](http://m.rfer.us/LBLXv743y): Apply machine
 learning and AI to NERSC systems to improve on their ability to deliver
 productive science output.
-- **NEW** [HPC Performance Engineer](http://m.rfer.us/LBLsGT43z): Join a
+- [HPC Performance Engineer](http://m.rfer.us/LBLsGT43z): Join a
 multidisciplinary team of computational and domain scientists to speed up
 scientific codes on cutting-edge computing architectures.
 - [Software Integration Engineer](http://m.rfer.us/LBLod0440):
