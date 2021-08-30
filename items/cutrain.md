@@ -22,3 +22,7 @@ users.
 Registration is required for remote participation. For more information and to
 register please see 
 <https://www.nersc.gov/users/training/events/cuda-debugging-sep-2021/>.
+
+More sessions are scheduled:
+- [CUDA Graphs](https://www.nersc.gov/users/training/events/cuda-graphs-october-13-2021/)
+October 13

@@ -1,4 +1,4 @@
-### 8th Workshop on Accelerator Programming using Directives (WACCPD 2021): CFP Closes this Friday!
+### 8th Workshop on Accelerator Programming using Directives (WACCPD 2021): CFP Extended to Friday!
 
 Exploiting the maximum available parallelism out of accelerated (CPU+GPU)
 systems requires refactoring and rewriting applications using a programming
@@ -34,4 +34,4 @@ to)
   systems.
 
 For more information, please see <https://www.waccpd.org>. Submissions are due
-**this Friday, August 27, 2021**.
+**this Friday, September 3, 2021**.

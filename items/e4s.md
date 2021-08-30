@@ -1,4 +1,4 @@
-### (NEW) E4S Version 21.05 Now Available on Cori!
+### E4S Version 21.05 Now Available on Cori!
 
 We are pleased to announce that the E4S version 21.05 software stack compiled
 with the Intel version 19.1.3.304 compiler is now
