@@ -4,6 +4,14 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [Cyber Security Engineer](http://m.rfer.us/LBLCw447V): Help protect 
+NERSC from malicious and unauthorized activity.
+- **NEW** [Site Reliability Engineer](http://m.rfer.us/LBLcRe47W): Provide
+engineering support services in a 24x7 environment to ensure that NERSC
+resources are accessible, reliable, secure, and available for NERSC users.
+- **NEW** [Scientific Data Architect](http://m.rfer.us/LBLxME47X): Collaborate
+with scientists to meet their Data, AI, and Analytics needs on NERSC
+supercomputers.
 - [Machine Learning Engineer](http://m.rfer.us/LBLXv743y): Apply machine
 learning and AI to NERSC systems to improve on their ability to deliver
 productive science output.
@@ -17,9 +25,6 @@ collaboration with ECP.
 Provide support for managing and tracking hardware and software purchases,
 managing vendor and partner relationships, budgeting and tracking, and roadmap
 and technical reviews of cutting-edge computer technologies.
-- [Scientific Data Architect](http://m.rfer.us/LBL_uc41A):
-Collaborate with scientists to meet their Data, AI, and Analytics needs using
-NERSC supercomputers.
 - [Application Performance Specialist](http://m.rfer.us/LBLwlM3uz): 
 Enable new advancements in bioinformatics by engaging with bioinformatics teams
 and developing optimized bioinformatics codes for GPU-accelerated architectures.

@@ -1,4 +1,4 @@
-### Call for Submissions: Women in HPC Workshop
+### Women in HPC Workshop Submissions Due Wednesday!
 
 The 12th international Women in HPC workshop will take place on Sunday,
 November 14, in conjunction with SC21 in St. Louis, MO. The workshop includes
@@ -19,4 +19,5 @@ high-performance computing. Suggested areas include but are not limited to
 - Languages and runtimes
 - Algorithms
 
-For more information please see the [Call for Lightning Talks](https://womeninhpc.org/events/sc-2021-workshop#!/posters). Submissions are due September 8, 2021.
+For more information please see the [Call for Lightning Talks](https://womeninhpc.org/events/sc-2021-workshop#!/posters). 
+Submissions are due **this Wednesday, September 8!**

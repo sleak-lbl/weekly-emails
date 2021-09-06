@@ -1,4 +1,4 @@
-### Join or Nominate a Colleague for the NUG Executive Committee - Deadline Extended to Sept 6
+### Join or Nominate a Colleague for the NUG Executive Committee - Deadline Extended to Today!
 
 The NUG Executive Committee (NUGEX) is a group of NERSC users who 
 oversee NUG activities for the benefit of NERSC's user community.
@@ -22,5 +22,5 @@ including:
 We are currently seeking volunteers and nominations for NUGEX -- if 
 you would like to participate, or to nominate a potential NUGEX member, please
 fill out the short form at <https://forms.gle/B9XofSmfstuQzVrh8>
-by September 6.
+today.
 

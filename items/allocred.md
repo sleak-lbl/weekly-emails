@@ -1,6 +1,6 @@
-### Second Allocation Reductions September 7 
+### Second Allocation Reductions Tomorrow
 
-The second allocation reductions will occur on Tuesday, September 7, 2021.
+The second allocation reductions will occur **tomorrow**.
 
 The allocation reduction process takes unused allocation from projects not using
 them and allows DOE program managers to redistribute that time to other 

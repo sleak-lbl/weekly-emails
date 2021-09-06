@@ -1,4 +1,4 @@
-### 2021 ERCAP Allocations Process Opens September 7
+### 2022 ERCAP Allocations Process Opens Tomorrow! 
 
 The ERCAP allocations process will begin accepting requests for the 2022 
 Allocation Year (AY) on Tuesday, September 7. To be considered for an allocation

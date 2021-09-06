@@ -8,4 +8,4 @@ use.
 
 The call for participation is available at: 
 <https://supercheck.lbl.gov/call-for-participation>. 
-Submissions are due September 13, 2021.
+Submissions are due **September 13, 2021.**

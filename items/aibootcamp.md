@@ -8,5 +8,6 @@ exercises training and evaluating custom deep-learning models on scientific
 datasets.
 
 For more information and to register, please see 
-<https://www.nersc.gov/users/training/events/nersc-ai-for-science-bootcamp-october-19-20-2021/>. Space is limited, and active NERSC users will be prioritized
-during the registration process.
+<https://www.nersc.gov/users/training/events/nersc-ai-for-science-bootcamp-october-19-20-2021/>. 
+Space is limited, and active NERSC users will be prioritized during the 
+registration process.
