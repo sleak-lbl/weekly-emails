@@ -3,13 +3,13 @@
 The NUG monthly meeting is a forum where NERSC and its users can
 celebrate successes, discuss difficulties and learn from each other. 
 
-Our August meeting is **this Thursday, 16 September, at 11am** (Pacific time),
+Our September meeting is **this Thursday, 16 September, at 11am** (Pacific time),
 at <https://lbnl.zoom.us/j/285479463>. Our topic-of-the-month is 
 **ERCAP**. We are now accepting ERCAP submissions for AY2022, so Clayton 
 Bagwell, who coordinates the allocations process at NERSC, will talk about 
 the process and present some tips for submitting your ERCAP request. 
 
-Our agenda for August is:
+Our agenda for September is:
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 

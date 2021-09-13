@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Leading Open Source Projects on September 15
+### IDEAS-ECP Webinar on Leading Open Source Projects on Wednesday! 
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "What I learned from 20 Years of Leading Open Source
 Projects"
-and will take place **Wednesday, September 15, 2021, at 11:00 am 
+and will take place **this Wednesday, September 15, 2021, at 11:00 am 
 Pacific time (note one hour later than usual).**
 
 In this webinar, Wolfgang Bangerth (Colorado State University) shares lessons

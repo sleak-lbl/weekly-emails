@@ -5,6 +5,8 @@
     - 10/20/21 07:00-20:00 PDT, Scheduled Maintenance
     - 11/17/21 07:00-20:00 PST, Scheduled Maintenance
     - 12/15/21 07:00-20:00 PST, Scheduled Maintenance
+- **Data Transfer Nodes**
+    - 09/15/21 07:00-13:00 PDT, Scheduled Maintenance
 - **Globus**
     - 09/15/21 07:00-13:00 PDT, Scheduled Maintenance
       Globus endpoints on NERSC Data Transfer Nodes will not be available.
@@ -17,5 +19,10 @@
     - 09/15/21 11:00-12:00 PDT, Scheduled Maintenance
       Services will be unavailable briefly (15-30 min) within the window for 
       upgrades to system software.
+- **Spin**
+    - 09/15/21 09:00-13:00 PDT, Scheduled Maintenance
+      Persistent NFS volumes on Rancher 2 may become unavailable while a 
+      maintenance and diagnostic process is run to discover the cause of outages
+      on May 17, May 18, and August 8.
 
 Visit <http://my.nersc.gov/> for latest status and outage information.

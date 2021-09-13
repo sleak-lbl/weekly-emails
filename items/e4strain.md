@@ -1,8 +1,8 @@
-### ECP Training on Facility Testing of E4S via E4S Testsuite, Spack Test, & buildtest, September 14
+### ECP Training on Facility Testing of E4S via E4S Testsuite, Spack Test, & buildtest Tomorrow!
 
-An upcoming training entitled "Facility Testing of E4S via E4S Testsuite, Spack
-Test, and buildtest" will be held on September 14, 2021 from 9-11 am Pacific
-time.
+The training entitled "Facility Testing of E4S via E4S Testsuite, Spack Test, 
+and buildtest" will be held **tomorrow, September 14, 2021** from 9-11 am 
+Pacific time.
 
 The Extreme-Scale Scientific Software Stack (E4S) is a collection of open-source
 software packages for running scientific applications typically run on HPC

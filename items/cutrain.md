@@ -1,9 +1,9 @@
-### CUDA Debugging Training on September 14
+### CUDA Debugging Training Tomorrow!
 
 As a continuation of last year's popular 
 [CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/),
 NVIDIA will present a session on "CUDA Debugging" to NERSC and
-OLCF users on September 14, 2021, from 10 am to noon (Pacific time).
+OLCF users **tomorrow, September 14, 2021,** from 10 am to noon (Pacific time).
 
 Whether your CUDA codes aren't working at all, or aren't giving you the correct
 answer, there are techniques to help tackle any debugging issue. First, we'll
