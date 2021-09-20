@@ -2,23 +2,19 @@
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "What I learned from 20 Years of Leading Open Source
-Projects"
-and will take place **this Wednesday, September 15, 2021, at 11:00 am 
-Pacific time (note one hour later than usual).**
+series is entitled "Migrating to Heterogeneous Computing: Lessons Learned in the
+Sierra and El Capitan Centers of Excellence"
+and will take place **Wednesday, October 13, 2021, at 10:00 am 
+Pacific time.**
 
-In this webinar, Wolfgang Bangerth (Colorado State University) shares lessons
-learned about both the technical management of scientific software projects and
-the social side of these projects. Scientific software has grown from loose 
-collections of individual routines working on relatively simple data structures 
-to very large packages of 100,000s to millions of lines of code, with dozens of 
-contributors, and hundreds or thousands of users. In the process, the 
-approaches to software development have also drastically changed: both the 
-software packages as well as their development are professionally managed, with 
-version control, extensive test suites, and automatic regression checks for 
-every patch. Maybe more interestingly, the approaches to managing the 
-*community* of software developers and users have also dramatically changed.
-
+In this webinar, David Richards (Lawrence Livermore National Laboratory)
+describes the role of the Sierra Center of Excellence in bringing experts from 
+IBM and NVIDIA together with LLNL in a concentrated effort to prepare 
+applications, system software, and tools for the Sierra supercomputer. A new COE
+for preparing for El Capitan is underway with HPE and AMD. The speaker will 
+describe the operation of these COEs and share lessons learned, with the hope
+that others will be able to learn from both their successes and intermediate
+setbacks.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://www.exascaleproject.org/event/20years-in-opensource/).
+[here](https://www.exascaleproject.org/event/sierra_and_elcapitan_coe/).

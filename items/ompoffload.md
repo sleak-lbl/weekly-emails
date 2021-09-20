@@ -1,7 +1,7 @@
-### Training on OpenMP Device Offload, September 22-23
+### Training on OpenMP Device Offload, Wednesday & Thursday
 
 In collaboration with OLCF, NERSC will offer a two-day training, "Introduction 
-to OpenMP GPU Offloading," September 22-23.
+to OpenMP GPU Offloading," this Wednesday and Thursday, September 22-23.
 
 Each day of the training will consist of a lecture followed by hands-on
 exercises for participants to work through. The first day provides a general

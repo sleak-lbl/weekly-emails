@@ -29,11 +29,6 @@ and technical reviews of cutting-edge computer technologies.
 Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
 system and produce mission-relevant science that pushes the limits of
 high-performance computing.
-- [NESAP for Learning Postdoctoral Fellow](http://m.rfer.us/LBL13A3fq):
-Work in multidisciplinary teams to develop and implement cutting-edge machine 
-learning/deep learning solutions in codes that will run on NERSC's new 
-Perlmutter supercomputer and produce mission-relevant science that pushes the 
-limits of AI on high-performance computing.
 
 (**Note:** You can browse all our job openings by first navigating to 
 <https://jobs.lbl.gov/jobs/search/>. Under "Business," select "View More" 
