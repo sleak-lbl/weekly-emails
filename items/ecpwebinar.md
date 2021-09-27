@@ -1,4 +1,4 @@
-### IDEAS-ECP Webinar on Leading Open Source Projects on Wednesday! 
+### IDEAS-ECP Webinar on Migrating to Heterogeneous Computing on October 13 
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 

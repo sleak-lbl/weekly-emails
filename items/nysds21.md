@@ -1,4 +1,4 @@
-### Call for Poster Abstracts: New York Scientific Data Summit
+### Poster Abstracts for New York Scientific Data Summit Due Thursday!
 
 The [New York Scientific Data Summit (NYSDS)](https://www.bnl.gov/nysds21), 
 established by Brookhaven National Laboratory (BNL) and led by its Computational
@@ -28,4 +28,4 @@ Transportation, Health Care, Supply Chain, etc.)
    - Machine Learning/AI
    - Mathematical Foundations
 
- Poster abstracts can be submitted through <https://www.bnl.gov/nysds21/abstractSubmission.php>. Submissions are due **September 30, 2021**.
+ Poster abstracts can be submitted through <https://www.bnl.gov/nysds21/abstractSubmission.php>. Submissions are due **this Thursday, September 30, 2021**.

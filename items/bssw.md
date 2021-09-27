@@ -1,4 +1,4 @@
-### Better Scientific Software 2022 Fellowship Program Applications Close September 30!
+### Better Scientific Software 2022 Fellowship Program Applications Close Thursday!
 
 Are you passionate about creating high-quality scientific software to improve
 scientific productivity? Applications are now being accepted for the 2022 Better
@@ -18,4 +18,4 @@ encouraged. Applicants must be affiliated with a US-based institution that is
 able to receive federal funding.
 
 For more information and to apply, please see <https://bssw.io/fellowship>.
-Applications are accepted through **Thursday, September 30, 2021.**
+Applications are accepted through **this Thursday, September 30, 2021.**

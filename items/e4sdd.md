@@ -1,8 +1,8 @@
-### Training on E4S at DOE Facilities with Deep Dive at NERSC, October 4
+### Training on E4S at DOE Facilities with Deep Dive at NERSC Next Monday!
 
 The Exascale Project will be hosting an online training on "E4S at DOE
-Facilities with Deep Dive at NERSC" on October 4, 2021, from 9 am to noon
-(Pacific time).
+Facilities with Deep Dive at NERSC" next Monday, October 4, 2021, from 9 am to 
+noon (Pacific time).
 
 The Extreme-Scale Scientific Software Stack (E4S) is a collection of open-source
 packages for running scientific applications on high performance computing 

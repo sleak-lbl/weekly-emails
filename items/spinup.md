@@ -11,7 +11,7 @@ NERSC User News podcast on Spin:
 
 Attend an upcoming SpinUp workshop to learn to use Spin for your own science 
 gateway projects! Applications for sessions that begin 
-this [Thursday October 14](https://www.nersc.gov/users/training/spin/)
+on [Thursday October 14](https://www.nersc.gov/users/training/spin/)
 are now open. SpinUp is hands-on and interactive, so space is limited.
 
 Participants will attend an instructional session and a hack-a-thon to learn 
