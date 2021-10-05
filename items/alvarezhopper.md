@@ -1,4 +1,4 @@
-### Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC
+### Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by November 22
 
 Are you about to earn your PhD in a computational science discipline or have you
 earned it within the past three years? Are you looking for a position in which 

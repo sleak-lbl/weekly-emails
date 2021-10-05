@@ -5,9 +5,10 @@ Career Achievement Awards on Wednesdays at noon (Pacific time) starting
 Wednesday, September 22, and running through November 10.
 
 This week's talk is by 
-David Vartanyan from the University of California, Berkeley,
+Miha Muskinja from Lawrence Berkeley National Laboratory,
 who will be speaking on 
-"Revival of the Fittest: Exploding Core-Collapse Supernova."
+"Raythena: A Massively Parallel Data Processing Framework for the ATLAS Geant4
+Simulation."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.

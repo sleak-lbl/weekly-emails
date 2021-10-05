@@ -1,9 +1,9 @@
-### CUDA Graphs Training, October 13
+### CUDA Graphs Training, Next Wednesday
 
 As a continuation of last year's popular 
 [CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/),
 NVIDIA will present a session on "CUDA Graphs" to NERSC and
-OLCF users on **Wednesday, October 13, 2021,** from 10 am to noon (Pacific 
+OLCF users **next Wednesday, October 13, 2021,** from 10 am to noon (Pacific 
 time).
 
 CUDA graphs are a model for work submission to GPUs in CUDA that help improve

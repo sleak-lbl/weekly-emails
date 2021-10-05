@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Migrating to Heterogeneous Computing on October 13 
+### IDEAS-ECP Webinar on Migrating to Heterogeneous Computing Next Wednesday 
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Migrating to Heterogeneous Computing: Lessons Learned in the
 Sierra and El Capitan Centers of Excellence"
-and will take place **Wednesday, October 13, 2021, at 10:00 am 
+and will take place **next Wednesday, October 13, 2021, at 10:00 am 
 Pacific time.**
 
 In this webinar, David Richards (Lawrence Livermore National Laboratory)

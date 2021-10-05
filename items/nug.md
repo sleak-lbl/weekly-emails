@@ -1,4 +1,4 @@
-## Save the date: NUG Annual Meeting Thursday 21 Oct starting 8:30am PT
+### Save the date: NUG Annual Meeting Thursday 21 Oct starting 8:30am PT
 
 This year's NUG Annual Meeting will be entirely virtual and is scheduled for 
 October 21, 2021, beginning at 8:30am Pacific Time. 

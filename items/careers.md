@@ -4,11 +4,11 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- **NEW** [Exascale Computing Postdoctoral Fellow](http://m.rfer.us/LBLeIu4BW):
+- [Exascale Computing Postdoctoral Fellow](http://m.rfer.us/LBLeIu4BW):
 Collaborate with ECP math library and scientific application teams to enable the
 solution of deep, meaningful problems targeted by the ECP program and other
 DOE/Office of Science program areas.
-- **NEW** [Data & Analytics Team Group Lead](http://m.rfer.us/LBLxCV4BX): 
+- [Data & Analytics Team Group Lead](http://m.rfer.us/LBLxCV4BX): 
 Provide vision and guidance and lead a team that provides data management, 
 analytics and AI software, support, and expertise to NERSC users.
 - [Cyber Security Engineer](http://m.rfer.us/LBLCw447V): Help protect 

@@ -1,9 +1,9 @@
-### 2022 ERCAP Allocations Process Open through Next Monday, October 4 
+### (UPDATE) 2022 ERCAP Allocations Process Due Date Extended to Friday!
 
 The ERCAP allocations process began accepting requests for the 2022 
 Allocation Year (AY) on Tuesday, September 7. To be considered for an allocation
 that will start on the first day of the 2022 AY, please submit your request
-before the end of the day next Monday, October 4.
+**before 5:00 pm (Pacific time) on Friday, October 8!**
 
 There are a few changes in store for the 2022 Allocation Year. Highlights 
 include
@@ -13,9 +13,13 @@ machine, to a new Node-hour scheme based on Perlmutter's performance;
 - Inclusion of requests for GPU hours and justification regarding GPU readiness;
 - Minor improvements to the form.
 
-More details on these differences, along with strategies for writing the best 
-request and opportunities for advice from NERSC staff, will be provided in 
-future communications.
+We would like to draw your attention to the fact that **there is a new unit of 
+currency (normalized to the Perlmutter CPU node hour) for the new allocation 
+year.** A simple way to convert is to simply divide this year's usage by 400. 
+If you requested one million NERSC hours this year (AY2021), this translates to 
+2,500 node hours next year. Therefore we expect most CPU requests would not 
+exceed 20,000 node hours, and our largest requestors might ask for 250,000 node 
+hours. GPU node hour requests should be similarly small.
 
 The majority of NERSC resources and compute time are allocated through the
 ERCAP process.
