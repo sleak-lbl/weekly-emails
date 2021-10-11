@@ -3,7 +3,7 @@
 Berkeley Lab, where NERSC is located, is operating under public health 
 restrictions. NERSC continues to remain open while following site-specific 
 protection plans.  We remain in operation, with the majority of NERSC staff 
-working remotely, and only staff essential to operations onsite. We do not 
+working remotely, and staff essential to operations onsite. We do not 
 expect any significant changes to our operations in the next few months.
 
 You can continue to expect regular online consulting and account support as well

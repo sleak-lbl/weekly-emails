@@ -5,10 +5,9 @@ Career Achievement Awards on Wednesdays at noon (Pacific time) starting
 Wednesday, September 22, and running through November 10.
 
 This week's talk is by 
-Miha Muskinja from Lawrence Berkeley National Laboratory,
+Grant Johnson, Princeton University & Lawrence Livermore National Laboratory,
 who will be speaking on 
-"Raythena: A Massively Parallel Data Processing Framework for the ATLAS Geant4
-Simulation."
+"The Inverted Plasma Sheath, from Formation to Applications."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.

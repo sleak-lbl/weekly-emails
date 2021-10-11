@@ -1,4 +1,4 @@
-### Applications for December NERSC GPU Hackathon Due Friday!
+### Application Deadline for December NERSC GPU Hackathon Extended to Friday!
 
 NERSC, in conjunction with the OpenACC Organization, NVIDIA and OLCF, will be 
 hosting a GPU Hackathon from December 7th-9th with an opening day on December 
@@ -30,5 +30,5 @@ proposal form, please visit the GPU Hackathon's event page:
 NERSC's event page: <https://sites.google.com/lbl.gov/gpuhackathon-dec2021>.
 
 Please note that the deadline to submit a proposal is **midnight this Friday, 
-October 8th, 2021**. If you have any questions, please feel free to contact 
+October 15th, 2021**. If you have any questions, please feel free to contact 
 Kevin Gott (<kngott@lbl.gov>).
