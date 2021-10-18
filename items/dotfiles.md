@@ -1,4 +1,4 @@
-### (NEW) Prepare Your Dotfiles for Perlmutter!
+### Prepare Your Dotfiles for Perlmutter!
 
 To help ready your account for Perlmutter, please review your dotfiles. The same
 home file system is mounted across all NERSC systems, so your 

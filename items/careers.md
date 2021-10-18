@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [Scientific Data Architect](http://m.rfer.us/LBLl2w4Fo):
+Collaborate with scientists to meet their Data, AI, and Analytics needs on
+NERSC supercomputers.
 - [Exascale Computing Postdoctoral Fellow](http://m.rfer.us/LBLeIu4BW):
 Collaborate with ECP math library and scientific application teams to enable the
 solution of deep, meaningful problems targeted by the ECP program and other
