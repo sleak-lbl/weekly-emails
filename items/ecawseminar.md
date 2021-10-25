@@ -2,10 +2,13 @@
 
 NERSC is hosting a seminar searies featuring the recipients of the NERSC Early
 Career Achievement Awards on Wednesdays at noon (Pacific time) starting 
-Wednesday, September 22, and running through November 10.
+Wednesday, September 22, and running through November 17.
 
-The talk originally scheduled for this week **has been postponed**. Stay tuned 
-next week for another talk.
+This week's talk, presented by
+Hsin-Yu Ko of Cornell University,
+is entitled
+"Towards an Accurate and Efficient Order-N HPC Framework for Large-Scale
+Condensed-Phase Hybrid Density Functional Theory."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.
