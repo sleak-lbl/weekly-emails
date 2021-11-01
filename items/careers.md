@@ -16,9 +16,6 @@ Provide vision and guidance and lead a team that provides data management,
 analytics and AI software, support, and expertise to NERSC users.
 - [Cyber Security Engineer](http://m.rfer.us/LBLCw447V): Help protect 
 NERSC from malicious and unauthorized activity.
-- [Site Reliability Engineer](http://m.rfer.us/LBLcRe47W): Provide
-engineering support services in a 24x7 environment to ensure that NERSC
-resources are accessible, reliable, secure, and available for NERSC users.
 - [Scientific Data Architect](http://m.rfer.us/LBLxME47X): Collaborate
 with scientists to meet their Data, AI, and Analytics needs on NERSC
 supercomputers.

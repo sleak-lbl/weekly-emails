@@ -5,10 +5,9 @@ Career Achievement Awards on Wednesdays at noon (Pacific time) starting
 Wednesday, September 22, and running through November 17.
 
 This week's talk, presented by
-Hsin-Yu Ko of Cornell University,
+Abigail Polin of Caltech & Carnegie Observatories,
 is entitled
-"Towards an Accurate and Efficient Order-N HPC Framework for Large-Scale
-Condensed-Phase Hybrid Density Functional Theory."
+"Modeling Sub-Chandrasekhar Mass White Dwarf Explosions as Type Ia Supernovae."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.
