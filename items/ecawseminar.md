@@ -5,9 +5,10 @@ Career Achievement Awards on Wednesdays at noon (Pacific time) starting
 Wednesday, September 22, and running through November 17.
 
 This week's talk, presented by
-Abigail Polin of Caltech & Carnegie Observatories,
+Samual Kachuck of the University of Michigan,
 is entitled
-"Modeling Sub-Chandrasekhar Mass White Dwarf Explosions as Type Ia Supernovae."
+"Implementing novel physics in ice sheet models for improved sea-level
+projections."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.
