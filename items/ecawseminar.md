@@ -5,10 +5,9 @@ Career Achievement Awards on Wednesdays at noon (Pacific time) starting
 Wednesday, September 22, and running through November 17.
 
 This week's talk, presented by
-Samual Kachuck of the University of Michigan,
+Quentin Riffard of Lawrence Berkeley National Laboratory,
 is entitled
-"Implementing novel physics in ice sheet models for improved sea-level
-projections."
+"Direct dark matter searches with the LZ experiment."
 
 For more information on the series and links to join the event, please see
 <https://www.nersc.gov/science/nersc-hpc-achievement-awards/achievement-award-seminar-series/>.

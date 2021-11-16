@@ -10,7 +10,7 @@ to install specific software in your `$HOME` or
 `/global/common/software/<myproject>` area, and today we will walk 
 through how you can use it.
 
-Our agenda for September is:
+Our agenda for November is:
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 
