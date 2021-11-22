@@ -1,5 +1,7 @@
 # NERSC Weekly Email, Week of November 22, 2021 <a name="top"></a> #
 
+(Update: added [Recompile recommended after Perlmutter mainteance](#pmrecompile))
+
 ## Contents ## 
 
 - [Summary of Upcoming Events and Key Dates](#dates)
@@ -10,10 +12,11 @@
 
 ## [This Week's Events and Deadlines](#section2) ##
 
-- [Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by TODAY, November 22](#alvarezhopper)
+- [(NEW) Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by TODAY, November 22](#alvarezhopper)
 
 ## [Perlmutter](#section3) ##
 
+- [(NEW) Recompile Strongly Recommended After Upcoming Maintenance on Perlmutter](#pmrecompile)
 - [Perlmutter Machine Status](#perlmutter)
 - [Prepare Your Dotfiles for Perlmutter!](#dotfiles)
 
@@ -25,22 +28,22 @@
 
 ## [Calls for Participation](#section5) ##
 
-- [Please participate in the NERSC Annual User Survey](#usersurvey)
-- [ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Dec 17](#alcc)
+- [(NEW) Please participate in the NERSC Annual User Survey](#usersurvey)
+- [(NEW) ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Dec 17](#alcc)
 - [Applications for DOE Computational Science Graduate Fellowship Open](#csgf)
 - [Call for Proposals: Quantum Information Science on Perlmutter](#quantum)
 - [Nominations for James Corones Award in Leadership, Community Building & Communication Now Open!](#corones)
 
 ## [Upcoming Training Events ](#section6) ##
 
-- [New Dates: Training on Using Perlmutter, January 5-7](#usepm)
+- [(NEW) New Dates: Training on Using Perlmutter, January 5-7](#usepm)
 - [IDEAS-ECP Webinar on Scientific Software Ecosystems & Communities, December 8](#ecpwebinar)
 
 ## [NERSC News ](#section7) ##
 
 - [No New "NERSC User News" Podcast this Week](#nopodcast)
 - [Come Work for NERSC!](#careers)
-- [Upcoming Outages](#outages)
+- [(NEW) Upcoming Outages](#outages)
 - [About this Email](#about)
 
 ## Summary of Upcoming Events and Key Dates <a name="dates"/></a> ##
@@ -135,7 +138,7 @@ For **current NERSC systems status**, please see the online
 ---
 ## This Week's Events and Deadlines <a name="section2"/></a> ##
 
-### Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by TODAY, November 22 <a name="alvarezhopper"/></a> 
+### (NEW) Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by TODAY, November 22 <a name="alvarezhopper"/></a> 
 
 Are you about to earn your PhD in a computational science discipline or have you
 earned it within the past three years? Are you looking for a position in which 
@@ -167,6 +170,18 @@ more information and to apply, please see the
 
 ---
 ## Perlmutter <a name="section3"/></a> ##
+
+### (NEW) Recompile Strongly Recommended After Upcoming Maintenance on Perlmutter <a name="pmrecompile"/></a> 
+
+The upcoming maintenance on Perlmutter, scheduled for the week of 12/6, is a
+major upgrade. We will be updating the operating system and changing the default
+modules to simplify and unify the programming environment as well as updating
+the network software. Because of these changes, we recommend that you recompile
+your codes after Perlmutter returns from this maintenance. We will post exact
+details of the changes and links to any new instructions on Perlmutter's
+timeline page (https://docs.nersc.gov/systems/perlmutter/timeline/)  as the date
+approaches. 
+
 
 ### Perlmutter Machine Status <a name="perlmutter"/></a> 
 
@@ -273,7 +288,7 @@ Perlmutter. There are no scheduled Python module changes on Perlmutter.
 ---
 ## Calls for Participation <a name="section5"/></a> ##
 
-### Please participate in the NERSC Annual User Survey <a name="usersurvey"/></a> 
+### (NEW) Please participate in the NERSC Annual User Survey <a name="usersurvey"/></a> 
 
 NERSC has engaged a professional survey company, the National Business Research
 Institute (NBRI), to conduct our annual user survey. Users should have found 
@@ -285,7 +300,7 @@ improvements to benefit our users. Please take the survey to let us know what
 we've done well and how we can better serve you!
 
 
-### ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Dec 17 <a name="alcc"/></a> 
+### (NEW) ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Dec 17 <a name="alcc"/></a> 
 
 The Office of Advanced Scientific Computing Research's ASCR Leadership Computing
 Challenge (ALCC) is an allocation program for projects of interest to the
@@ -369,7 +384,7 @@ Nominations are due **December 31, 2021**.
 ---
 ## Upcoming Training Events  <a name="section6"/></a> ##
 
-### New Dates: Training on Using Perlmutter, January 5-7 <a name="usepm"/></a> 
+### (NEW) New Dates: Training on Using Perlmutter, January 5-7 <a name="usepm"/></a> 
 
 NERSC and HPE staff will hold a three-day training event on using Perlmutter,
 Wednesday through Friday, January 5-7 (was December 8-10).  This event is a 
@@ -513,7 +528,7 @@ We know that NERSC users can make great NERSC employees! We look forward to
 seeing your application.
 
 
-### Upcoming Outages <a name="outages"/></a> 
+### (NEW) Upcoming Outages <a name="outages"/></a> 
 
 - **Cori**
     - 12/15/21 07:00-20:00 PST, Scheduled Maintenance
