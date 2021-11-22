@@ -1,7 +1,6 @@
-### Cori Monthly Maintenance on Wednesday
+### (NEW) Urgent Cori Maintenance this Wednesday
 
-We will perform maintenance on Cori this Wednesday, August 19, beginning at 7:00
-am (Pacific time). The maintenance will include monthly hardware repairs, a
-minor patch installation, and the incorporation of new auxiliary nodes into the
-system. We anticipate that the machine will be returned to users before the end
-of the day.
+An urgent update will be applied to Cori **this Wednesday, August 25**. The 
+machine will be unavailable from 7:00 am (Pacific time) to 4:00 pm. We 
+anticipate that this update will resolve the recent issues with the Burst Buffer
+(Datawarp). We appreciate your flexibility as we work to resolve these issues.

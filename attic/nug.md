@@ -1,11 +1,14 @@
-## Registration Now Open for Annual NUG Meeting Friday July 19 in Rockville, MD ##
+### Join Us for the NUG Annual Meeting this Thursday, 21 Oct starting 8:30am PT
 
-This year's annual NUG meeting will take place on Friday July 19, 2019, in 
-Rockville, MD (immediately following the SciDAC meeting). 
+This year's NUG Annual Meeting begins this Thursday October 21, 2021, at 8:30am 
+Pacific Time. 
 
-The meeting will include updates from DOE program managers and NERSC director
-Sudip Dosanjh, an introduction to NERSC's new banking and identity management
-system, highlights from NERSC users, Q&A with NERSC staff, and more!
+The final agenda for the meeting is available at
+<https://www.nersc.gov/users/NUG/annual-meetings/nug-2021>. 
 
-Registration is now open at <https://www.orau.gov/nug2019/default.htm>. There
-is no cost to register. We look forward to seeing you there!
+There's still time to register at <https://forms.gle/JQN15SUoEMSdJK286> 
+(<https://www.nersc.gov/users/NUG/annual-meetings/nug-2021> 
+also has a link to the form). There is no cost to register.
+
+We look forward to seeing you there!
+

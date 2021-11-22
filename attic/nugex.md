@@ -1,15 +1,26 @@
-### Congratulations to the Newest NUGEX Members!
+### Join or Nominate a Colleague for the NUG Executive Committee - Deadline Extended to Today!
 
-NUGEX (NERSC User Group Executive Committee) is the voice of the user community 
-to NERSC and DOE, shaping and guiding important NERSC user policies. 
+The NUG Executive Committee (NUGEX) is a group of NERSC users who 
+oversee NUG activities for the benefit of NERSC's user community.
 
-We'd like to welcome six new members to the NUGEX committee:
-- Sayan Ghosh, PNNL (ASCR)
-- Sarat Sreepathi, ORNL (ASCR)
-- Koichi Sakaguchi, PNNL (BER)
-- Matthew Horton, Berkeley Lab (BES)
-- Ramesh Balakrishnan, Argonne (BES)
-- John Wright, MIT (FES)
+Committee members serve for 2-3 years, with up to half of the 
+committee being replaced each year. We're looking for new 
+committee members who, between them, are representative of the
+diverse range of NERSC users - early career and senior researchers,
+users who run jobs, project members who analyse data and PIs who 
+manage project teams.
 
-Congratulations to these winners and thanks to all the candidates who 
-participated.
+NUGEX will meet once per month, for up to 1 hour, for activities 
+including:
+ - Helping identify HPC needs from NERSC users & scientific communities
+ - Helping identify training needs for NERSC users
+ - Providing topics or activities related to the NUG annual meeting
+ - Coordinating activities at meetings and conferences where NERSC 
+   users and/or NERSC staff contributions would be valuable
+ - Receiving updates from NERSC on important topics
+
+We are currently seeking volunteers and nominations for NUGEX -- if 
+you would like to participate, or to nominate a potential NUGEX member, please
+fill out the short form at <https://forms.gle/B9XofSmfstuQzVrh8>
+today.
+

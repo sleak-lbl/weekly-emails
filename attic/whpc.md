@@ -1,21 +1,23 @@
-### Women in HPC Summit Student Program Applications Due this Friday, Feb 28!
+### Women in HPC Workshop Submission Deadline Tomorrow!
 
-Applications are now open for the Women in HPC Summit Student Program. The
-program is aimed at students of all levels interested in high-performance
-computing. All students are required to submit a poster related to HPC topics
-that they work on. These posters can be for new work or existing work.
+The 12th international Women in HPC workshop will take place on Sunday,
+November 14, in conjunction with SC21 in St. Louis, MO. The workshop includes
+activities of interest to early- and mid-career women working in HPC, people
+responsible for hiring and recruiting staff, and diversity allies who wish to
+create a more diverse and more inclusive workplace culture.
 
-Application materials include two documents:
+The day will include presentations from early-career women showcasing their HPC
+work. Women interested in presenting their HPC work to the HPC community are
+invited to submit a short lightning talk. Presenters will be provided with a 
+mentor to aid in the preparation of the talk before the workshop. Submissions
+are invited as a 2-page extended abstract in any area that utilizes 
+high-performance computing. Suggested areas include but are not limited to
+- High-performance computing
+- Data science
+- Machine learning/AI
+- Big data
+- Languages and runtimes
+- Algorithms
 
-- A student-prepared document containing a brief bio (including HPC background); a
-statement about why you wish to attend the summit; your career aspirations; and
-a 1-2 page extended abstract describing your poster contents.
-- A letter of support from an academic advisor supporting your attendance.
-
-For more information on the agenda for the student track please see the 
-[WHPC Summit website](https://womeninhpc.org/events/summit-2020#!/submissions) 
-(scroll down for "Student Program"); to submit please go to the
-[submissions](https://easychair.org/conferences/?conf=whpcsummit2020) website. 
-
-Applications close **this Friday!**
-
+For more information please see the [Call for Lightning Talks](https://womeninhpc.org/events/sc-2021-workshop#!/posters). 
+Submissions are due **tomorrow, September 28!**

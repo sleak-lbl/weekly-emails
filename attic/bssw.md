@@ -1,14 +1,21 @@
-### Applications for Better Scientific Software (BSSw) Fellowship Program Close Wednesday!
+### Better Scientific Software 2022 Fellowship Program Applications Close Thursday!
 
-Do you have something to share with the scientific software community? Do you
-have a passion to learn and teach others about better software? Are you 
-affiliated with a US-based institution that can receive funding from the US
-Department of Energy? If so, consider applying for a Better Scientific Software
-(BSSw) Fellowship. Fellows receive an award of up to $25,000 that can be used
-for an activity that promotes better scientific software, such as organizing a
-workshop or tutorial, or creating content to engage the scientific software
-community.
+Are you passionate about creating high-quality scientific software to improve
+scientific productivity? Applications are now being accepted for the 2022 Better
+Scientific Software (BSSw) Fellowship program.
 
-For more information and to apply, please see <https://bssw.io/pages/apply-for-the-bssw-fellowship-program>.
-**Applications are due this Wednesday, September 30, 2020.**
+The BSSw Fellowship program provides recognition and
+funding for leaders and advocates of high-quality scientific software who foster
+practices, processes, and tools to improve scientific software productivity and
+sustainability. Each 2022 BSSw Fellow will receive up to $25,000 for an activity
+that promotes better scientific software. Activities can include organizing a
+workshop, preparing a tutorial, or creating content to engage the scientific
+software community.
 
+Applications from diverse applicants at all career stages and throughout the
+computational science and engineering (CSE) and software communities are
+encouraged. Applicants must be affiliated with a US-based institution that is
+able to receive federal funding.
+
+For more information and to apply, please see <https://bssw.io/fellowship>.
+Applications are accepted through **this Thursday, September 30, 2021.**
