@@ -1,4 +1,4 @@
-### Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by Next Monday, November 22
+### Apply for Prestigious Alvarez & Hopper Fellowships in Computing Sciences at Berkeley Lab & NERSC by TODAY, November 22
 
 Are you about to earn your PhD in a computational science discipline or have you
 earned it within the past three years? Are you looking for a position in which 
@@ -24,4 +24,4 @@ HPC systems, and/or networking in a related research field.
 Applications to both fellowships are made jointly by a single process. For
 more information and to apply, please see the 
 [position listing](http://m.rfer.us/LBLq6B4Aw). 
-**Applications close next Monday, November 22, 2021.**
+**Applications close TODAY, November 22, 2021.**
