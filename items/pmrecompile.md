@@ -6,6 +6,6 @@ modules to simplify and unify the programming environment as well as updating
 the network software. Because of these changes, we recommend that you recompile
 your codes after Perlmutter returns from this maintenance. We will post exact
 details of the changes and links to any new instructions on Perlmutter's
-timeline page (https://docs.nersc.gov/systems/perlmutter/timeline/)  as the date
-approaches. 
+timeline page (<https://docs.nersc.gov/systems/perlmutter/timeline/>) as the 
+date approaches. 
 
