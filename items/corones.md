@@ -1,4 +1,4 @@
-### Nominations for James Corones Award in Leadership, Community Building & Communication Now Open!
+### Nominations for James Corones Award in Leadership, Community Building & Communication Open Through December 31!
 
 Do you know a mid-career scientist or engineer (10-20 years post-PhD) who's 
 making an impact in leadership, community building, and scientific 

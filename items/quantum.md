@@ -1,4 +1,4 @@
-### Call for Proposals: Quantum Information Science on Perlmutter
+### Quantum Information Science on Perlmutter Call for Proposals Closes Monday!
 
 NERSC is seeking proposals to conduct research using the Perlmutter 
 supercomputer in the area of quantum information science. Researchers in all

@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on Scientific Software Ecosystems & Communities, December 8
+### IDEAS-ECP Webinar on Scientific Software Ecosystems & Communities, this Wednesday!
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Scientific Software Ecosystems and Communities: Why We Need
 Them and How Each of Us Can Help Them Thrive"
-and will take place **Wednesday, December 8, 2021, at 10:00 am 
+and will take place this **Wednesday, December 8, 2021, at 10:00 am 
 Pacific time.**
 
 In this webinar, Lois Curfman McInnes (Argonne National Laboratory)
@@ -19,3 +19,9 @@ complementary community efforts and opportunities for involvement.
 
 There is no cost to attend, but registration is required. Please register
 [here](https://www.exascaleproject.org/event/scisoftecosystems/).
+
+The [January webinar](https://www.exascaleproject.org/event/wrongway/), 
+entitled "Wrong Way: Lessons Learned and Possibilities for
+Using the 'Wrong' Programming Approach on Leadership Computing Facility
+Systems," presented by ORNL's Philip C. Roth, will take place on Wednesday,
+January 22, 2022, at 10:00 am Pacific time.

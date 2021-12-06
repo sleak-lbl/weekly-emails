@@ -1,6 +1,6 @@
-### NERSC Federated Identity Pilot Begins Today!
+### NERSC Federated Identity Pilot Has Begun!
 
-Starting today, Berkeley Lab staff can now follow a
+Berkeley Lab staff can now follow a
 one-time process to link their Lab identity to their NERSC identity, then
 subsequently use their Lab credentials to log into resources such as Iris,
 ServiceNow, and the NERSC web site.
