@@ -4,9 +4,6 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
-- [Operations Linux System Administrator](http://m.rfer.us/LBLDYX4Q3):
-Provide engineering support services for the systems used to enable the analysis
-of the health of facility systems in a 24x7 environment. 
 - [Scientific Data Architect](http://m.rfer.us/LBLl2w4Fo):
 Collaborate with scientists to meet their Data, AI, and Analytics needs on
 NERSC supercomputers.

@@ -1,4 +1,4 @@
-### Quantum Information Science on Perlmutter Call for Proposals Closes Monday!
+### Quantum Information Science on Perlmutter Call for Proposals Closes Today!
 
 NERSC is seeking proposals to conduct research using the Perlmutter 
 supercomputer in the area of quantum information science. Researchers in all
@@ -8,4 +8,4 @@ Year, which begins in mid-January, 2022.
 
 For more information and to apply, please see 
 <https://www.nersc.gov/news-publications/nersc-news/nersc-center-news/2021/quantum-information-science-at-perlmutter/>.
-Applications are due December 13, 2021.
+Applications are due **TODAY, December 13, 2021**.

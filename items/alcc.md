@@ -1,4 +1,4 @@
-### ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Dec 17
+### ASCR Leadership Computing Challenge (ALCC) Pre-proposals due Friday!
 
 The Office of Advanced Scientific Computing Research's ASCR Leadership Computing
 Challenge (ALCC) is an allocation program for projects of interest to the
@@ -20,3 +20,4 @@ system acceptance, for nationally important, and exascale-ready projects.
 
 For more information, and to apply, please visit
 <https://science.osti.gov/ascr/Facilities/Accessing-ASCR-Facilities/ALCC>.
+**Submissions are due this Friday, December 17**.

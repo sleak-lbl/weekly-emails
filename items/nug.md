@@ -5,11 +5,11 @@ celebrate successes, discuss difficulties and learn from each other.
 
 Our September meeting is **this Thursday, 16 December, at 11am** (Pacific time),
 at <https://lbnl.zoom.us/j/285479463>. Our topic-of-the-month is 
-**Preparing for AY22**. The NERSC 2021 Allocation Year (AY21) ends at 7 a.m. Pacific 
-Time on Wednesday, January 19, 2022. Cori and Perlmutter will be unavailable from 
-7 a.m. to 8 p.m. on that day, and AY22 will begin. Today Helen He from NERSC's
-User Engagement Group will join us to walk through what you need to know for 
-the AY transition.
+**Preparing for AY22**. The NERSC 2021 Allocation Year (AY21) ends at 7 am 
+Pacific Time on Wednesday, January 19, 2022. Cori and Perlmutter will be 
+unavailable from 7 am to 8 pm on that day, and AY22 will begin. Today Helen He 
+from NERSC's User Engagement Group will join us to walk through what you need to
+know for the AY transition.
 
 Our agenda for December is:
 
