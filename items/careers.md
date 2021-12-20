@@ -25,10 +25,6 @@ scientific codes on cutting-edge computing architectures.
 - [Software Integration Engineer](http://m.rfer.us/LBLod0440):
 Develop and support software integration with Continuous Integration in
 collaboration with ECP.
-- [NESAP for Simulations Postdoctoral Fellow](http://m.rfer.us/LBL6vJ3fr):
-Work in multidisciplinary teams to develop and optimize codes for the Perlmutter
-system and produce mission-relevant science that pushes the limits of
-high-performance computing.
 
 (**Note:** You can browse all our job openings by first navigating to 
 <https://jobs.lbl.gov/jobs/search/>. Under "Business," select "View More" 

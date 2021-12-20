@@ -1,7 +1,8 @@
-### New Dates: Training on Using Perlmutter, January 5-7
+### Training on Using Perlmutter, January 5-7
 
-NERSC and HPE staff will hold a three-day training event on using Perlmutter,
-**Wednesday through Friday, January 5-7** (was December 8-10). This event is a 
+NERSC and HPE staff will hold a three-day training event on using Perlmutter
+immediately after the NERSC winter break,
+**Wednesday through Friday, January 5-7**. This event is a 
 continuation and extension of the Introduction to Perlmutter held in June, and 
 is focused on using Perlmutter, including hands-on exercises.
 
