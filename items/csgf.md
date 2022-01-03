@@ -11,5 +11,5 @@ DOE supercomputers, and more!
 
 For more information, please see the 
 [CSGF Webpage](https://www.krellinst.org/csgf/). Applications are due
-**Wednesday, January 12, 2022**.
+**next Wednesday, January 12**.
 

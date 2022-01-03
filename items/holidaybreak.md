@@ -1,9 +1,7 @@
-### Winter Holiday Shutdown December 24-January 3; No Consulting & Limited Account Support Planned
+### Last Day of Winter Holiday Shutdown Today; Consulting & Account Support Resume Tomorrow
 
-During the Berkeley Lab winter holiday shutdown period, which begins this 
-Friday, December 24, 2021 and goes through Monday, January 3, 2022, no 
-consulting support will be available. There will be limited account support on 
-Wednesday and Thursday, December 29 and 30, 2021. Regular consulting and account
-support will resume on Tuesday, January 4, 2022.
+Today (Monday, January 3) is the last day of the Berkeley Lab Winter Holiday
+shutdown period. No consulting or account support is available today. 
 
-Please enjoy the festive season and take the time to relax!
+Regular consulting and account support will resume tomorrow.
+

@@ -1,4 +1,4 @@
-### Allocation Year 2021 to 2022 Transition on Wednesday, January 19, 2022
+### Allocation Year 2021 to 2022 Transition on Wednesday, January 19
 
 The current Allocation Year (AY21) ends at 7 am Pacific Time on Wednesday,
 January 19, 2022.
