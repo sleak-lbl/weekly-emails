@@ -1,4 +1,4 @@
-### Applications for DOE Computational Science Graduate Fellowship Open
+### Applications for DOE Computational Science Graduate Fellowship Due Wednesday!
 
 Are you a US citizen or lawful permanent resident planning to embark on your 
 first or second year of PhD study in physical, engineering, computer, 
@@ -11,5 +11,5 @@ DOE supercomputers, and more!
 
 For more information, please see the 
 [CSGF Webpage](https://www.krellinst.org/csgf/). Applications are due
-**next Wednesday, January 12**.
+**this Wednesday, January 12**.
 

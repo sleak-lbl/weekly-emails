@@ -1,7 +1,7 @@
 ### Perlmutter Machine Status
 
 The initial phase of the Perlmutter supercomputer is in the NERSC machine room, 
-booting and running successfully. 
+running user jobs. 
 
 We have added many early users onto the machine. We hope to add even more users 
 soon. Anyone interested in using Perlmutter may apply using the 
@@ -10,7 +10,9 @@ soon. Anyone interested in using Perlmutter may apply using the
 The second phase of the machine, consisting of CPU-only nodes, will arrive 
 early this year. After all the new nodes arrive, all of Perlmutter will be taken
 out of service and integrated over a period that we anticipate could take up 
-to 8 weeks.
+to 8 weeks. We are developing a plan for integration that will reduce the
+amount of time the entire system is down. We will let you know when this plan is
+finalized.
 
 This newsletter item will be updated each week with the latest Perlmutter 
 status.

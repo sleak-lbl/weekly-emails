@@ -1,4 +1,4 @@
-### BerkeleyGW Events, Week of January 10-14
+### BerkeleyGW Events this Week!
 
 BerkeleyGW users and other interested parties are invited to attend the 8th
 BerkeleyGW Tutorial Workshop and the 3rd Berkeley Excited States Conference,

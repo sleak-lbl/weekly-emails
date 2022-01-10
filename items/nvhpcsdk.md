@@ -1,4 +1,4 @@
-### NVIDIA HPC SDK Training, January 12-13
+### NVIDIA HPC SDK Training, this Wednesday & Thursday
 
 NVIDIA will present a two-day training for users about the GPU programming
 models supported by NVIDIA's HPC SDK compilers, including Standard Language

@@ -1,10 +1,16 @@
-### Allocation Year 2021 to 2022 Transition on Wednesday, January 19
+### Allocation Year 2021 to 2022 Transition Next Wednesday, January 19
 
 The current Allocation Year (AY21) ends at 7 am Pacific Time on Wednesday,
 January 19, 2022.
 
-PIs for new and continuing projects will receive notification of the status of 
-their project request later this week.
+PIs for new and continuing projects have received notification of the status of 
+their project request. Project PIs/Proxies/Membership managers for continuing
+projects should 
+[select their continuing users](https://docs.nersc.gov/iris/iris-for-pis/#set-your-user-list-for-the-next-allocation-year) 
+**before close of business, next Tuesday, January 18**. This can be performed in
+the project's "Roles" tab. Note that the "alert" triangle will continue to 
+appear at the top of the Iris webpage even if you have completed this task, 
+until the new allocation year.
 
 There are a few changes for AY22. Of note:
 - **Charge factors have been recalibrated to the new Perlmutter machine.** The 
