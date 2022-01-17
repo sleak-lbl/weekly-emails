@@ -22,9 +22,6 @@ productive science output.
 - [HPC Performance Engineer](http://m.rfer.us/LBLsGT43z): Join a
 multidisciplinary team of computational and domain scientists to speed up
 scientific codes on cutting-edge computing architectures.
-- [Software Integration Engineer](http://m.rfer.us/LBLod0440):
-Develop and support software integration with Continuous Integration in
-collaboration with ECP.
 
 (**Note:** You can browse all our job openings by first navigating to 
 <https://jobs.lbl.gov/jobs/search/>. Under "Business," select "View More" 
