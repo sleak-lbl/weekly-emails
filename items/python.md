@@ -1,7 +1,7 @@
-### New Default Python module at AY transition; All Python modules will support conda activate
+### New Default Python module as of AY transition; All Python modules support conda activate
 
 Python users take note: On Jan 19, 2022 at the Allocation Year rollover, NERSC 
-will change our default Python and Python3 modules on Cori to 
+changed our default Python and Python3 modules on Cori to 
 python/3.9-anaconda-2021.11. Please note that older Python modules will remain 
 available, but users must specify the full module name to continue to use them.
 
@@ -14,20 +14,16 @@ in this module include:
 - mpi4py 3.1.3
 - authlib 0.15.4 (support for NERSC's [Superfacility API](https://docs-dev.nersc.gov/sfapi/))
 
-This module is available via `module load python/3.9-anaconda-2021.11`, and
-we encourage you to test it now.
-
-At the AY transition, we will retroactively change the behavior of **all**
+At the AY transition, we retroactively changed the behavior of **all**
 Cori Python modules to support `conda activate`. Please see
 [these pending updates to our documentation](https://gitlab.com/NERSC/nersc.gitlab.io/-/merge_requests/1665)
 for more details. As always, if you have a question, please contact us via
 our [helpdesk](https://help.nersc.gov).
 
-**Note for pip users:** pip packages installed via `--user` will be 
+**Note for pip users:** pip packages installed via `--user` are 
 installed at `$HOME/.local/cori/3.9-anaconda-2021.11` (defined by 
 `$PYTHONUSERBASE`).
 
-Note that the python/3.9-anaconda-2021.11 module is already the default on
-Perlmutter and `conda activate` functionality is already supported there. There 
-are no scheduled Python module changes on Perlmutter. 
+Note that the python/3.9-anaconda-2021.11 module was already the default on
+Perlmutter and `conda activate` functionality is already supported there. 
 
