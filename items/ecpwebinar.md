@@ -1,5 +1,4 @@
-### January 12 IDEAS-ECP Webinar  Postponed
-# ### IDEAS-ECP Webinar on "Lessons Learned & Possibilities for Using the 'Wrong' Programming Approach on Leadership Computing Facility Systems," January 12
+### IDEAS-ECP Webinar on "Lessons Learned & Possibilities for Using the 'Wrong' Programming Approach on Leadership Computing Facility Systems," February 16
 
 The Webinar entitled "Wrong Way: Lessons Learned and Possibilities for Using the
 'Wrong' Programming Approach on Leadership Computing Facility Systems," 
@@ -11,7 +10,7 @@ The next webinar in the
 series is entitled "Wrong Way: Lessons Learned and Possibilities for
 Using the 'Wrong' Programming Approach on Leadership Computing Facility
 Systems,"
-and will take place **Wednesday, January 12, at 10:00 am Pacific time.**
+and will take place **Wednesday, February 16, at 10:00 am Pacific time.**
 
 In this webinar, Philip C. Roth (Oak Ridge National Laboratory)
 will discuss the impact of using a "wrong" programming approach for a given

@@ -1,4 +1,4 @@
-### Call for Participation: Monterey Data Workshop, April 20-21, 2022
+### Call for Participation Extended to February 15 for  Monterey Data Workshop, April 20-21, 2022
 
 The DOE Monterey Data Workshop 2022 is a virtual 2-day meeting to share the 
 latest research in scientific artificial intelligence (AI) and machine learning 
@@ -31,4 +31,4 @@ sessions related to the above topics.
 
 For more information and to submit, please see
 <https://www.montereydataconference.org/workshop-2022>.
-Submissions are due **next Monday, January 31, 2022**. 
+Submissions are due **February 15, 2022**. 
