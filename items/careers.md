@@ -4,6 +4,9 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- **NEW** [Machine Learning Postdoctoral Fellow](http://m.rfer.us/LBL2sf4cR):
+Collaborate with computational and domain scientists to enable machine learning
+at scale on NERSC's Perlmutter supercomputer.
 - [Scientific Data Architect](http://m.rfer.us/LBLl2w4Fo):
 Collaborate with scientists to meet their Data, AI, and Analytics needs on
 NERSC supercomputers.

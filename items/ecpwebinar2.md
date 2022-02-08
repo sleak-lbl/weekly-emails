@@ -1,18 +1,16 @@
-### January 12 IDEAS-ECP Webinar Postponed
+### IDEAS-ECP Webinar on "Software Design Patterns in Research Software with Examples from OpenFOAM" March 9
 
-The next webinar in the 
+The March webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
-series is entitled "Wrong Way: Lessons Learned and Possibilities for
-Using the 'Wrong' Programming Approach on Leadership Computing Facility
-Systems,"
-**has been postponed**. We will let you know when it is rescheduled.
+series is entitled "Software Design Patterns in Research Software with
+Examples from OpenFOAM",
+and will take place **Wednesday, March 9, at 10:00 am Pacific time.**
 
-In this webinar, Philip C. Roth (Oak Ridge National Laboratory)
-will discuss the impact of using a "wrong" programming approach for a given
-system, in the context of the accelerated large-scale computing systems deployed
-and being deployed at US Department of Energy Computing facilities. In this
-webinar, he will present a few of these "wrong" programming approaches, and
-lessons learned in cases where the approach has been attempted.
+In this webinar, Tomislav Marc (TU Darmstadt)
+will discuss beneficial software design patterns that provide a solid basis for 
+developing numerical methods in a modular way, drawing concrete examples from
+OpenFOAM, a highly modular open-source software for Computational Fluid
+Dynamics.
 
 There is no cost to attend, but registration is required. Please register
-[here](https://www.exascaleproject.org/event/wrongway/). 
+[here](https://www.exascaleproject.org/event/design-patterns/). 

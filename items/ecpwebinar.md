@@ -1,10 +1,5 @@
 ### IDEAS-ECP Webinar on "Lessons Learned & Possibilities for Using the 'Wrong' Programming Approach on Leadership Computing Facility Systems," February 16
 
-The Webinar entitled "Wrong Way: Lessons Learned and Possibilities for Using the
-'Wrong' Programming Approach on Leadership Computing Facility Systems," 
-originally scheduled for this Wednesday, has been postponed. We will let you
-know when it is rescheduled.
-
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Wrong Way: Lessons Learned and Possibilities for
