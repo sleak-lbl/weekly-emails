@@ -1,11 +1,11 @@
-### IDEAS-ECP Webinar on "Lessons Learned & Possibilities for Using the 'Wrong' Programming Approach on Leadership Computing Facility Systems," February 16
+### IDEAS-ECP Webinar on "Lessons Learned & Possibilities for Using the 'Wrong' Programming Approach on Leadership Computing Facility Systems," Wednesday
 
 The next webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Wrong Way: Lessons Learned and Possibilities for
 Using the 'Wrong' Programming Approach on Leadership Computing Facility
 Systems,"
-and will take place **Wednesday, February 16, at 10:00 am Pacific time.**
+and will take place **this Wednesday, February 16, at 10:00 am Pacific time.**
 
 In this webinar, Philip C. Roth (Oak Ridge National Laboratory)
 will discuss the impact of using a "wrong" programming approach for a given

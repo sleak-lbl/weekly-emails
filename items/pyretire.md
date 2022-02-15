@@ -1,7 +1,7 @@
-### Many Older Python Modules to be Retired on February 14
+### Many Older Python Modules Retired Today!
 
-Next Monday, February 14, 2022, we will retire the following Python modules
-provided on Cori by NERSC wil be retired:
+Today, February 14, 2022, we will retire the following Python modules
+provided on Cori by NERSC:
 - python/2.7-anaconda-4.4 (EOL)
 - python/2.7-anaconda-5.2 (EOL)
 - python/2.7-anaconda-2019.07 (EOL)

@@ -11,7 +11,7 @@ Markdown-formatted text documents in a public Git repository, that you can
 proposed edits to. In this talk we will give an overview of what you find in 
 NERSC user docs, and how you can contribute.
  
-Our agenda for December is:
+Our agenda for this month is:
 
 - **Win-of-the-month:** open discussion for attendees to tell of some 
   success you've had - e.g., getting a paper accepted, solving a problem, 

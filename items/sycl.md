@@ -6,11 +6,11 @@ means your standard C++ code can target Nvidia, AMD, and Intel GPUs from a
 single code base. Engineers from Codeplay have partnered with national labs to
 bring SYCL support to Perlmutter, Polaris, and Frontier.
 
-Join Codeplay engineers for a half-day, hands-on workshop covering the
-fundamentals of SYCL programming, including practical examples and exercises to
-help reinforce the concepts being learned. Attendees will learn how to compile
-their SYCL code using the DPC++ compiler to target Nvidia GPUs such as on
-Perlmutter. We'll end with useful tips to achieve good performance, including
+Join Codeplay engineers on March 1 for a half-day, hands-on workshop covering 
+the fundamentals of SYCL programming, including practical examples and exercises
+to help reinforce the concepts being learned. Attendees will learn how to 
+compile their SYCL code using the DPC++ compiler to target Nvidia GPUs such as 
+on Perlmutter. We'll end with useful tips to achieve good performance, including
 best practices for memory management, with free time for questions and
 discussions.
 
