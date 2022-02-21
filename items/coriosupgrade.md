@@ -1,4 +1,4 @@
-### (UPDATED) Cori OS Upgrade and New Default Environment in March 2022
+### Cori OS Upgrade and New Default Environment in March 2022
 
 In order to remain in compliance with minimum requirements for support from
 HPE/Cray, Cori will undergo an **operating system (OS) upgrade during the

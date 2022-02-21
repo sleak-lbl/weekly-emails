@@ -1,4 +1,4 @@
-### (NEW) Argonne Training Program on Extreme-Scale Computing Applications Due March 1!
+### Argonne Training Program on Extreme-Scale Computing Applications Due March 1!
 
 Are you a doctoral student, postdoc, or computational scientist looking for
 advanced training on the key skills, approaches, and tools to design, implement,
@@ -15,11 +15,5 @@ systems, and methodologies and tools relevant for Big Data applications. This
 year's program will be held July 31-August 12 in the Chicago area. There is no 
 cost to attend. Domestic airfare, meals, and lodging are provided.
 
-A webinar by the program director with an overview of the program and guidance 
-for applying will take place on Thursday. Please 
-[register](https://events.cels.anl.gov/event/258/) 
-if interested, even if you have a conflict; a recording will be available to all
-registrants.
-
 For more information and to apply, please see <https://extremecomputingtraining.anl.gov/>.
-**The application deadline is March 1, 2021**.
+**The application deadline is next Tuesday, March 1, 2021**.

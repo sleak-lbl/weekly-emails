@@ -1,4 +1,4 @@
-### (NEW) E4S Updates
+### E4S Updates
 
 #### E4S Versions 20.10 & 21.02 Will Be Deprecated upon Cori OS Upgrade in March
 

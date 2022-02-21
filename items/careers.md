@@ -4,6 +4,10 @@ NERSC currently has several openings for postdocs, system administrators, and
 more! If you are looking for new opportunities, please consider the following 
 openings:
 
+- [HPC Architecture and Performance Engineer](http://m.rfer.us/LBLX5J4eV):
+Contribute to the effort to develop a complete understanding of the issues
+leading to improved application and computer-system performance on 
+extreme-scale advanced architectures.
 - [Machine Learning Postdoctoral Fellow](http://m.rfer.us/LBL2sf4cR):
 Collaborate with computational and domain scientists to enable machine learning
 at scale on NERSC's Perlmutter supercomputer.
@@ -26,9 +30,9 @@ productive science output.
 multidisciplinary team of computational and domain scientists to speed up
 scientific codes on cutting-edge computing architectures.
 
-(**Note:** You can browse all our job openings by first navigating to 
-<https://jobs.lbl.gov/jobs/search/>. Under "Business," select "View More" 
-and scroll down to find and select the checkbox for "NE-NERSC".)
+(**Note:** You can browse all our job openings on the 
+[NERSC Careers](https://lbl.referrals.selectminds.com/page/nersc-careers-85)
+page, and all Berkeley Lab jobs at <https://jobs.lbl.gov>.)
 
 We know that NERSC users can make great NERSC employees! We look forward to 
 seeing your application.

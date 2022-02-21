@@ -1,6 +1,6 @@
-### NVIDIA Performance Tools for A100 GPU Systems Training on February 23
+### NVIDIA Performance Tools for A100 GPU Systems Training Wednesday
 
-As part of the ALCF Developer Sessions, there will be a training next Wednesday,
+As part of the ALCF Developer Sessions, there will be a training this Wednesday,
 February 23 on NVIDIA Performance Tools for A100 GPU Systems. NVIDIA Developer 
 Tools are available for detailed performance analysis of HPC applications 
 running on DVIDIA DGX A100 systems, such as Perlmutter and ALCF's ThetaGPU 
