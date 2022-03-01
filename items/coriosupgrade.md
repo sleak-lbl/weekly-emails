@@ -1,8 +1,8 @@
-### Cori OS Upgrade and New Default Environment in March 2022
+### Cori OS Upgrade and New Default Environment in Two Weeks
 
 In order to remain in compliance with minimum requirements for support from
 HPE/Cray, Cori will undergo an **operating system (OS) upgrade during the
-scheduled maintenance on March 16, 2022.**
+scheduled maintenance the week after next, on March 16, 2022.**
 
 At that time, we will also update the default user programming environment on
 Cori for the first time since January 2020. The default Cray Developer 

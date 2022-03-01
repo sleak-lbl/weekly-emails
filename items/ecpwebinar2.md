@@ -1,10 +1,10 @@
-### IDEAS-ECP Webinar on "Software Design Patterns in Research Software with Examples from OpenFOAM" March 9
+### IDEAS-ECP Webinar on "Software Design Patterns in Research Software with Examples from OpenFOAM" Next Wednesday
 
 The March webinar in the 
 [Best Practices for HPC Software Developers](http://ideas-productivity.org/events/hpc-best-practices-webinars/) 
 series is entitled "Software Design Patterns in Research Software with
 Examples from OpenFOAM",
-and will take place **Wednesday, March 9, at 10:00 am Pacific time.**
+and will take place **next Wednesday, March 9, at 10:00 am Pacific time.**
 
 In this webinar, Tomislav Marc (TU Darmstadt)
 will discuss beneficial software design patterns that provide a solid basis for 
