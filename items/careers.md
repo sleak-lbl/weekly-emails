@@ -3,6 +3,12 @@
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
 openings:
+- **NEW** [Linux Systems Administrator & DevOps Engineer](http://m.rfer.us/LBLUPg4hf):
+Help to build and manage container and virtual machine platforms and
+high-performance storage that complement the supercomputing environment.
+- **NEW** [Cyber Security Engineer](http://m.rfer.us/LBLa_B4hg):
+Join the team to help protect NERSC resources from malicious and unauthorized
+activity.
 - [Data & Analytics Team Group Leader](http://m.rfer.us/LBLxy24g4):
 Provide vision and guidance and lead a team that provides data management, 
 analytics and AI software, support, and expertise to NERSC users.
@@ -23,8 +29,6 @@ NERSC supercomputers.
 Collaborate with ECP math library and scientific application teams to enable the
 solution of deep, meaningful problems targeted by the ECP program and other
 DOE/Office of Science program areas.
-- [Cyber Security Engineer](http://m.rfer.us/LBLCw447V): Help protect 
-NERSC from malicious and unauthorized activity.
 - [Machine Learning Engineer](http://m.rfer.us/LBLXv743y): Apply machine
 learning and AI to NERSC systems to improve on their ability to deliver
 productive science output.
