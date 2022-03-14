@@ -3,10 +3,13 @@
 NERSC currently has several openings for postdocs, system administrators, and 
 more! If you are looking for new opportunities, please consider the following 
 openings:
-- **NEW** [Linux Systems Administrator & DevOps Engineer](http://m.rfer.us/LBLUPg4hf):
+- **NEW** [Software Integration Engineer](http://m.rfer.us/LBLqTa4jD):
+Help continue the development of a Continuous Integration infrastructure to 
+support software installation and testing on NERSC resources.
+- [Linux Systems Administrator & DevOps Engineer](http://m.rfer.us/LBLUPg4hf):
 Help to build and manage container and virtual machine platforms and
 high-performance storage that complement the supercomputing environment.
-- **NEW** [Cyber Security Engineer](http://m.rfer.us/LBLa_B4hg):
+- [Cyber Security Engineer](http://m.rfer.us/LBLa_B4hg):
 Join the team to help protect NERSC resources from malicious and unauthorized
 activity.
 - [Data & Analytics Team Group Leader](http://m.rfer.us/LBLxy24g4):
@@ -22,9 +25,6 @@ extreme-scale advanced architectures.
 - [Machine Learning Postdoctoral Fellow](http://m.rfer.us/LBL2sf4cR):
 Collaborate with computational and domain scientists to enable machine learning
 at scale on NERSC's Perlmutter supercomputer.
-- [Scientific Data Architect](http://m.rfer.us/LBLl2w4Fo):
-Collaborate with scientists to meet their Data, AI, and Analytics needs on
-NERSC supercomputers.
 - [Exascale Computing Postdoctoral Fellow](http://m.rfer.us/LBLeIu4BW):
 Collaborate with ECP math library and scientific application teams to enable the
 solution of deep, meaningful problems targeted by the ECP program and other

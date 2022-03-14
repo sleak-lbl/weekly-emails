@@ -2,7 +2,7 @@
 
 #### E4S Versions 20.10 & 21.02 Will Be Deprecated upon Cori OS Upgrade 
 
-Due to the [upgrade of the operating system on Cori next week](#coriosupgrade), 
+Due to the [upgrade of the operating system on Cori on Wednesday](#coriosupgrade), 
 the two earliest E4S versions on Cori, 20.10 and 21.02, will be deprecated at 
 that time. The module files for these versions have been updated to inform you 
 of this change. We encourage you to start using newer versions of E4S at this 
